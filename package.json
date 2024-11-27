@@ -57,7 +57,7 @@
     "build": "rimraf dist && npx tsc",
     "dev": "npm run build && concurrently \"npx tsc -w\" \"nodemon --exec ts-node src/server.ts\"",
     "devs": "nodemon --exec ts-node src/server.ts",
-    "prod": "node src/server.ts",
+    "prod": "ts-node src/server.ts",
     "start": "npm run build && node dist/index.js",
     "test": "vitest run --pool=forks",
     "test:unit": "vitest run --testNamePattern"
