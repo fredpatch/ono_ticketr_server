@@ -3826,3 +3826,5 @@
 [2024-11-27 08:57:32.818 PM] info:	HTTP Access Log
 [2024-11-27 08:57:32.818 PM] info:	@@ Latest events count fetched successfully
 [2024-11-27 08:57:32.820 PM] info:	HTTP Access Log
+[2024-11-27 09:13:58.618 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-27 09:14:06.920 PM] info:	@@ MONGO Database Connected
