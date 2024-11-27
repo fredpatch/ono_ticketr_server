@@ -68,8 +68,8 @@ server.use("/api/v1/notifications", notificationRoute);
 const swaggerDocs = swaggerJsdoc(swaggerOptions);
 server.use("/api-docs", swaggerUi.serve, swaggerUi.setup(swaggerDocs));
 
-server.get("/", (req, res) => {
-  res.status(200).send("Render deployment is working!");
+server.get("/health", (req, res) => {
+  res.status(200).send("OK");
 });
 
 // server start
