@@ -3,24 +3,24 @@ import express from "express";
 import helmet from "helmet";
 import morgan from "morgan";
 import cors from "cors";
-import { logger, requestLogger, errorLogger } from "../services/logs/logger.ts";
-import { httpLogger } from "../services/logs/httpLogger.ts";
+import { logger, requestLogger, errorLogger } from "../services/logs/logger";
+import { httpLogger } from "../services/logs/httpLogger";
 
 import swaggerJsdoc from "swagger-jsdoc";
 import swaggerUi from "swagger-ui-express";
-import authRoutes from "../controllers/authController.ts";
-import verifyJWT from "../utils/verifyJWT.ts";
-import dbConnect from "../services/database/db.ts";
-import { RequestProps } from "../types/index.ts";
-import dataRouter from "../routes/routes.ts";
+import authRoutes from "../controllers/authController";
+import verifyJWT from "../utils/verifyJWT";
+import dbConnect from "../services/database/db";
+import { RequestProps } from "../types/index";
+import dataRouter from "../routes/routes";
 import {
   errorHandler,
   limiter,
   rules,
   swaggerOptions,
-} from "../middlewares/index.ts";
+} from "../middlewares/index";
 import bodyParser from "body-parser";
-import notificationRoute from "../routes/notificationRoute.ts";
+import notificationRoute from "../routes/notificationRoute";
 
 // init env
 dotenv.config();
@@ -46,7 +46,7 @@ import "express-async-errors";
 server.use(errorHandler);
 
 // PORT
-let PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 5000;
 
 // Test route
 // server.get("/", (req, res) => {
@@ -67,6 +67,10 @@ server.use("/api/v1/notifications", notificationRoute);
 // Swagger
 const swaggerDocs = swaggerJsdoc(swaggerOptions);
 server.use("/api-docs", swaggerUi.serve, swaggerUi.setup(swaggerDocs));
+
+server.get("/", (req, res) => {
+  res.status(200).send("Render deployment is working!");
+});
 
 // server start
 server.listen(PORT, () => {

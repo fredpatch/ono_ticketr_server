@@ -3828,3 +3828,27 @@
 [2024-11-27 08:57:32.820 PM] info:	HTTP Access Log
 [2024-11-27 09:13:58.618 PM] info:	@@ Server started on http://localhost:5000
 [2024-11-27 09:14:06.920 PM] info:	@@ MONGO Database Connected
+[2024-11-27 10:01:25.437 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-27 10:01:32.677 PM] info:	@@ MONGO Database Connected
+[2024-11-27 10:02:06.226 PM] info:	@@ Cache miss for /api/v1/events/latest-events
+[2024-11-27 10:02:06.228 PM] info:	Fetching latest events...
+[2024-11-27 10:02:06.272 PM] info:	@@ Cache miss for /api/v1/events/trending-events
+[2024-11-27 10:02:06.279 PM] info:	@@ Cache miss for /api/v1/events/latest-events
+[2024-11-27 10:02:06.280 PM] info:	Fetching latest events...
+[2024-11-27 10:02:06.479 PM] info:	HTTP Access Log
+[2024-11-27 10:02:06.678 PM] info:	HTTP Access Log
+[2024-11-27 10:02:06.684 PM] info:	@@ Latest events fetched successfully
+[2024-11-27 10:02:06.686 PM] info:	@@ Caching /api/v1/events/latest-events
+[2024-11-27 10:02:06.689 PM] info:	HTTP Access Log
+[2024-11-27 10:02:06.691 PM] info:	@@ Trending events fetched successfully
+[2024-11-27 10:02:06.692 PM] info:	@@ Caching /api/v1/events/trending-events
+[2024-11-27 10:02:06.693 PM] info:	HTTP Access Log
+[2024-11-27 10:02:06.696 PM] info:	@@ Cache hit for /api/v1/events/trending-events
+[2024-11-27 10:02:06.698 PM] info:	HTTP Access Log
+[2024-11-27 10:02:06.912 PM] info:	@@ Latest events count fetched successfully
+[2024-11-27 10:02:06.914 PM] info:	HTTP Access Log
+[2024-11-27 10:02:07.777 PM] info:	@@ Latest events fetched successfully
+[2024-11-27 10:02:07.778 PM] info:	@@ Caching /api/v1/events/latest-events
+[2024-11-27 10:02:07.780 PM] info:	HTTP Access Log
+[2024-11-27 10:02:07.991 PM] info:	@@ Latest events count fetched successfully
+[2024-11-27 10:02:07.992 PM] info:	HTTP Access Log

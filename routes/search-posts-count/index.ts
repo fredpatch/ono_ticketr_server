@@ -1,5 +1,5 @@
-import Event from "../../models/Event.ts";
-import { logger } from "../../services/logs/logger.ts";
+import Event from "../../models/Event";
+import { logger } from "../../services/logs/logger";
 
 const search_posts_count = async (req: any, res: any) => {
   let { tag, query, author } = req.body;

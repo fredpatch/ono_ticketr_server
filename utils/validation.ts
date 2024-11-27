@@ -1,5 +1,5 @@
 // validation.js
-import { password_validation, email_validation } from "./index.ts";
+import { password_validation, email_validation } from "./index";
 
 const validateFullname = (fullname: any): string | null => {
   if (fullname.length <= 3) {

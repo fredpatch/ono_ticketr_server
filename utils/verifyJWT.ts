@@ -1,6 +1,6 @@
 import jwt from "jsonwebtoken";
 import dotenv from "dotenv";
-import { RequestProps } from "../types/index.ts";
+import { RequestProps } from "../types/index";
 
 dotenv.config();
 

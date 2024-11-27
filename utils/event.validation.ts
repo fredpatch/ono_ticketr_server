@@ -1,4 +1,4 @@
-import { EventValidationProps } from "../types/index.ts";
+import { EventValidationProps } from "../types/index";
 
 const validate_event = ({
   title,

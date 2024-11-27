@@ -1,13 +1,13 @@
-import formatDataToSend from "./formatDataToSend.ts";
-import generateUsername from "./generateUsername.ts";
-import { email_validation, password_validation } from "./regex.ts";
-import verifyJWT from "./verifyJWT.ts";
+import formatDataToSend from "./formatDataToSend";
+import generateUsername from "./generateUsername";
+import { email_validation, password_validation } from "./regex";
+import verifyJWT from "./verifyJWT";
 import {
   validateFullname,
   validateEmail,
   validatePassword,
-} from "./validation.ts";
-import validate_event from "./event.validation.ts";
+} from "./validation";
+import validate_event from "./event.validation";
 
 export {
   formatDataToSend,

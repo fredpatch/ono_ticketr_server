@@ -1,5 +1,5 @@
-import User from "../models/User.ts";
-import { UsernameGeneration } from "../types/index.ts";
+import User from "../models/User";
+import { UsernameGeneration } from "../types/index";
 
 // generate username
 const generateUsername = async ({ email }: UsernameGeneration) => {

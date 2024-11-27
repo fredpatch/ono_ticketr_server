@@ -1,5 +1,5 @@
 import mongoose from "mongoose";
-import { logger } from "../logs/logger.ts";
+import { logger } from "../logs/logger";
 import dotenv from "dotenv";
 
 // dotenv config

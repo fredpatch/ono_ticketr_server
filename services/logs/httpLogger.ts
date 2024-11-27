@@ -1,6 +1,6 @@
 import morgan from "morgan";
 import json from "morgan-json";
-import { logger } from "./logger.ts";
+import { logger } from "./logger";
 
 const format = json({
   method: ":method",

@@ -1,13 +1,13 @@
-import User from "../models/User.ts";
+import User from "../models/User";
 import bcrypt from "bcryptjs";
-import { logger } from "../services/logs/logger.ts";
-import formatDataToSend from "../utils/formatDataToSend.ts";
+import { logger } from "../services/logs/logger";
+import formatDataToSend from "../utils/formatDataToSend";
 import {
   validateEmail,
   validatePassword,
   validateFullname,
-} from "../utils/validation.ts";
-import generateUsername from "../utils/generateUsername.ts";
+} from "../utils/validation";
+import generateUsername from "../utils/generateUsername";
 
 interface RequestProps {
   req: any;
