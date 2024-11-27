@@ -1,0 +1,58 @@
+POST http://localhost:5000/api/v1/user/search-users
+Content-Type: application/json
+# Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3MWNlZTA5ZTY2MzcxMjhiZjgwNTI4MCIsImFkbWluIjp0cnVlLCJpYXQiOjE3MzAwOTc2MDIsImV4cCI6MTczMDE4NDAwMn0.NsvvMiJoB-MFJwG-XX05EPNkvQt5tSpEt2tZ5_fSrHU
+
+{
+    "query": "f.patchelli17"
+}
+
+    # "fullname": "jhonad radii" ,
+# {
+#     "email": "f.patchelli@gmail.com" ,
+#     "password": "Stella123"
+# }
+
+# {
+#     "username": "f.patchelli"
+# }
+
+# {
+#     "title":"Test event",
+#       "banner":"blob:http://localhost:3000/947cb5eb-e3be-47d2-9dec-d65ba6cc0ef0",
+#       "category":"",
+#       "content":[],
+#       "description":"Short des description",
+#       "endDateTime":"Wed Oct 30 2024 10:00:00 GMT+0100 (West Africa Standard Time) {}",
+#       "isFree":true,
+#       "location":"Entre nous bar",
+#       "price":0,
+#       "startDateTime":"Tue Oct 29 2024 08:30:00 GMT+0100 (West Africa Standard Time) {}",
+#       "tags":["tags", "showcase"],
+#       "author":"",
+#       "url":""
+# }
+
+# {
+#     "fullname":"Jhonny Patson" ,
+#     "email": "jhon@gmail.com" ,
+#     "password": "Joh2n4123"
+# }
+
+
+# eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3MWMzNDZkMWJkNTUwNTEzNGE2MTEzMSIsImFkbWluIjp0cnVlLCJpYXQiOjE3Mjk5MDE5NjgsImV4cCI6MTcyOTk4ODM2OH0.gqK5u36fANQhNR_Z_Rxvz5XTlHZQnZuNGmPZZN_aNi8
+
+# {
+# #   "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3MWNkYmI3MzlkM2FjNTI5OTEzYmQxYiIsImFkbWluIjpmYWxzZSwiaWF0IjoxNzI5OTQ0NTAzLCJleHAiOjE3MzAwMzA5MDN9.lCZEjGqf3x849dBftEnPZKN3UcAfh0kUuRY3MaJwGlU",
+# #   "profile_img": "https://api.dicebear.com/6.x/fun-emoji/svg?seed=Abby",
+# #   "username": "patrick",
+# #   "fullname": "jhonad radii",
+# #   "isAdmin": false
+# # }
+
+# {
+#   "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3MWNkZTYxNmNlNDBjMzhlYmIxYTgwOSIsImFkbWluIjpmYWxzZSwiaWF0IjoxNzI5OTQ1MTg2LCJleHAiOjE3MzAwMzE1ODZ9.jjihiAW6DnFGB2q-zBL8Dmu0IuDYXPWWCVNIARGWx3w",
+#   "profile_img": "https://api.dicebear.com/6.x/fun-emoji/svg?seed=Angel",
+#   "username": "jhon",
+#   "fullname": "jhonny patson",
+#   "isAdmin": true
+# }

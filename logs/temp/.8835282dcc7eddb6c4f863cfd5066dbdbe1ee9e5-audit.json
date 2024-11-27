@@ -1,0 +1,35 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 15
+    },
+    "auditLog": "logs\\temp\\.8835282dcc7eddb6c4f863cfd5066dbdbe1ee9e5-audit.json",
+    "files": [
+        {
+            "date": 1731724076082,
+            "name": "logs\\temp\\app-rejection-log-2024-11-16.log",
+            "hash": "5142a114997b0a75f4b288991597c91198b485bff51636f9660a8b0ec756d378"
+        },
+        {
+            "date": 1731800767633,
+            "name": "logs\\temp\\app-rejection-log-2024-11-17.log",
+            "hash": "88fafdf366184f4fabd573e2da458ce29469540f4e1d7268a6d086ec5dc136bf"
+        },
+        {
+            "date": 1732470830647,
+            "name": "logs\\temp\\app-rejection-log-2024-11-24.log",
+            "hash": "cf102e7b2856556eb4a1e5822ddaf5eae3e22571cb4c685153bb1e2a9a579814"
+        },
+        {
+            "date": 1732612163014,
+            "name": "logs\\temp\\app-rejection-log-2024-11-26.log",
+            "hash": "de9dd9d3cbbf904d996d196078d660b99f9fa34fd207b740102366896760be04"
+        },
+        {
+            "date": 1732703904655,
+            "name": "logs\\temp\\app-rejection-log-2024-11-27.log",
+            "hash": "411ba3fc7b8d186cfd98e3aa93fa733ebe7799b5cf8e31c47df081faadb41988"
+        }
+    ],
+    "hashType": "sha256"
+}

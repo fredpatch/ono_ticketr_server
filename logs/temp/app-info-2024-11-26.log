@@ -1,0 +1,1019 @@
+[2024-11-26 10:09:27.932 AM] info:	@@ Server started on http://localhost:5000
+[2024-11-26 10:09:30.100 AM] info:	@@ MONGO Database Connected
+[2024-11-26 10:09:39.232 AM] info:	@@ Cache miss for /api/v1/events/trending-events
+[2024-11-26 10:09:39.292 AM] info:	@@ Cache miss for /api/v1/events/latest-events
+[2024-11-26 10:09:39.298 AM] info:	Fetching latest events...
+[2024-11-26 10:09:39.304 AM] info:	@@ Cache miss for /api/v1/events/latest-events
+[2024-11-26 10:09:39.305 AM] info:	Fetching latest events...
+[2024-11-26 10:09:39.452 AM] info:	HTTP Access Log
+[2024-11-26 10:09:39.642 AM] info:	@@ Trending events fetched successfully
+[2024-11-26 10:09:39.644 AM] info:	@@ Caching /api/v1/events/trending-events
+[2024-11-26 10:09:39.647 AM] info:	HTTP Access Log
+[2024-11-26 10:09:39.650 AM] info:	HTTP Access Log
+[2024-11-26 10:09:39.658 AM] info:	@@ Cache hit for /api/v1/events/trending-events
+[2024-11-26 10:09:39.660 AM] info:	HTTP Access Log
+[2024-11-26 10:09:39.710 AM] info:	@@ Latest events fetched successfully
+[2024-11-26 10:09:39.712 AM] info:	@@ Caching /api/v1/events/latest-events
+[2024-11-26 10:09:39.715 AM] info:	HTTP Access Log
+[2024-11-26 10:09:39.915 AM] info:	@@ Latest events count fetched successfully
+[2024-11-26 10:09:39.917 AM] info:	HTTP Access Log
+[2024-11-26 10:09:40.690 AM] info:	@@ Latest events fetched successfully
+[2024-11-26 10:09:40.691 AM] info:	@@ Caching /api/v1/events/latest-events
+[2024-11-26 10:09:40.693 AM] info:	HTTP Access Log
+[2024-11-26 10:09:40.890 AM] info:	@@ Latest events count fetched successfully
+[2024-11-26 10:09:40.891 AM] info:	HTTP Access Log
+[2024-11-26 10:09:54.206 AM] info:	@@ EVENTS fetched successfully
+[2024-11-26 10:09:54.208 AM] info:	HTTP Access Log
+[2024-11-26 10:09:54.210 AM] info:	@@ EVENTS fetched successfully
+[2024-11-26 10:09:54.212 AM] info:	HTTP Access Log
+[2024-11-26 10:09:54.217 AM] info:	@@ EVENTS fetched successfully
+[2024-11-26 10:09:54.219 AM] info:	HTTP Access Log
+[2024-11-26 10:09:54.234 AM] info:	@@ EVENTS fetched successfully
+[2024-11-26 10:09:54.235 AM] info:	HTTP Access Log
+[2024-11-26 10:09:54.505 AM] info:	@@ Events count fetched successfully
+[2024-11-26 10:09:54.506 AM] info:	HTTP Access Log
+[2024-11-26 10:09:54.507 AM] info:	@@ Events count fetched successfully
+[2024-11-26 10:09:54.509 AM] info:	HTTP Access Log
+[2024-11-26 10:09:54.510 AM] info:	@@ Events count fetched successfully
+[2024-11-26 10:09:54.512 AM] info:	HTTP Access Log
+[2024-11-26 10:09:54.513 AM] info:	@@ Events count fetched successfully
+[2024-11-26 10:09:54.514 AM] info:	HTTP Access Log
+[2024-11-26 10:09:54.740 AM] info:	@@ EVENTS fetched successfully
+[2024-11-26 10:09:54.742 AM] info:	HTTP Access Log
+[2024-11-26 10:09:54.935 AM] info:	@@ Events count fetched successfully
+[2024-11-26 10:09:54.936 AM] info:	HTTP Access Log
+[2024-11-26 10:09:55.260 AM] info:	HTTP Access Log
+[2024-11-26 10:09:55.449 AM] info:	HTTP Access Log
+[2024-11-26 10:50:20.415 AM] info:	HTTP Access Log
+[2024-11-26 10:50:20.417 AM] info:	HTTP Access Log
+[2024-11-26 10:50:59.692 AM] info:	@@ Cache miss for /api/v1/events/latest-events
+[2024-11-26 10:50:59.692 AM] info:	Fetching latest events...
+[2024-11-26 10:50:59.695 AM] info:	@@ Cache miss for /api/v1/events/trending-events
+[2024-11-26 10:50:59.703 AM] info:	@@ Cache miss for /api/v1/events/latest-events
+[2024-11-26 10:50:59.703 AM] info:	Fetching latest events...
+[2024-11-26 10:50:59.862 AM] info:	HTTP Access Log
+[2024-11-26 10:51:00.068 AM] info:	HTTP Access Log
+[2024-11-26 10:51:00.085 AM] info:	@@ Latest events fetched successfully
+[2024-11-26 10:51:00.086 AM] info:	@@ Caching /api/v1/events/latest-events
+[2024-11-26 10:51:00.087 AM] info:	HTTP Access Log
+[2024-11-26 10:51:00.088 AM] info:	@@ Trending events fetched successfully
+[2024-11-26 10:51:00.089 AM] info:	@@ Caching /api/v1/events/trending-events
+[2024-11-26 10:51:00.090 AM] info:	HTTP Access Log
+[2024-11-26 10:51:00.092 AM] info:	@@ Latest events fetched successfully
+[2024-11-26 10:51:00.093 AM] info:	@@ Caching /api/v1/events/latest-events
+[2024-11-26 10:51:00.095 AM] info:	HTTP Access Log
+[2024-11-26 10:51:00.097 AM] info:	@@ Cache hit for /api/v1/events/trending-events
+[2024-11-26 10:51:00.098 AM] info:	HTTP Access Log
+[2024-11-26 10:51:00.288 AM] info:	@@ Latest events count fetched successfully
+[2024-11-26 10:51:00.289 AM] info:	HTTP Access Log
+[2024-11-26 10:51:00.306 AM] info:	@@ Latest events count fetched successfully
+[2024-11-26 10:51:00.307 AM] info:	HTTP Access Log
+[2024-11-26 10:51:05.618 AM] info:	@@ Cache hit for /api/v1/events/latest-events
+[2024-11-26 10:51:05.619 AM] info:	HTTP Access Log
+[2024-11-26 10:51:05.621 AM] info:	@@ Cache hit for /api/v1/events/trending-events
+[2024-11-26 10:51:05.623 AM] info:	HTTP Access Log
+[2024-11-26 10:51:05.638 AM] info:	@@ Cache hit for /api/v1/events/latest-events
+[2024-11-26 10:51:05.639 AM] info:	HTTP Access Log
+[2024-11-26 10:51:05.653 AM] info:	@@ Cache hit for /api/v1/events/trending-events
+[2024-11-26 10:51:05.654 AM] info:	HTTP Access Log
+[2024-11-26 10:51:06.776 AM] info:	HTTP Access Log
+[2024-11-26 10:51:06.778 AM] info:	@@ Latest events count fetched successfully
+[2024-11-26 10:51:06.779 AM] info:	HTTP Access Log
+[2024-11-26 10:51:06.780 AM] info:	@@ Latest events count fetched successfully
+[2024-11-26 10:51:06.781 AM] info:	HTTP Access Log
+[2024-11-26 10:51:06.974 AM] info:	HTTP Access Log
+[2024-11-26 10:51:26.379 AM] info:	@@ Cache hit for /api/v1/events/latest-events
+[2024-11-26 10:51:26.380 AM] info:	HTTP Access Log
+[2024-11-26 10:51:26.382 AM] info:	@@ Cache hit for /api/v1/events/trending-events
+[2024-11-26 10:51:26.383 AM] info:	HTTP Access Log
+[2024-11-26 10:51:26.384 AM] info:	@@ Cache hit for /api/v1/events/latest-events
+[2024-11-26 10:51:26.385 AM] info:	HTTP Access Log
+[2024-11-26 10:51:26.387 AM] info:	@@ Cache hit for /api/v1/events/trending-events
+[2024-11-26 10:51:26.388 AM] info:	HTTP Access Log
+[2024-11-26 10:51:26.571 AM] info:	HTTP Access Log
+[2024-11-26 10:51:26.603 AM] info:	@@ Latest events count fetched successfully
+[2024-11-26 10:51:26.605 AM] info:	HTTP Access Log
+[2024-11-26 10:51:26.606 AM] info:	@@ Latest events count fetched successfully
+[2024-11-26 10:51:26.607 AM] info:	HTTP Access Log
+[2024-11-26 10:51:26.761 AM] info:	HTTP Access Log
+[2024-11-26 10:52:58.918 AM] info:	@@ Cache miss for /api/v1/events/trending-events
+[2024-11-26 10:52:58.922 AM] info:	@@ Cache miss for /api/v1/events/latest-events
+[2024-11-26 10:52:58.922 AM] info:	Fetching latest events...
+[2024-11-26 10:52:58.926 AM] info:	@@ Cache miss for /api/v1/events/latest-events
+[2024-11-26 10:52:58.927 AM] info:	Fetching latest events...
+[2024-11-26 10:52:59.102 AM] info:	HTTP Access Log
+[2024-11-26 10:52:59.298 AM] info:	@@ Trending events fetched successfully
+[2024-11-26 10:52:59.299 AM] info:	@@ Caching /api/v1/events/trending-events
+[2024-11-26 10:52:59.300 AM] info:	HTTP Access Log
+[2024-11-26 10:52:59.302 AM] info:	HTTP Access Log
+[2024-11-26 10:52:59.304 AM] info:	@@ Cache hit for /api/v1/events/trending-events
+[2024-11-26 10:52:59.305 AM] info:	HTTP Access Log
+[2024-11-26 10:52:59.310 AM] info:	@@ Latest events fetched successfully
+[2024-11-26 10:52:59.311 AM] info:	@@ Caching /api/v1/events/latest-events
+[2024-11-26 10:52:59.312 AM] info:	HTTP Access Log
+[2024-11-26 10:52:59.314 AM] info:	@@ Latest events fetched successfully
+[2024-11-26 10:52:59.314 AM] info:	@@ Caching /api/v1/events/latest-events
+[2024-11-26 10:52:59.315 AM] info:	HTTP Access Log
+[2024-11-26 10:52:59.522 AM] info:	@@ Latest events count fetched successfully
+[2024-11-26 10:52:59.523 AM] info:	HTTP Access Log
+[2024-11-26 10:52:59.529 AM] info:	@@ Latest events count fetched successfully
+[2024-11-26 10:52:59.531 AM] info:	HTTP Access Log
+[2024-11-26 10:53:23.716 AM] info:	@@ Cache hit for /api/v1/events/latest-events
+[2024-11-26 10:53:23.717 AM] info:	HTTP Access Log
+[2024-11-26 10:53:23.719 AM] info:	@@ Cache hit for /api/v1/events/trending-events
+[2024-11-26 10:53:23.720 AM] info:	HTTP Access Log
+[2024-11-26 10:53:23.722 AM] info:	@@ Cache hit for /api/v1/events/latest-events
+[2024-11-26 10:53:23.723 AM] info:	HTTP Access Log
+[2024-11-26 10:53:23.725 AM] info:	@@ Cache hit for /api/v1/events/trending-events
+[2024-11-26 10:53:23.727 AM] info:	HTTP Access Log
+[2024-11-26 10:53:23.938 AM] info:	HTTP Access Log
+[2024-11-26 10:53:23.938 AM] info:	@@ Latest events count fetched successfully
+[2024-11-26 10:53:23.939 AM] info:	HTTP Access Log
+[2024-11-26 10:53:23.956 AM] info:	@@ Latest events count fetched successfully
+[2024-11-26 10:53:23.958 AM] info:	HTTP Access Log
+[2024-11-26 10:53:24.129 AM] info:	HTTP Access Log
+[2024-11-26 10:53:29.846 AM] info:	@@ Cache hit for /api/v1/events/latest-events
+[2024-11-26 10:53:29.848 AM] info:	HTTP Access Log
+[2024-11-26 10:53:29.849 AM] info:	@@ Cache hit for /api/v1/events/trending-events
+[2024-11-26 10:53:29.850 AM] info:	HTTP Access Log
+[2024-11-26 10:53:29.857 AM] info:	@@ Cache hit for /api/v1/events/latest-events
+[2024-11-26 10:53:29.859 AM] info:	HTTP Access Log
+[2024-11-26 10:53:29.860 AM] info:	@@ Cache hit for /api/v1/events/trending-events
+[2024-11-26 10:53:29.861 AM] info:	HTTP Access Log
+[2024-11-26 10:53:30.031 AM] info:	HTTP Access Log
+[2024-11-26 10:53:30.093 AM] info:	@@ Latest events count fetched successfully
+[2024-11-26 10:53:30.095 AM] info:	HTTP Access Log
+[2024-11-26 10:53:30.097 AM] info:	@@ Latest events count fetched successfully
+[2024-11-26 10:53:30.098 AM] info:	HTTP Access Log
+[2024-11-26 10:53:30.254 AM] info:	HTTP Access Log
+[2024-11-26 10:53:41.770 AM] info:	@@ Cache hit for /api/v1/events/latest-events
+[2024-11-26 10:53:41.773 AM] info:	HTTP Access Log
+[2024-11-26 10:53:41.778 AM] info:	@@ Cache hit for /api/v1/events/latest-events
+[2024-11-26 10:53:41.779 AM] info:	HTTP Access Log
+[2024-11-26 10:53:41.780 AM] info:	@@ Cache hit for /api/v1/events/trending-events
+[2024-11-26 10:53:41.782 AM] info:	HTTP Access Log
+[2024-11-26 10:53:41.783 AM] info:	@@ Cache hit for /api/v1/events/trending-events
+[2024-11-26 10:53:41.784 AM] info:	HTTP Access Log
+[2024-11-26 10:53:41.957 AM] info:	HTTP Access Log
+[2024-11-26 10:53:41.983 AM] info:	@@ Latest events count fetched successfully
+[2024-11-26 10:53:41.984 AM] info:	HTTP Access Log
+[2024-11-26 10:53:41.985 AM] info:	@@ Latest events count fetched successfully
+[2024-11-26 10:53:41.986 AM] info:	HTTP Access Log
+[2024-11-26 10:53:42.147 AM] info:	HTTP Access Log
+[2024-11-26 10:55:13.980 AM] info:	HTTP Access Log
+[2024-11-26 10:55:14.334 AM] info:	HTTP Access Log
+[2024-11-26 10:55:15.077 AM] info:	@@ Event fetched successfully
+[2024-11-26 10:55:15.078 AM] info:	HTTP Access Log
+[2024-11-26 10:55:15.353 AM] info:	HTTP Access Log
+[2024-11-26 10:55:15.354 AM] info:	@@ Search posts fetched successfully
+[2024-11-26 10:55:15.355 AM] info:	HTTP Access Log
+[2024-11-26 10:55:15.356 AM] info:	HTTP Access Log
+[2024-11-26 10:59:05.354 AM] info:	HTTP Access Log
+[2024-11-26 10:59:05.361 AM] info:	HTTP Access Log
+[2024-11-26 11:00:54.576 AM] info:	HTTP Access Log
+[2024-11-26 11:00:54.578 AM] info:	HTTP Access Log
+[2024-11-26 11:01:31.573 AM] info:	HTTP Access Log
+[2024-11-26 11:01:31.576 AM] info:	HTTP Access Log
+[2024-11-26 11:16:24.718 AM] info:	HTTP Access Log
+[2024-11-26 11:16:24.721 AM] info:	HTTP Access Log
+[2024-11-26 11:16:40.695 AM] info:	HTTP Access Log
+[2024-11-26 11:16:40.698 AM] info:	HTTP Access Log
+[2024-11-26 11:18:25.762 AM] info:	HTTP Access Log
+[2024-11-26 11:18:25.767 AM] info:	HTTP Access Log
+[2024-11-26 11:27:44.989 AM] info:	HTTP Access Log
+[2024-11-26 11:27:44.992 AM] info:	HTTP Access Log
+[2024-11-26 11:27:56.522 AM] info:	HTTP Access Log
+[2024-11-26 11:27:56.524 AM] info:	HTTP Access Log
+[2024-11-26 11:28:53.537 AM] info:	HTTP Access Log
+[2024-11-26 11:28:53.543 AM] info:	HTTP Access Log
+[2024-11-26 11:28:53.599 AM] info:	HTTP Access Log
+[2024-11-26 11:28:53.603 AM] info:	HTTP Access Log
+[2024-11-26 11:29:09.308 AM] info:	HTTP Access Log
+[2024-11-26 11:29:09.313 AM] info:	HTTP Access Log
+[2024-11-26 11:29:22.784 AM] info:	HTTP Access Log
+[2024-11-26 11:29:22.788 AM] info:	HTTP Access Log
+[2024-11-26 11:29:35.545 AM] info:	HTTP Access Log
+[2024-11-26 11:29:35.548 AM] info:	HTTP Access Log
+[2024-11-26 11:29:35.606 AM] info:	HTTP Access Log
+[2024-11-26 11:29:35.612 AM] info:	HTTP Access Log
+[2024-11-26 11:30:10.838 AM] info:	HTTP Access Log
+[2024-11-26 11:30:10.843 AM] info:	HTTP Access Log
+[2024-11-26 11:30:10.931 AM] info:	HTTP Access Log
+[2024-11-26 11:30:10.938 AM] info:	HTTP Access Log
+[2024-11-26 11:31:02.677 AM] info:	HTTP Access Log
+[2024-11-26 11:31:02.680 AM] info:	HTTP Access Log
+[2024-11-26 11:31:02.773 AM] info:	HTTP Access Log
+[2024-11-26 11:31:02.777 AM] info:	HTTP Access Log
+[2024-11-26 11:31:34.080 AM] info:	HTTP Access Log
+[2024-11-26 11:31:34.085 AM] info:	HTTP Access Log
+[2024-11-26 11:31:38.263 AM] info:	HTTP Access Log
+[2024-11-26 11:31:38.269 AM] info:	HTTP Access Log
+[2024-11-26 11:32:55.217 AM] info:	HTTP Access Log
+[2024-11-26 11:32:55.219 AM] info:	HTTP Access Log
+[2024-11-26 11:32:57.150 AM] info:	HTTP Access Log
+[2024-11-26 11:32:57.155 AM] info:	HTTP Access Log
+[2024-11-26 11:32:58.296 AM] info:	HTTP Access Log
+[2024-11-26 11:32:58.298 AM] info:	HTTP Access Log
+[2024-11-26 11:33:16.364 AM] info:	@@ Cache miss for /api/v1/events/latest-events
+[2024-11-26 11:33:16.365 AM] info:	Fetching latest events...
+[2024-11-26 11:33:16.368 AM] info:	@@ Cache miss for /api/v1/events/trending-events
+[2024-11-26 11:33:16.382 AM] info:	@@ Cache miss for /api/v1/events/latest-events
+[2024-11-26 11:33:16.383 AM] info:	Fetching latest events...
+[2024-11-26 11:33:16.538 AM] info:	HTTP Access Log
+[2024-11-26 11:33:16.729 AM] info:	HTTP Access Log
+[2024-11-26 11:33:16.753 AM] info:	@@ Latest events fetched successfully
+[2024-11-26 11:33:16.754 AM] info:	@@ Caching /api/v1/events/latest-events
+[2024-11-26 11:33:16.755 AM] info:	HTTP Access Log
+[2024-11-26 11:33:16.757 AM] info:	@@ Trending events fetched successfully
+[2024-11-26 11:33:16.757 AM] info:	@@ Caching /api/v1/events/trending-events
+[2024-11-26 11:33:16.758 AM] info:	HTTP Access Log
+[2024-11-26 11:33:16.760 AM] info:	@@ Cache hit for /api/v1/events/trending-events
+[2024-11-26 11:33:16.762 AM] info:	HTTP Access Log
+[2024-11-26 11:33:16.765 AM] info:	@@ Latest events fetched successfully
+[2024-11-26 11:33:16.766 AM] info:	@@ Caching /api/v1/events/latest-events
+[2024-11-26 11:33:16.767 AM] info:	HTTP Access Log
+[2024-11-26 11:33:17.044 AM] info:	@@ Latest events count fetched successfully
+[2024-11-26 11:33:17.045 AM] info:	HTTP Access Log
+[2024-11-26 11:33:17.046 AM] info:	@@ Latest events count fetched successfully
+[2024-11-26 11:33:17.046 AM] info:	HTTP Access Log
+[2024-11-26 11:34:44.523 AM] info:	@@ Cache hit for /api/v1/events/trending-events
+[2024-11-26 11:34:44.525 AM] info:	HTTP Access Log
+[2024-11-26 11:34:44.526 AM] info:	@@ Cache hit for /api/v1/events/latest-events
+[2024-11-26 11:34:44.528 AM] info:	HTTP Access Log
+[2024-11-26 11:34:44.529 AM] info:	@@ Cache hit for /api/v1/events/latest-events
+[2024-11-26 11:34:44.530 AM] info:	HTTP Access Log
+[2024-11-26 11:34:44.535 AM] info:	@@ Cache hit for /api/v1/events/trending-events
+[2024-11-26 11:34:44.536 AM] info:	HTTP Access Log
+[2024-11-26 11:34:44.721 AM] info:	HTTP Access Log
+[2024-11-26 11:34:44.739 AM] info:	@@ Latest events count fetched successfully
+[2024-11-26 11:34:44.740 AM] info:	HTTP Access Log
+[2024-11-26 11:34:44.744 AM] info:	@@ Latest events count fetched successfully
+[2024-11-26 11:34:44.745 AM] info:	HTTP Access Log
+[2024-11-26 11:34:44.913 AM] info:	HTTP Access Log
+[2024-11-26 11:34:49.440 AM] info:	HTTP Access Log
+[2024-11-26 11:34:49.630 AM] info:	HTTP Access Log
+[2024-11-26 11:34:50.498 AM] info:	@@ Event fetched successfully
+[2024-11-26 11:34:50.500 AM] info:	HTTP Access Log
+[2024-11-26 11:34:50.696 AM] info:	@@ Search posts fetched successfully
+[2024-11-26 11:34:50.697 AM] info:	HTTP Access Log
+[2024-11-26 11:34:50.709 AM] info:	HTTP Access Log
+[2024-11-26 11:34:50.712 AM] info:	HTTP Access Log
+[2024-11-26 11:35:58.757 AM] info:	HTTP Access Log
+[2024-11-26 11:35:58.760 AM] info:	HTTP Access Log
+[2024-11-26 11:37:29.225 AM] info:	HTTP Access Log
+[2024-11-26 11:37:29.227 AM] info:	HTTP Access Log
+[2024-11-26 11:37:40.743 AM] info:	HTTP Access Log
+[2024-11-26 11:37:40.745 AM] info:	HTTP Access Log
+[2024-11-26 11:46:04.226 AM] info:	HTTP Access Log
+[2024-11-26 11:46:04.229 AM] info:	HTTP Access Log
+[2024-11-26 11:46:10.261 AM] info:	HTTP Access Log
+[2024-11-26 11:46:10.263 AM] info:	HTTP Access Log
+[2024-11-26 11:50:24.450 AM] info:	HTTP Access Log
+[2024-11-26 11:50:24.453 AM] info:	HTTP Access Log
+[2024-11-26 11:51:43.972 AM] info:	HTTP Access Log
+[2024-11-26 11:51:43.975 AM] info:	HTTP Access Log
+[2024-11-26 11:52:01.015 AM] info:	HTTP Access Log
+[2024-11-26 11:52:01.018 AM] info:	HTTP Access Log
+[2024-11-26 11:52:21.334 AM] info:	HTTP Access Log
+[2024-11-26 11:52:21.337 AM] info:	HTTP Access Log
+[2024-11-26 11:52:30.888 AM] info:	HTTP Access Log
+[2024-11-26 11:52:30.891 AM] info:	HTTP Access Log
+[2024-11-26 11:53:13.935 AM] info:	HTTP Access Log
+[2024-11-26 11:53:13.938 AM] info:	HTTP Access Log
+[2024-11-26 11:53:17.424 AM] info:	HTTP Access Log
+[2024-11-26 11:53:17.428 AM] info:	HTTP Access Log
+[2024-11-26 11:56:21.341 AM] info:	HTTP Access Log
+[2024-11-26 11:56:21.345 AM] info:	HTTP Access Log
+[2024-11-26 11:56:42.441 AM] info:	HTTP Access Log
+[2024-11-26 11:56:42.447 AM] info:	HTTP Access Log
+[2024-11-26 12:32:43.584 PM] info:	@@ MongoDB connection opened
+[2024-11-26 12:53:43.458 PM] info:	@@ Cache miss for /api/v1/events/trending-events
+[2024-11-26 12:53:43.503 PM] info:	@@ Cache miss for /api/v1/events/latest-events
+[2024-11-26 12:53:43.504 PM] info:	Fetching latest events...
+[2024-11-26 12:53:43.508 PM] info:	@@ Cache miss for /api/v1/events/latest-events
+[2024-11-26 12:53:43.509 PM] info:	Fetching latest events...
+[2024-11-26 12:53:44.853 PM] info:	HTTP Access Log
+[2024-11-26 12:53:45.057 PM] info:	HTTP Access Log
+[2024-11-26 12:53:45.103 PM] info:	@@ Trending events fetched successfully
+[2024-11-26 12:53:45.103 PM] info:	@@ Caching /api/v1/events/trending-events
+[2024-11-26 12:53:45.104 PM] info:	HTTP Access Log
+[2024-11-26 12:53:45.106 PM] info:	@@ Cache hit for /api/v1/events/trending-events
+[2024-11-26 12:53:45.107 PM] info:	HTTP Access Log
+[2024-11-26 12:53:46.009 PM] info:	@@ Latest events fetched successfully
+[2024-11-26 12:53:46.010 PM] info:	@@ Caching /api/v1/events/latest-events
+[2024-11-26 12:53:46.011 PM] info:	HTTP Access Log
+[2024-11-26 12:53:46.058 PM] info:	@@ Latest events fetched successfully
+[2024-11-26 12:53:46.059 PM] info:	@@ Caching /api/v1/events/latest-events
+[2024-11-26 12:53:46.060 PM] info:	HTTP Access Log
+[2024-11-26 12:53:46.239 PM] info:	@@ Latest events count fetched successfully
+[2024-11-26 12:53:46.240 PM] info:	HTTP Access Log
+[2024-11-26 12:53:46.250 PM] info:	@@ Latest events count fetched successfully
+[2024-11-26 12:53:46.251 PM] info:	HTTP Access Log
+[2024-11-26 12:53:50.278 PM] info:	HTTP Access Log
+[2024-11-26 12:53:50.894 PM] info:	HTTP Access Log
+[2024-11-26 12:53:51.270 PM] info:	@@ Event fetched successfully
+[2024-11-26 12:53:51.271 PM] info:	HTTP Access Log
+[2024-11-26 12:53:51.464 PM] info:	@@ Search posts fetched successfully
+[2024-11-26 12:53:51.465 PM] info:	HTTP Access Log
+[2024-11-26 12:53:51.483 PM] info:	HTTP Access Log
+[2024-11-26 12:53:51.486 PM] info:	HTTP Access Log
+[2024-11-26 01:35:30.728 PM] info:	@@ Cache miss for /api/v1/events/latest-events
+[2024-11-26 01:35:30.729 PM] info:	Fetching latest events...
+[2024-11-26 01:35:30.733 PM] info:	@@ Cache miss for /api/v1/events/trending-events
+[2024-11-26 01:35:30.742 PM] info:	@@ Cache miss for /api/v1/events/latest-events
+[2024-11-26 01:35:30.743 PM] info:	Fetching latest events...
+[2024-11-26 01:35:30.906 PM] info:	HTTP Access Log
+[2024-11-26 01:35:31.096 PM] info:	HTTP Access Log
+[2024-11-26 01:35:31.111 PM] info:	@@ Latest events fetched successfully
+[2024-11-26 01:35:31.112 PM] info:	@@ Caching /api/v1/events/latest-events
+[2024-11-26 01:35:31.113 PM] info:	HTTP Access Log
+[2024-11-26 01:35:31.114 PM] info:	@@ Trending events fetched successfully
+[2024-11-26 01:35:31.114 PM] info:	@@ Caching /api/v1/events/trending-events
+[2024-11-26 01:35:31.115 PM] info:	HTTP Access Log
+[2024-11-26 01:35:31.116 PM] info:	@@ Cache hit for /api/v1/events/trending-events
+[2024-11-26 01:35:31.118 PM] info:	HTTP Access Log
+[2024-11-26 01:35:31.122 PM] info:	@@ Latest events fetched successfully
+[2024-11-26 01:35:31.123 PM] info:	@@ Caching /api/v1/events/latest-events
+[2024-11-26 01:35:31.124 PM] info:	HTTP Access Log
+[2024-11-26 01:35:31.313 PM] info:	@@ Latest events count fetched successfully
+[2024-11-26 01:35:31.314 PM] info:	HTTP Access Log
+[2024-11-26 01:35:31.342 PM] info:	@@ Latest events count fetched successfully
+[2024-11-26 01:35:31.344 PM] info:	HTTP Access Log
+[2024-11-26 01:35:33.921 PM] info:	HTTP Access Log
+[2024-11-26 01:35:34.112 PM] info:	HTTP Access Log
+[2024-11-26 01:35:34.529 PM] info:	@@ Event fetched successfully
+[2024-11-26 01:35:34.531 PM] info:	HTTP Access Log
+[2024-11-26 01:35:34.724 PM] info:	@@ Search posts fetched successfully
+[2024-11-26 01:35:34.725 PM] info:	HTTP Access Log
+[2024-11-26 01:35:34.740 PM] info:	HTTP Access Log
+[2024-11-26 01:35:34.744 PM] info:	HTTP Access Log
+[2024-11-26 01:42:43.155 PM] info:	HTTP Access Log
+[2024-11-26 01:42:43.158 PM] info:	HTTP Access Log
+[2024-11-26 01:43:17.937 PM] info:	HTTP Access Log
+[2024-11-26 01:43:17.953 PM] info:	HTTP Access Log
+[2024-11-26 01:43:54.835 PM] info:	HTTP Access Log
+[2024-11-26 01:43:54.838 PM] info:	HTTP Access Log
+[2024-11-26 01:46:31.903 PM] info:	HTTP Access Log
+[2024-11-26 01:46:31.943 PM] info:	HTTP Access Log
+[2024-11-26 01:46:37.049 PM] info:	HTTP Access Log
+[2024-11-26 01:46:37.053 PM] info:	HTTP Access Log
+[2024-11-26 01:47:51.361 PM] info:	HTTP Access Log
+[2024-11-26 01:47:51.364 PM] info:	HTTP Access Log
+[2024-11-26 01:48:14.415 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-26 01:48:17.910 PM] info:	@@ MONGO Database Connected
+[2024-11-26 01:48:44.821 PM] info:	@@ Event fetched successfully
+[2024-11-26 01:48:44.826 PM] info:	HTTP Access Log
+[2024-11-26 01:48:44.835 PM] info:	@@ Event fetched successfully
+[2024-11-26 01:48:44.838 PM] info:	HTTP Access Log
+[2024-11-26 01:52:16.695 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-26 01:52:18.815 PM] info:	@@ MONGO Database Connected
+[2024-11-26 01:52:26.371 PM] info:	@@ Event fetched successfully
+[2024-11-26 01:52:26.375 PM] info:	HTTP Access Log
+[2024-11-26 01:52:26.380 PM] info:	@@ Event fetched successfully
+[2024-11-26 01:52:26.383 PM] info:	HTTP Access Log
+[2024-11-26 01:53:03.423 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-26 01:53:07.457 PM] info:	@@ MONGO Database Connected
+[2024-11-26 01:53:11.980 PM] info:	@@ Event fetched successfully
+[2024-11-26 01:53:11.986 PM] info:	HTTP Access Log
+[2024-11-26 01:53:11.993 PM] info:	@@ Event fetched successfully
+[2024-11-26 01:53:11.996 PM] info:	HTTP Access Log
+[2024-11-26 01:54:21.758 PM] info:	@@ Event fetched successfully
+[2024-11-26 01:54:21.762 PM] info:	HTTP Access Log
+[2024-11-26 01:54:22.174 PM] info:	@@ Event fetched successfully
+[2024-11-26 01:54:22.177 PM] info:	HTTP Access Log
+[2024-11-26 01:54:53.270 PM] info:	@@ Event fetched successfully
+[2024-11-26 01:54:53.274 PM] info:	HTTP Access Log
+[2024-11-26 01:54:53.282 PM] info:	@@ Event fetched successfully
+[2024-11-26 01:54:53.284 PM] info:	HTTP Access Log
+[2024-11-26 01:55:20.334 PM] info:	@@ Event fetched successfully
+[2024-11-26 01:55:20.337 PM] info:	HTTP Access Log
+[2024-11-26 01:55:20.343 PM] info:	@@ Event fetched successfully
+[2024-11-26 01:55:20.344 PM] info:	HTTP Access Log
+[2024-11-26 01:56:01.648 PM] info:	@@ Event fetched successfully
+[2024-11-26 01:56:01.650 PM] info:	HTTP Access Log
+[2024-11-26 01:56:01.654 PM] info:	@@ Event fetched successfully
+[2024-11-26 01:56:01.656 PM] info:	HTTP Access Log
+[2024-11-26 01:57:04.336 PM] info:	HTTP Access Log
+[2024-11-26 01:57:07.073 PM] info:	@@ EVENTS fetched successfully
+[2024-11-26 01:57:07.075 PM] info:	HTTP Access Log
+[2024-11-26 01:57:07.080 PM] info:	HTTP Access Log
+[2024-11-26 01:57:07.097 PM] info:	@@ EVENTS fetched successfully
+[2024-11-26 01:57:07.098 PM] info:	HTTP Access Log
+[2024-11-26 01:57:07.273 PM] info:	HTTP Access Log
+[2024-11-26 01:57:07.280 PM] info:	@@ Events count fetched successfully
+[2024-11-26 01:57:07.281 PM] info:	HTTP Access Log
+[2024-11-26 01:57:07.297 PM] info:	@@ Events count fetched successfully
+[2024-11-26 01:57:07.298 PM] info:	HTTP Access Log
+[2024-11-26 01:57:07.526 PM] info:	@@ EVENTS fetched successfully
+[2024-11-26 01:57:07.528 PM] info:	HTTP Access Log
+[2024-11-26 01:57:07.725 PM] info:	@@ Events count fetched successfully
+[2024-11-26 01:57:07.727 PM] info:	HTTP Access Log
+[2024-11-26 01:57:08.243 PM] info:	@@ EVENTS fetched successfully
+[2024-11-26 01:57:08.245 PM] info:	HTTP Access Log
+[2024-11-26 01:57:08.261 PM] info:	@@ EVENTS fetched successfully
+[2024-11-26 01:57:08.262 PM] info:	HTTP Access Log
+[2024-11-26 01:57:08.438 PM] info:	@@ Events count fetched successfully
+[2024-11-26 01:57:08.439 PM] info:	HTTP Access Log
+[2024-11-26 01:57:08.458 PM] info:	@@ Events count fetched successfully
+[2024-11-26 01:57:08.459 PM] info:	HTTP Access Log
+[2024-11-26 01:57:11.318 PM] info:	HTTP Access Log
+[2024-11-26 01:57:11.508 PM] info:	HTTP Access Log
+[2024-11-26 01:57:11.890 PM] info:	@@ Event fetched successfully
+[2024-11-26 01:57:11.891 PM] info:	HTTP Access Log
+[2024-11-26 01:57:12.085 PM] info:	@@ Search posts fetched successfully
+[2024-11-26 01:57:12.087 PM] info:	HTTP Access Log
+[2024-11-26 01:57:12.099 PM] info:	HTTP Access Log
+[2024-11-26 01:57:12.104 PM] info:	HTTP Access Log
+[2024-11-26 01:57:18.439 PM] info:	@@ Cache miss for /api/v1/events/trending-events
+[2024-11-26 01:57:18.443 PM] info:	@@ Cache miss for /api/v1/events/latest-events
+[2024-11-26 01:57:18.444 PM] info:	Fetching latest events...
+[2024-11-26 01:57:18.452 PM] info:	@@ Cache miss for /api/v1/events/latest-events
+[2024-11-26 01:57:18.453 PM] info:	Fetching latest events...
+[2024-11-26 01:57:18.641 PM] info:	HTTP Access Log
+[2024-11-26 01:57:18.823 PM] info:	@@ Trending events fetched successfully
+[2024-11-26 01:57:18.823 PM] info:	@@ Caching /api/v1/events/trending-events
+[2024-11-26 01:57:18.824 PM] info:	HTTP Access Log
+[2024-11-26 01:57:18.826 PM] info:	@@ Cache hit for /api/v1/events/trending-events
+[2024-11-26 01:57:18.827 PM] info:	HTTP Access Log
+[2024-11-26 01:57:18.829 PM] info:	@@ Latest events fetched successfully
+[2024-11-26 01:57:18.830 PM] info:	@@ Caching /api/v1/events/latest-events
+[2024-11-26 01:57:18.831 PM] info:	HTTP Access Log
+[2024-11-26 01:57:18.838 PM] info:	HTTP Access Log
+[2024-11-26 01:57:18.840 PM] info:	@@ Latest events fetched successfully
+[2024-11-26 01:57:18.841 PM] info:	@@ Caching /api/v1/events/latest-events
+[2024-11-26 01:57:18.842 PM] info:	HTTP Access Log
+[2024-11-26 01:57:19.054 PM] info:	@@ Latest events count fetched successfully
+[2024-11-26 01:57:19.055 PM] info:	HTTP Access Log
+[2024-11-26 01:57:19.067 PM] info:	@@ Latest events count fetched successfully
+[2024-11-26 01:57:19.069 PM] info:	HTTP Access Log
+[2024-11-26 01:57:23.698 PM] info:	HTTP Access Log
+[2024-11-26 01:57:23.903 PM] info:	HTTP Access Log
+[2024-11-26 01:57:24.303 PM] info:	@@ Event fetched successfully
+[2024-11-26 01:57:24.304 PM] info:	HTTP Access Log
+[2024-11-26 01:57:24.500 PM] info:	@@ Search posts fetched successfully
+[2024-11-26 01:57:24.501 PM] info:	HTTP Access Log
+[2024-11-26 01:57:24.518 PM] info:	HTTP Access Log
+[2024-11-26 01:57:24.523 PM] info:	HTTP Access Log
+[2024-11-26 01:57:37.023 PM] info:	HTTP Access Log
+[2024-11-26 01:57:38.214 PM] info:	HTTP Access Log
+[2024-11-26 01:57:38.224 PM] info:	@@ EVENTS fetched successfully
+[2024-11-26 01:57:38.226 PM] info:	HTTP Access Log
+[2024-11-26 01:57:38.235 PM] info:	@@ EVENTS fetched successfully
+[2024-11-26 01:57:38.237 PM] info:	HTTP Access Log
+[2024-11-26 01:57:38.239 PM] info:	@@ EVENTS fetched successfully
+[2024-11-26 01:57:38.241 PM] info:	HTTP Access Log
+[2024-11-26 01:57:38.247 PM] info:	@@ EVENTS fetched successfully
+[2024-11-26 01:57:38.249 PM] info:	HTTP Access Log
+[2024-11-26 01:57:38.403 PM] info:	HTTP Access Log
+[2024-11-26 01:57:38.432 PM] info:	@@ Events count fetched successfully
+[2024-11-26 01:57:38.433 PM] info:	HTTP Access Log
+[2024-11-26 01:57:38.441 PM] info:	@@ Events count fetched successfully
+[2024-11-26 01:57:38.442 PM] info:	HTTP Access Log
+[2024-11-26 01:57:38.445 PM] info:	@@ Events count fetched successfully
+[2024-11-26 01:57:38.447 PM] info:	HTTP Access Log
+[2024-11-26 01:57:38.450 PM] info:	@@ Events count fetched successfully
+[2024-11-26 01:57:38.452 PM] info:	HTTP Access Log
+[2024-11-26 01:57:38.653 PM] info:	@@ EVENTS fetched successfully
+[2024-11-26 01:57:38.654 PM] info:	HTTP Access Log
+[2024-11-26 01:57:38.850 PM] info:	@@ Events count fetched successfully
+[2024-11-26 01:57:38.851 PM] info:	HTTP Access Log
+[2024-11-26 01:57:43.390 PM] info:	@@ Cache hit for /api/v1/events/latest-events
+[2024-11-26 01:57:43.391 PM] info:	HTTP Access Log
+[2024-11-26 01:57:43.393 PM] info:	@@ Cache hit for /api/v1/events/latest-events
+[2024-11-26 01:57:43.394 PM] info:	HTTP Access Log
+[2024-11-26 01:57:43.396 PM] info:	@@ Cache hit for /api/v1/events/trending-events
+[2024-11-26 01:57:43.397 PM] info:	HTTP Access Log
+[2024-11-26 01:57:43.400 PM] info:	@@ Cache hit for /api/v1/events/trending-events
+[2024-11-26 01:57:43.401 PM] info:	HTTP Access Log
+[2024-11-26 01:57:43.571 PM] info:	HTTP Access Log
+[2024-11-26 01:57:43.618 PM] info:	@@ Latest events count fetched successfully
+[2024-11-26 01:57:43.620 PM] info:	HTTP Access Log
+[2024-11-26 01:57:43.622 PM] info:	@@ Latest events count fetched successfully
+[2024-11-26 01:57:43.623 PM] info:	HTTP Access Log
+[2024-11-26 01:57:43.799 PM] info:	HTTP Access Log
+[2024-11-26 01:57:50.888 PM] info:	@@ Cache hit for /api/v1/events/latest-events
+[2024-11-26 01:57:50.889 PM] info:	HTTP Access Log
+[2024-11-26 01:57:50.895 PM] info:	@@ Cache hit for /api/v1/events/trending-events
+[2024-11-26 01:57:50.897 PM] info:	HTTP Access Log
+[2024-11-26 01:57:50.898 PM] info:	@@ Cache hit for /api/v1/events/latest-events
+[2024-11-26 01:57:50.900 PM] info:	HTTP Access Log
+[2024-11-26 01:57:50.905 PM] info:	@@ Cache hit for /api/v1/events/trending-events
+[2024-11-26 01:57:50.908 PM] info:	HTTP Access Log
+[2024-11-26 01:57:51.085 PM] info:	HTTP Access Log
+[2024-11-26 01:57:51.149 PM] info:	@@ Latest events count fetched successfully
+[2024-11-26 01:57:51.151 PM] info:	HTTP Access Log
+[2024-11-26 01:57:51.154 PM] info:	@@ Latest events count fetched successfully
+[2024-11-26 01:57:51.156 PM] info:	HTTP Access Log
+[2024-11-26 01:57:51.279 PM] info:	HTTP Access Log
+[2024-11-26 01:57:53.720 PM] info:	HTTP Access Log
+[2024-11-26 01:57:53.909 PM] info:	HTTP Access Log
+[2024-11-26 01:57:54.296 PM] info:	@@ Event fetched successfully
+[2024-11-26 01:57:54.297 PM] info:	HTTP Access Log
+[2024-11-26 01:57:54.491 PM] info:	@@ Search posts fetched successfully
+[2024-11-26 01:57:54.492 PM] info:	HTTP Access Log
+[2024-11-26 01:57:54.505 PM] info:	HTTP Access Log
+[2024-11-26 01:57:54.508 PM] info:	HTTP Access Log
+[2024-11-26 01:58:10.300 PM] info:	@@ Event fetched successfully
+[2024-11-26 01:58:10.302 PM] info:	HTTP Access Log
+[2024-11-26 01:58:10.310 PM] info:	@@ Event fetched successfully
+[2024-11-26 01:58:10.312 PM] info:	HTTP Access Log
+[2024-11-26 02:00:51.303 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-26 02:00:53.414 PM] info:	@@ MONGO Database Connected
+[2024-11-26 02:01:08.022 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:01:08.030 PM] info:	HTTP Access Log
+[2024-11-26 02:01:08.035 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:01:08.038 PM] info:	HTTP Access Log
+[2024-11-26 02:01:37.516 PM] info:	HTTP Access Log
+[2024-11-26 02:01:38.905 PM] info:	@@ EVENTS fetched successfully
+[2024-11-26 02:01:38.907 PM] info:	HTTP Access Log
+[2024-11-26 02:01:38.913 PM] info:	@@ EVENTS fetched successfully
+[2024-11-26 02:01:38.915 PM] info:	HTTP Access Log
+[2024-11-26 02:01:38.924 PM] info:	@@ EVENTS fetched successfully
+[2024-11-26 02:01:38.927 PM] info:	HTTP Access Log
+[2024-11-26 02:01:39.107 PM] info:	@@ Events count fetched successfully
+[2024-11-26 02:01:39.109 PM] info:	HTTP Access Log
+[2024-11-26 02:01:39.132 PM] info:	@@ Events count fetched successfully
+[2024-11-26 02:01:39.134 PM] info:	HTTP Access Log
+[2024-11-26 02:01:39.137 PM] info:	@@ Events count fetched successfully
+[2024-11-26 02:01:39.139 PM] info:	HTTP Access Log
+[2024-11-26 02:01:39.334 PM] info:	@@ EVENTS fetched successfully
+[2024-11-26 02:01:39.335 PM] info:	HTTP Access Log
+[2024-11-26 02:01:39.529 PM] info:	@@ Events count fetched successfully
+[2024-11-26 02:01:39.530 PM] info:	HTTP Access Log
+[2024-11-26 02:01:39.903 PM] info:	@@ EVENTS fetched successfully
+[2024-11-26 02:01:39.904 PM] info:	HTTP Access Log
+[2024-11-26 02:01:40.099 PM] info:	@@ Events count fetched successfully
+[2024-11-26 02:01:40.100 PM] info:	HTTP Access Log
+[2024-11-26 02:01:40.453 PM] info:	HTTP Access Log
+[2024-11-26 02:01:40.644 PM] info:	HTTP Access Log
+[2024-11-26 02:01:42.296 PM] info:	HTTP Access Log
+[2024-11-26 02:01:42.488 PM] info:	HTTP Access Log
+[2024-11-26 02:01:42.873 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:01:42.874 PM] info:	HTTP Access Log
+[2024-11-26 02:01:43.070 PM] info:	@@ Search posts fetched successfully
+[2024-11-26 02:01:43.071 PM] info:	HTTP Access Log
+[2024-11-26 02:01:43.088 PM] info:	HTTP Access Log
+[2024-11-26 02:01:43.092 PM] info:	HTTP Access Log
+[2024-11-26 02:01:46.204 PM] info:	@@ Cache miss for /api/v1/events/latest-events
+[2024-11-26 02:01:46.206 PM] info:	Fetching latest events...
+[2024-11-26 02:01:46.211 PM] info:	@@ Cache miss for /api/v1/events/trending-events
+[2024-11-26 02:01:46.216 PM] info:	@@ Cache miss for /api/v1/events/latest-events
+[2024-11-26 02:01:46.216 PM] info:	Fetching latest events...
+[2024-11-26 02:01:46.409 PM] info:	HTTP Access Log
+[2024-11-26 02:01:46.583 PM] info:	@@ Latest events fetched successfully
+[2024-11-26 02:01:46.584 PM] info:	@@ Caching /api/v1/events/latest-events
+[2024-11-26 02:01:46.585 PM] info:	HTTP Access Log
+[2024-11-26 02:01:46.588 PM] info:	@@ Trending events fetched successfully
+[2024-11-26 02:01:46.589 PM] info:	@@ Caching /api/v1/events/trending-events
+[2024-11-26 02:01:46.590 PM] info:	HTTP Access Log
+[2024-11-26 02:01:46.592 PM] info:	@@ Cache hit for /api/v1/events/trending-events
+[2024-11-26 02:01:46.594 PM] info:	HTTP Access Log
+[2024-11-26 02:01:46.600 PM] info:	@@ Latest events fetched successfully
+[2024-11-26 02:01:46.601 PM] info:	@@ Caching /api/v1/events/latest-events
+[2024-11-26 02:01:46.602 PM] info:	HTTP Access Log
+[2024-11-26 02:01:46.604 PM] info:	HTTP Access Log
+[2024-11-26 02:01:46.783 PM] info:	@@ Latest events count fetched successfully
+[2024-11-26 02:01:46.784 PM] info:	HTTP Access Log
+[2024-11-26 02:01:46.834 PM] info:	@@ Latest events count fetched successfully
+[2024-11-26 02:01:46.836 PM] info:	HTTP Access Log
+[2024-11-26 02:01:49.542 PM] info:	HTTP Access Log
+[2024-11-26 02:01:49.734 PM] info:	HTTP Access Log
+[2024-11-26 02:01:50.119 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:01:50.120 PM] info:	HTTP Access Log
+[2024-11-26 02:01:50.313 PM] info:	@@ Search posts fetched successfully
+[2024-11-26 02:01:50.315 PM] info:	HTTP Access Log
+[2024-11-26 02:01:50.322 PM] info:	HTTP Access Log
+[2024-11-26 02:01:50.326 PM] info:	HTTP Access Log
+[2024-11-26 02:02:21.706 PM] info:	HTTP Access Log
+[2024-11-26 02:02:22.989 PM] info:	HTTP Access Log
+[2024-11-26 02:02:23.004 PM] info:	@@ EVENTS fetched successfully
+[2024-11-26 02:02:23.005 PM] info:	HTTP Access Log
+[2024-11-26 02:02:23.007 PM] info:	@@ EVENTS fetched successfully
+[2024-11-26 02:02:23.008 PM] info:	HTTP Access Log
+[2024-11-26 02:02:23.010 PM] info:	@@ EVENTS fetched successfully
+[2024-11-26 02:02:23.011 PM] info:	HTTP Access Log
+[2024-11-26 02:02:23.015 PM] info:	@@ EVENTS fetched successfully
+[2024-11-26 02:02:23.016 PM] info:	HTTP Access Log
+[2024-11-26 02:02:23.179 PM] info:	HTTP Access Log
+[2024-11-26 02:02:23.209 PM] info:	@@ Events count fetched successfully
+[2024-11-26 02:02:23.210 PM] info:	HTTP Access Log
+[2024-11-26 02:02:23.212 PM] info:	@@ Events count fetched successfully
+[2024-11-26 02:02:23.214 PM] info:	HTTP Access Log
+[2024-11-26 02:02:23.215 PM] info:	@@ Events count fetched successfully
+[2024-11-26 02:02:23.216 PM] info:	HTTP Access Log
+[2024-11-26 02:02:23.218 PM] info:	@@ Events count fetched successfully
+[2024-11-26 02:02:23.219 PM] info:	HTTP Access Log
+[2024-11-26 02:02:23.429 PM] info:	@@ EVENTS fetched successfully
+[2024-11-26 02:02:23.431 PM] info:	HTTP Access Log
+[2024-11-26 02:02:23.624 PM] info:	@@ Events count fetched successfully
+[2024-11-26 02:02:23.626 PM] info:	HTTP Access Log
+[2024-11-26 02:02:25.527 PM] info:	HTTP Access Log
+[2024-11-26 02:02:25.719 PM] info:	HTTP Access Log
+[2024-11-26 02:02:26.099 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:02:26.100 PM] info:	HTTP Access Log
+[2024-11-26 02:02:26.293 PM] info:	@@ Search posts fetched successfully
+[2024-11-26 02:02:26.294 PM] info:	HTTP Access Log
+[2024-11-26 02:02:26.301 PM] info:	HTTP Access Log
+[2024-11-26 02:02:26.304 PM] info:	HTTP Access Log
+[2024-11-26 02:05:33.443 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:05:33.445 PM] info:	HTTP Access Log
+[2024-11-26 02:05:33.449 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:05:33.451 PM] info:	HTTP Access Log
+[2024-11-26 02:05:58.262 PM] info:	HTTP Access Log
+[2024-11-26 02:05:59.650 PM] info:	HTTP Access Log
+[2024-11-26 02:05:59.657 PM] info:	@@ EVENTS fetched successfully
+[2024-11-26 02:05:59.659 PM] info:	HTTP Access Log
+[2024-11-26 02:05:59.661 PM] info:	@@ EVENTS fetched successfully
+[2024-11-26 02:05:59.662 PM] info:	HTTP Access Log
+[2024-11-26 02:05:59.664 PM] info:	@@ EVENTS fetched successfully
+[2024-11-26 02:05:59.665 PM] info:	HTTP Access Log
+[2024-11-26 02:05:59.668 PM] info:	@@ EVENTS fetched successfully
+[2024-11-26 02:05:59.669 PM] info:	HTTP Access Log
+[2024-11-26 02:05:59.841 PM] info:	HTTP Access Log
+[2024-11-26 02:05:59.860 PM] info:	@@ Events count fetched successfully
+[2024-11-26 02:05:59.861 PM] info:	HTTP Access Log
+[2024-11-26 02:05:59.863 PM] info:	@@ Events count fetched successfully
+[2024-11-26 02:05:59.864 PM] info:	HTTP Access Log
+[2024-11-26 02:05:59.867 PM] info:	@@ Events count fetched successfully
+[2024-11-26 02:05:59.868 PM] info:	HTTP Access Log
+[2024-11-26 02:05:59.872 PM] info:	@@ Events count fetched successfully
+[2024-11-26 02:05:59.873 PM] info:	HTTP Access Log
+[2024-11-26 02:06:00.080 PM] info:	@@ EVENTS fetched successfully
+[2024-11-26 02:06:00.081 PM] info:	HTTP Access Log
+[2024-11-26 02:06:00.273 PM] info:	@@ Events count fetched successfully
+[2024-11-26 02:06:00.274 PM] info:	HTTP Access Log
+[2024-11-26 02:10:23.714 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:10:23.716 PM] info:	HTTP Access Log
+[2024-11-26 02:10:23.719 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:10:23.721 PM] info:	HTTP Access Log
+[2024-11-26 02:12:39.283 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:12:39.286 PM] info:	HTTP Access Log
+[2024-11-26 02:12:39.290 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:12:39.293 PM] info:	HTTP Access Log
+[2024-11-26 02:12:41.686 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:12:41.689 PM] info:	HTTP Access Log
+[2024-11-26 02:12:41.696 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:12:41.698 PM] info:	HTTP Access Log
+[2024-11-26 02:12:44.638 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:12:44.640 PM] info:	HTTP Access Log
+[2024-11-26 02:12:44.642 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:12:44.644 PM] info:	HTTP Access Log
+[2024-11-26 02:12:48.286 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:12:48.288 PM] info:	HTTP Access Log
+[2024-11-26 02:12:48.295 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:12:48.297 PM] info:	HTTP Access Log
+[2024-11-26 02:13:20.527 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:13:20.529 PM] info:	HTTP Access Log
+[2024-11-26 02:13:20.541 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:13:20.542 PM] info:	HTTP Access Log
+[2024-11-26 02:13:51.386 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:13:51.387 PM] info:	HTTP Access Log
+[2024-11-26 02:13:51.389 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:13:51.389 PM] info:	HTTP Access Log
+[2024-11-26 02:16:44.872 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:16:44.873 PM] info:	HTTP Access Log
+[2024-11-26 02:16:44.884 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:16:44.885 PM] info:	HTTP Access Log
+[2024-11-26 02:17:21.970 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:17:21.972 PM] info:	HTTP Access Log
+[2024-11-26 02:17:21.976 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:17:21.978 PM] info:	HTTP Access Log
+[2024-11-26 02:17:25.000 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:17:25.002 PM] info:	HTTP Access Log
+[2024-11-26 02:17:25.007 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:17:25.008 PM] info:	HTTP Access Log
+[2024-11-26 02:17:42.117 PM] info:	HTTP Access Log
+[2024-11-26 02:17:42.119 PM] info:	HTTP Access Log
+[2024-11-26 02:17:42.249 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:17:42.254 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:17:44.055 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:17:44.056 PM] info:	HTTP Access Log
+[2024-11-26 02:17:44.076 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:17:44.077 PM] info:	HTTP Access Log
+[2024-11-26 02:20:26.177 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:20:26.179 PM] info:	HTTP Access Log
+[2024-11-26 02:20:26.185 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:20:26.187 PM] info:	HTTP Access Log
+[2024-11-26 02:20:28.595 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:20:28.596 PM] info:	HTTP Access Log
+[2024-11-26 02:20:28.608 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:20:28.610 PM] info:	HTTP Access Log
+[2024-11-26 02:21:41.816 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:21:41.817 PM] info:	HTTP Access Log
+[2024-11-26 02:21:41.819 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:21:41.821 PM] info:	HTTP Access Log
+[2024-11-26 02:21:55.962 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:21:55.964 PM] info:	HTTP Access Log
+[2024-11-26 02:21:55.968 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:21:55.970 PM] info:	HTTP Access Log
+[2024-11-26 02:21:58.281 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:21:58.283 PM] info:	HTTP Access Log
+[2024-11-26 02:21:58.294 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:21:58.295 PM] info:	HTTP Access Log
+[2024-11-26 02:23:53.529 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:23:53.530 PM] info:	HTTP Access Log
+[2024-11-26 02:23:53.542 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:23:53.545 PM] info:	HTTP Access Log
+[2024-11-26 02:24:54.315 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:24:54.316 PM] info:	HTTP Access Log
+[2024-11-26 02:24:54.318 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:24:54.318 PM] info:	HTTP Access Log
+[2024-11-26 02:25:14.502 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:25:14.504 PM] info:	HTTP Access Log
+[2024-11-26 02:25:14.508 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:25:14.510 PM] info:	HTTP Access Log
+[2024-11-26 02:25:16.985 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:25:16.986 PM] info:	HTTP Access Log
+[2024-11-26 02:25:16.992 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:25:16.994 PM] info:	HTTP Access Log
+[2024-11-26 02:26:07.142 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:26:07.143 PM] info:	HTTP Access Log
+[2024-11-26 02:26:07.151 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:26:07.152 PM] info:	HTTP Access Log
+[2024-11-26 02:27:16.597 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:27:16.598 PM] info:	HTTP Access Log
+[2024-11-26 02:27:16.600 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:27:16.601 PM] info:	HTTP Access Log
+[2024-11-26 02:27:50.358 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:27:50.360 PM] info:	HTTP Access Log
+[2024-11-26 02:27:50.364 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:27:50.366 PM] info:	HTTP Access Log
+[2024-11-26 02:30:49.564 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:30:49.565 PM] info:	HTTP Access Log
+[2024-11-26 02:30:49.566 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:30:49.567 PM] info:	HTTP Access Log
+[2024-11-26 02:32:49.673 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:32:49.675 PM] info:	HTTP Access Log
+[2024-11-26 02:32:49.682 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:32:49.684 PM] info:	HTTP Access Log
+[2024-11-26 02:32:53.147 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:32:53.149 PM] info:	HTTP Access Log
+[2024-11-26 02:32:53.161 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:32:53.163 PM] info:	HTTP Access Log
+[2024-11-26 02:33:48.807 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:33:48.809 PM] info:	HTTP Access Log
+[2024-11-26 02:33:48.812 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:33:48.814 PM] info:	HTTP Access Log
+[2024-11-26 02:33:55.126 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:33:55.127 PM] info:	HTTP Access Log
+[2024-11-26 02:33:55.128 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:33:55.129 PM] info:	HTTP Access Log
+[2024-11-26 02:35:24.121 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:35:24.124 PM] info:	HTTP Access Log
+[2024-11-26 02:35:24.127 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:35:24.129 PM] info:	HTTP Access Log
+[2024-11-26 02:36:08.364 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:36:08.366 PM] info:	HTTP Access Log
+[2024-11-26 02:36:08.378 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:36:08.381 PM] info:	HTTP Access Log
+[2024-11-26 02:36:44.702 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:36:44.705 PM] info:	HTTP Access Log
+[2024-11-26 02:36:44.707 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:36:44.708 PM] info:	HTTP Access Log
+[2024-11-26 02:37:55.703 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:37:55.705 PM] info:	HTTP Access Log
+[2024-11-26 02:37:55.707 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:37:55.708 PM] info:	HTTP Access Log
+[2024-11-26 02:40:02.374 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:40:02.376 PM] info:	HTTP Access Log
+[2024-11-26 02:40:02.396 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:40:02.397 PM] info:	HTTP Access Log
+[2024-11-26 02:40:26.231 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:40:26.232 PM] info:	HTTP Access Log
+[2024-11-26 02:40:26.234 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:40:26.235 PM] info:	HTTP Access Log
+[2024-11-26 02:41:54.552 PM] info:	@@ MongoDB connection opened
+[2024-11-26 02:42:11.773 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:42:11.774 PM] info:	HTTP Access Log
+[2024-11-26 02:42:11.776 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:42:11.778 PM] info:	HTTP Access Log
+[2024-11-26 02:42:18.184 PM] info:	HTTP Access Log
+[2024-11-26 02:42:18.186 PM] info:	HTTP Access Log
+[2024-11-26 02:42:18.397 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:42:18.402 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:42:20.418 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:42:20.420 PM] info:	HTTP Access Log
+[2024-11-26 02:42:20.423 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:42:20.423 PM] info:	HTTP Access Log
+[2024-11-26 02:49:44.852 PM] info:	@@ Cache miss for /api/v1/events/latest-events
+[2024-11-26 02:49:44.854 PM] info:	Fetching latest events...
+[2024-11-26 02:49:44.858 PM] info:	@@ Cache miss for /api/v1/events/latest-events
+[2024-11-26 02:49:44.858 PM] info:	Fetching latest events...
+[2024-11-26 02:49:44.873 PM] info:	@@ Cache miss for /api/v1/events/trending-events
+[2024-11-26 02:49:45.264 PM] info:	@@ Latest events fetched successfully
+[2024-11-26 02:49:45.265 PM] info:	@@ Caching /api/v1/events/latest-events
+[2024-11-26 02:49:45.267 PM] info:	HTTP Access Log
+[2024-11-26 02:49:45.269 PM] info:	@@ Latest events fetched successfully
+[2024-11-26 02:49:45.269 PM] info:	@@ Caching /api/v1/events/latest-events
+[2024-11-26 02:49:45.271 PM] info:	HTTP Access Log
+[2024-11-26 02:49:45.467 PM] info:	@@ Latest events count fetched successfully
+[2024-11-26 02:49:45.468 PM] info:	HTTP Access Log
+[2024-11-26 02:49:45.472 PM] info:	@@ Latest events count fetched successfully
+[2024-11-26 02:49:45.473 PM] info:	HTTP Access Log
+[2024-11-26 02:49:46.222 PM] info:	HTTP Access Log
+[2024-11-26 02:49:46.412 PM] info:	HTTP Access Log
+[2024-11-26 02:49:46.449 PM] info:	@@ Trending events fetched successfully
+[2024-11-26 02:49:46.449 PM] info:	@@ Caching /api/v1/events/trending-events
+[2024-11-26 02:49:46.451 PM] info:	HTTP Access Log
+[2024-11-26 02:49:46.453 PM] info:	@@ Cache hit for /api/v1/events/trending-events
+[2024-11-26 02:49:46.454 PM] info:	HTTP Access Log
+[2024-11-26 02:52:54.424 PM] info:	@@ Cache miss for /api/v1/events/trending-events
+[2024-11-26 02:52:54.428 PM] info:	@@ Cache miss for /api/v1/events/latest-events
+[2024-11-26 02:52:54.429 PM] info:	Fetching latest events...
+[2024-11-26 02:52:54.432 PM] info:	@@ Cache miss for /api/v1/events/latest-events
+[2024-11-26 02:52:54.433 PM] info:	Fetching latest events...
+[2024-11-26 02:52:54.624 PM] info:	HTTP Access Log
+[2024-11-26 02:52:54.799 PM] info:	@@ Trending events fetched successfully
+[2024-11-26 02:52:54.799 PM] info:	@@ Caching /api/v1/events/trending-events
+[2024-11-26 02:52:54.800 PM] info:	HTTP Access Log
+[2024-11-26 02:52:54.801 PM] info:	@@ Cache hit for /api/v1/events/trending-events
+[2024-11-26 02:52:54.802 PM] info:	HTTP Access Log
+[2024-11-26 02:52:54.809 PM] info:	@@ Latest events fetched successfully
+[2024-11-26 02:52:54.809 PM] info:	@@ Caching /api/v1/events/latest-events
+[2024-11-26 02:52:54.811 PM] info:	HTTP Access Log
+[2024-11-26 02:52:54.812 PM] info:	@@ Latest events fetched successfully
+[2024-11-26 02:52:54.812 PM] info:	@@ Caching /api/v1/events/latest-events
+[2024-11-26 02:52:54.813 PM] info:	HTTP Access Log
+[2024-11-26 02:52:54.815 PM] info:	HTTP Access Log
+[2024-11-26 02:52:55.017 PM] info:	@@ Latest events count fetched successfully
+[2024-11-26 02:52:55.018 PM] info:	HTTP Access Log
+[2024-11-26 02:52:55.019 PM] info:	@@ Latest events count fetched successfully
+[2024-11-26 02:52:55.020 PM] info:	HTTP Access Log
+[2024-11-26 02:53:01.481 PM] info:	@@ Cache hit for /api/v1/events/latest-events
+[2024-11-26 02:53:01.482 PM] info:	HTTP Access Log
+[2024-11-26 02:53:01.484 PM] info:	@@ Cache hit for /api/v1/events/latest-events
+[2024-11-26 02:53:01.485 PM] info:	HTTP Access Log
+[2024-11-26 02:53:01.485 PM] info:	@@ Cache hit for /api/v1/events/trending-events
+[2024-11-26 02:53:01.486 PM] info:	HTTP Access Log
+[2024-11-26 02:53:01.489 PM] info:	@@ Cache hit for /api/v1/events/trending-events
+[2024-11-26 02:53:01.491 PM] info:	HTTP Access Log
+[2024-11-26 02:53:01.655 PM] info:	HTTP Access Log
+[2024-11-26 02:53:01.680 PM] info:	@@ Latest events count fetched successfully
+[2024-11-26 02:53:01.681 PM] info:	HTTP Access Log
+[2024-11-26 02:53:01.691 PM] info:	@@ Latest events count fetched successfully
+[2024-11-26 02:53:01.692 PM] info:	HTTP Access Log
+[2024-11-26 02:53:01.845 PM] info:	HTTP Access Log
+[2024-11-26 02:53:04.605 PM] info:	HTTP Access Log
+[2024-11-26 02:53:04.793 PM] info:	HTTP Access Log
+[2024-11-26 02:53:05.186 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:53:05.187 PM] info:	HTTP Access Log
+[2024-11-26 02:53:05.379 PM] info:	@@ Search posts fetched successfully
+[2024-11-26 02:53:05.380 PM] info:	HTTP Access Log
+[2024-11-26 02:53:05.389 PM] info:	HTTP Access Log
+[2024-11-26 02:53:05.393 PM] info:	HTTP Access Log
+[2024-11-26 02:53:56.338 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:53:56.339 PM] info:	HTTP Access Log
+[2024-11-26 02:53:56.342 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:53:56.343 PM] info:	HTTP Access Log
+[2024-11-26 02:54:01.415 PM] info:	@@ Cache hit for /api/v1/events/trending-events
+[2024-11-26 02:54:01.417 PM] info:	HTTP Access Log
+[2024-11-26 02:54:01.419 PM] info:	@@ Cache hit for /api/v1/events/latest-events
+[2024-11-26 02:54:01.420 PM] info:	HTTP Access Log
+[2024-11-26 02:54:01.423 PM] info:	@@ Cache hit for /api/v1/events/latest-events
+[2024-11-26 02:54:01.425 PM] info:	HTTP Access Log
+[2024-11-26 02:54:01.431 PM] info:	@@ Cache hit for /api/v1/events/trending-events
+[2024-11-26 02:54:01.433 PM] info:	HTTP Access Log
+[2024-11-26 02:54:01.617 PM] info:	HTTP Access Log
+[2024-11-26 02:54:01.663 PM] info:	@@ Latest events count fetched successfully
+[2024-11-26 02:54:01.665 PM] info:	HTTP Access Log
+[2024-11-26 02:54:01.668 PM] info:	@@ Latest events count fetched successfully
+[2024-11-26 02:54:01.669 PM] info:	HTTP Access Log
+[2024-11-26 02:54:01.806 PM] info:	HTTP Access Log
+[2024-11-26 02:54:05.778 PM] info:	HTTP Access Log
+[2024-11-26 02:54:05.972 PM] info:	HTTP Access Log
+[2024-11-26 02:54:06.357 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:54:06.358 PM] info:	HTTP Access Log
+[2024-11-26 02:54:06.554 PM] info:	@@ Search posts fetched successfully
+[2024-11-26 02:54:06.555 PM] info:	HTTP Access Log
+[2024-11-26 02:54:06.569 PM] info:	HTTP Access Log
+[2024-11-26 02:54:06.571 PM] info:	HTTP Access Log
+[2024-11-26 02:54:09.973 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:54:09.975 PM] info:	HTTP Access Log
+[2024-11-26 02:54:09.977 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:54:09.980 PM] info:	HTTP Access Log
+[2024-11-26 02:57:37.749 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:57:37.751 PM] info:	HTTP Access Log
+[2024-11-26 02:57:37.754 PM] info:	@@ Event fetched successfully
+[2024-11-26 02:57:37.756 PM] info:	HTTP Access Log
+[2024-11-26 02:58:52.199 PM] info:	HTTP Access Log
+[2024-11-26 02:58:54.018 PM] info:	@@ EVENTS fetched successfully
+[2024-11-26 02:58:54.019 PM] info:	HTTP Access Log
+[2024-11-26 02:58:54.023 PM] info:	@@ EVENTS fetched successfully
+[2024-11-26 02:58:54.025 PM] info:	HTTP Access Log
+[2024-11-26 02:58:54.027 PM] info:	@@ EVENTS fetched successfully
+[2024-11-26 02:58:54.029 PM] info:	HTTP Access Log
+[2024-11-26 02:58:54.037 PM] info:	@@ EVENTS fetched successfully
+[2024-11-26 02:58:54.038 PM] info:	HTTP Access Log
+[2024-11-26 02:58:54.222 PM] info:	@@ Events count fetched successfully
+[2024-11-26 02:58:54.223 PM] info:	HTTP Access Log
+[2024-11-26 02:58:54.224 PM] info:	@@ Events count fetched successfully
+[2024-11-26 02:58:54.226 PM] info:	HTTP Access Log
+[2024-11-26 02:58:54.229 PM] info:	@@ Events count fetched successfully
+[2024-11-26 02:58:54.230 PM] info:	HTTP Access Log
+[2024-11-26 02:58:54.235 PM] info:	@@ Events count fetched successfully
+[2024-11-26 02:58:54.236 PM] info:	HTTP Access Log
+[2024-11-26 02:58:54.488 PM] info:	@@ EVENTS fetched successfully
+[2024-11-26 02:58:54.490 PM] info:	HTTP Access Log
+[2024-11-26 02:58:54.687 PM] info:	@@ Events count fetched successfully
+[2024-11-26 02:58:54.688 PM] info:	HTTP Access Log
+[2024-11-26 02:58:55.201 PM] info:	HTTP Access Log
+[2024-11-26 02:58:55.391 PM] info:	HTTP Access Log
+[2024-11-26 03:01:04.809 PM] info:	@@ EVENTS fetched successfully
+[2024-11-26 03:01:04.813 PM] info:	HTTP Access Log
+[2024-11-26 03:01:04.815 PM] info:	@@ EVENTS fetched successfully
+[2024-11-26 03:01:04.817 PM] info:	HTTP Access Log
+[2024-11-26 03:01:04.843 PM] info:	HTTP Access Log
+[2024-11-26 03:01:04.844 PM] info:	@@ EVENTS fetched successfully
+[2024-11-26 03:01:04.846 PM] info:	HTTP Access Log
+[2024-11-26 03:01:04.862 PM] info:	@@ EVENTS fetched successfully
+[2024-11-26 03:01:04.864 PM] info:	HTTP Access Log
+[2024-11-26 03:01:05.289 PM] info:	@@ Events count fetched successfully
+[2024-11-26 03:01:05.289 PM] info:	HTTP Access Log
+[2024-11-26 03:01:05.290 PM] info:	@@ Events count fetched successfully
+[2024-11-26 03:01:05.291 PM] info:	HTTP Access Log
+[2024-11-26 03:01:05.293 PM] info:	HTTP Access Log
+[2024-11-26 03:01:05.373 PM] info:	@@ Events count fetched successfully
+[2024-11-26 03:01:05.374 PM] info:	HTTP Access Log
+[2024-11-26 03:01:05.375 PM] info:	@@ Events count fetched successfully
+[2024-11-26 03:01:05.375 PM] info:	HTTP Access Log
+[2024-11-26 03:01:05.931 PM] info:	@@ EVENTS fetched successfully
+[2024-11-26 03:01:05.933 PM] info:	HTTP Access Log
+[2024-11-26 03:01:05.935 PM] info:	@@ EVENTS fetched successfully
+[2024-11-26 03:01:05.936 PM] info:	HTTP Access Log
+[2024-11-26 03:01:06.595 PM] info:	@@ Events count fetched successfully
+[2024-11-26 03:01:06.597 PM] info:	HTTP Access Log
+[2024-11-26 03:01:06.598 PM] info:	@@ Events count fetched successfully
+[2024-11-26 03:01:06.599 PM] info:	HTTP Access Log
+[2024-11-26 03:01:08.232 PM] info:	HTTP Access Log
+[2024-11-26 03:01:08.476 PM] info:	HTTP Access Log
+[2024-11-26 03:01:08.984 PM] info:	@@ Event fetched successfully
+[2024-11-26 03:01:08.986 PM] info:	HTTP Access Log
+[2024-11-26 03:01:09.180 PM] info:	@@ Search posts fetched successfully
+[2024-11-26 03:01:09.181 PM] info:	HTTP Access Log
+[2024-11-26 03:01:09.189 PM] info:	HTTP Access Log
+[2024-11-26 03:01:09.191 PM] info:	HTTP Access Log
+[2024-11-26 03:01:16.056 PM] info:	@@ Event fetched successfully
+[2024-11-26 03:01:16.057 PM] info:	HTTP Access Log
+[2024-11-26 03:01:16.059 PM] info:	@@ Event fetched successfully
+[2024-11-26 03:01:16.061 PM] info:	HTTP Access Log
+[2024-11-26 03:02:07.376 PM] info:	HTTP Access Log
+[2024-11-26 03:02:10.014 PM] info:	HTTP Access Log
+[2024-11-26 03:02:10.315 PM] info:	@@ EVENTS fetched successfully
+[2024-11-26 03:02:10.317 PM] info:	HTTP Access Log
+[2024-11-26 03:02:10.325 PM] info:	@@ EVENTS fetched successfully
+[2024-11-26 03:02:10.326 PM] info:	HTTP Access Log
+[2024-11-26 03:02:10.328 PM] info:	@@ EVENTS fetched successfully
+[2024-11-26 03:02:10.329 PM] info:	HTTP Access Log
+[2024-11-26 03:02:10.331 PM] info:	@@ EVENTS fetched successfully
+[2024-11-26 03:02:10.332 PM] info:	HTTP Access Log
+[2024-11-26 03:02:11.268 PM] info:	@@ Events count fetched successfully
+[2024-11-26 03:02:11.269 PM] info:	HTTP Access Log
+[2024-11-26 03:02:11.282 PM] info:	@@ Events count fetched successfully
+[2024-11-26 03:02:11.284 PM] info:	HTTP Access Log
+[2024-11-26 03:02:11.297 PM] info:	@@ Events count fetched successfully
+[2024-11-26 03:02:11.299 PM] info:	HTTP Access Log
+[2024-11-26 03:02:11.301 PM] info:	@@ Events count fetched successfully
+[2024-11-26 03:02:11.302 PM] info:	HTTP Access Log
+[2024-11-26 03:02:12.128 PM] info:	@@ EVENTS fetched successfully
+[2024-11-26 03:02:12.129 PM] info:	HTTP Access Log
+[2024-11-26 03:02:12.364 PM] info:	HTTP Access Log
+[2024-11-26 03:02:12.600 PM] info:	@@ Events count fetched successfully
+[2024-11-26 03:02:12.600 PM] info:	HTTP Access Log
+[2024-11-26 03:02:16.378 PM] info:	HTTP Access Log
+[2024-11-26 03:02:17.009 PM] info:	HTTP Access Log
+[2024-11-26 03:02:18.588 PM] info:	@@ Event fetched successfully
+[2024-11-26 03:02:18.590 PM] info:	HTTP Access Log
+[2024-11-26 03:02:18.992 PM] info:	@@ Search posts fetched successfully
+[2024-11-26 03:02:18.993 PM] info:	HTTP Access Log
+[2024-11-26 03:02:18.995 PM] info:	HTTP Access Log
+[2024-11-26 03:02:19.000 PM] info:	HTTP Access Log
+[2024-11-26 03:02:35.872 PM] info:	@@ Cache miss for /api/v1/events/latest-events
+[2024-11-26 03:02:35.873 PM] info:	Fetching latest events...
+[2024-11-26 03:02:35.876 PM] info:	@@ Cache miss for /api/v1/events/latest-events
+[2024-11-26 03:02:35.877 PM] info:	Fetching latest events...
+[2024-11-26 03:02:35.880 PM] info:	@@ Cache miss for /api/v1/events/trending-events
+[2024-11-26 03:02:36.542 PM] info:	HTTP Access Log
+[2024-11-26 03:02:36.835 PM] info:	@@ Latest events fetched successfully
+[2024-11-26 03:02:36.836 PM] info:	@@ Caching /api/v1/events/latest-events
+[2024-11-26 03:02:36.837 PM] info:	HTTP Access Log
+[2024-11-26 03:02:36.862 PM] info:	@@ Latest events fetched successfully
+[2024-11-26 03:02:36.863 PM] info:	@@ Caching /api/v1/events/latest-events
+[2024-11-26 03:02:36.864 PM] info:	HTTP Access Log
+[2024-11-26 03:02:36.865 PM] info:	@@ Trending events fetched successfully
+[2024-11-26 03:02:36.866 PM] info:	@@ Caching /api/v1/events/trending-events
+[2024-11-26 03:02:36.867 PM] info:	HTTP Access Log
+[2024-11-26 03:02:36.869 PM] info:	HTTP Access Log
+[2024-11-26 03:02:36.872 PM] info:	@@ Cache hit for /api/v1/events/trending-events
+[2024-11-26 03:02:36.873 PM] info:	HTTP Access Log
+[2024-11-26 03:02:37.497 PM] info:	@@ Latest events count fetched successfully
+[2024-11-26 03:02:37.498 PM] info:	HTTP Access Log
+[2024-11-26 03:02:37.520 PM] info:	@@ Latest events count fetched successfully
+[2024-11-26 03:02:37.522 PM] info:	HTTP Access Log
+[2024-11-26 03:02:46.000 PM] info:	@@ Search posts fetched successfully
+[2024-11-26 03:02:46.001 PM] info:	HTTP Access Log
+[2024-11-26 03:02:46.196 PM] info:	@@ Search posts count fetched successfully @@ 2
+[2024-11-26 03:02:46.197 PM] info:	HTTP Access Log
+[2024-11-26 03:02:50.672 PM] info:	@@ Cache hit for /api/v1/events/latest-events
+[2024-11-26 03:02:50.673 PM] info:	HTTP Access Log
+[2024-11-26 03:02:51.053 PM] info:	@@ Latest events count fetched successfully
+[2024-11-26 03:02:51.054 PM] info:	HTTP Access Log
