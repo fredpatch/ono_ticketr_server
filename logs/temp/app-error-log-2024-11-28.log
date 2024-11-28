@@ -1,0 +1,216 @@
+[2024-11-28 10:32:41.272 AM] error:	undefined
+[2024-11-28 10:36:54.639 AM] error:	undefined
+[2024-11-28 10:37:42.073 AM] error:	undefined
+[2024-11-28 10:39:48.265 AM] error:	undefined
+[2024-11-28 10:40:14.187 AM] error:	undefined
+[2024-11-28 10:41:05.588 AM] error:	undefined
+[2024-11-28 10:41:33.428 AM] error:	undefined
+[2024-11-28 10:41:57.202 AM] error:	undefined
+[2024-11-28 11:43:40.042 AM] error:	undefined
+[2024-11-28 11:43:59.749 AM] error:	undefined
+[2024-11-28 11:45:51.113 AM] error:	undefined
+[2024-11-28 01:18:55.987 PM] error:	undefined
+[2024-11-28 01:18:55.993 PM] error:	unhandledRejection: Cannot set headers after they are sent to the client
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:406:5)
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:794:10)
+    at ServerResponse.send (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:174:12)
+    at ServerResponse.json (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:278:15)
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:78:28)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-11-28 01:20:11.955 PM] error:	undefined
+[2024-11-28 01:20:51.614 PM] error:	undefined
+[2024-11-28 01:22:18.313 PM] error:	undefined
+[2024-11-28 01:23:09.317 PM] error:	undefined
+[2024-11-28 01:24:40.997 PM] error:	undefined
+[2024-11-28 01:26:08.183 PM] error:	undefined
+[2024-11-28 01:27:11.786 PM] error:	undefined
+[2024-11-28 01:27:50.342 PM] error:	undefined
+[2024-11-28 01:29:46.068 PM] error:	undefined
+[2024-11-28 01:29:46.074 PM] error:	unhandledRejection: Cannot set headers after they are sent to the client
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:406:5)
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:794:10)
+    at ServerResponse.send (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:174:12)
+    at ServerResponse.json (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:278:15)
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:83:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-11-28 01:30:14.497 PM] error:	undefined
+[2024-11-28 01:30:14.501 PM] error:	unhandledRejection: Cannot set headers after they are sent to the client
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:406:5)
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:794:10)
+    at ServerResponse.send (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:174:12)
+    at ServerResponse.json (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:278:15)
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:83:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-11-28 01:30:39.805 PM] error:	undefined
+[2024-11-28 01:30:39.809 PM] error:	unhandledRejection: Cannot set headers after they are sent to the client
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:406:5)
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:794:10)
+    at ServerResponse.send (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:174:12)
+    at ServerResponse.json (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:278:15)
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:83:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-11-28 01:31:54.235 PM] error:	undefined
+[2024-11-28 01:31:54.251 PM] error:	unhandledRejection: Cannot set headers after they are sent to the client
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:406:5)
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:794:10)
+    at ServerResponse.send (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:174:12)
+    at ServerResponse.json (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:278:15)
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:83:8)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+[2024-11-28 01:32:08.842 PM] error:	undefined
+[2024-11-28 01:32:08.847 PM] error:	unhandledRejection: Cannot set headers after they are sent to the client
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:406:5)
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:794:10)
+    at ServerResponse.send (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:174:12)
+    at ServerResponse.json (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:278:15)
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:83:8)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+[2024-11-28 01:32:41.320 PM] error:	undefined
+[2024-11-28 01:33:06.348 PM] error:	undefined
+[2024-11-28 01:33:06.353 PM] error:	unhandledRejection: Cannot set headers after they are sent to the client
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:406:5)
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:794:10)
+    at ServerResponse.send (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:174:12)
+    at ServerResponse.json (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:278:15)
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:83:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-11-28 01:34:21.576 PM] error:	undefined
+[2024-11-28 01:34:21.582 PM] error:	unhandledRejection: Cannot set headers after they are sent to the client
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:406:5)
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:794:10)
+    at ServerResponse.send (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:174:12)
+    at ServerResponse.json (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:278:15)
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:83:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-11-28 01:34:28.430 PM] error:	@@ Email already exists
+[2024-11-28 01:37:37.794 PM] error:	SyntaxError: Expected double-quoted property name in JSON at position 85
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\body-parser\lib\types\json.js:92:19)
+    at C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:514:28)
+    at endReadableNT (node:internal/streams/readable:1408:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+[2024-11-28 01:47:09.444 PM] error:	uncaughtException: authorizedRoles is not defined
+ReferenceError: authorizedRoles is not defined
+    at file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/routes.js:25:12
+    at ModuleJob.run (node:internal/modules/esm/module_job:217:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:316:24)
+    at async loadESM (node:internal/process/esm_loader:34:7)
+    at async handleMainPromise (node:internal/modules/run_main:66:12)
+[2024-11-28 01:50:11.491 PM] error:	SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\body-parser\lib\types\json.js:169:10)
+    at parse (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\body-parser\lib\types\json.js:86:15)
+    at C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:514:28)
+    at endReadableNT (node:internal/streams/readable:1408:12)
+[2024-11-28 01:54:35.118 PM] error:	SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\body-parser\lib\types\json.js:169:10)
+    at parse (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\body-parser\lib\types\json.js:86:15)
+    at C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:514:28)
+    at endReadableNT (node:internal/streams/readable:1408:12)
+[2024-11-28 01:56:55.979 PM] error:	SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\body-parser\lib\types\json.js:169:10)
+    at parse (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\body-parser\lib\types\json.js:86:15)
+    at C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:514:28)
+    at endReadableNT (node:internal/streams/readable:1408:12)
+[2024-11-28 01:59:51.194 PM] error:	SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\body-parser\lib\types\json.js:169:10)
+    at parse (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\body-parser\lib\types\json.js:86:15)
+    at C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:514:28)
+    at endReadableNT (node:internal/streams/readable:1408:12)
+[2024-11-28 02:00:58.592 PM] error:	SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\body-parser\lib\types\json.js:169:10)
+    at parse (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\body-parser\lib\types\json.js:86:15)
+    at C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:514:28)
+    at endReadableNT (node:internal/streams/readable:1408:12)
+[2024-11-28 02:01:28.950 PM] error:	SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\body-parser\lib\types\json.js:169:10)
+    at parse (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\body-parser\lib\types\json.js:86:15)
+    at C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:514:28)
+    at endReadableNT (node:internal/streams/readable:1408:12)
+[2024-11-28 02:01:41.103 PM] error:	SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\body-parser\lib\types\json.js:169:10)
+    at parse (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\body-parser\lib\types\json.js:86:15)
+    at C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:514:28)
+    at endReadableNT (node:internal/streams/readable:1408:12)
+[2024-11-28 04:02:42.256 PM] error:	uncaughtException: latest_events is not defined
+ReferenceError: latest_events is not defined
+    at file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/routes.js:11:63
+    at ModuleJob.run (node:internal/modules/esm/module_job:217:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:316:24)
+    at async loadESM (node:internal/process/esm_loader:34:7)
+    at async handleMainPromise (node:internal/modules/run_main:66:12)
+[2024-11-28 04:02:52.755 PM] error:	uncaughtException: latest_events is not defined
+ReferenceError: latest_events is not defined
+    at file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/routes.js:11:63
+    at ModuleJob.run (node:internal/modules/esm/module_job:217:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:316:24)
+    at async loadESM (node:internal/process/esm_loader:34:7)
+    at async handleMainPromise (node:internal/modules/run_main:66:12)

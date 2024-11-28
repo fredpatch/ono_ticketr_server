@@ -1,10 +1,10 @@
-POST http://localhost:5000/api/v1/user/search-users
+POST http://localhost:5000/api/v1/auth/signin
 Content-Type: application/json
 # Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3MWNlZTA5ZTY2MzcxMjhiZjgwNTI4MCIsImFkbWluIjp0cnVlLCJpYXQiOjE3MzAwOTc2MDIsImV4cCI6MTczMDE4NDAwMn0.NsvvMiJoB-MFJwG-XX05EPNkvQt5tSpEt2tZ5_fSrHU
 
-{
-    "query": "f.patchelli17"
-}
+# {
+#     "query": "f.patchelli17"
+# }
 
     # "fullname": "jhonad radii" ,
 # {
@@ -38,21 +38,23 @@ Content-Type: application/json
 #     "password": "Joh2n4123"
 # }
 
+# {
+#     "fullname":"Malick" ,
+#     "email": "malickson@gmail.com" ,
+#     "password": "Malick1234@",
+#     "role": "admin"
+# }
 
-# eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3MWMzNDZkMWJkNTUwNTEzNGE2MTEzMSIsImFkbWluIjp0cnVlLCJpYXQiOjE3Mjk5MDE5NjgsImV4cCI6MTcyOTk4ODM2OH0.gqK5u36fANQhNR_Z_Rxvz5XTlHZQnZuNGmPZZN_aNi8
+{
+    "email": "francois@gmail.com" ,
+    "password": "Francois1234"
+}
+    # "fullname":"Francois Oyabi" ,
+    # "role": ""
 
 # {
-# #   "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3MWNkYmI3MzlkM2FjNTI5OTEzYmQxYiIsImFkbWluIjpmYWxzZSwiaWF0IjoxNzI5OTQ0NTAzLCJleHAiOjE3MzAwMzA5MDN9.lCZEjGqf3x849dBftEnPZKN3UcAfh0kUuRY3MaJwGlU",
-# #   "profile_img": "https://api.dicebear.com/6.x/fun-emoji/svg?seed=Abby",
-# #   "username": "patrick",
-# #   "fullname": "jhonad radii",
-# #   "isAdmin": false
-# # }
-
-# {
-#   "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3MWNkZTYxNmNlNDBjMzhlYmIxYTgwOSIsImFkbWluIjpmYWxzZSwiaWF0IjoxNzI5OTQ1MTg2LCJleHAiOjE3MzAwMzE1ODZ9.jjihiAW6DnFGB2q-zBL8Dmu0IuDYXPWWCVNIARGWx3w",
-#   "profile_img": "https://api.dicebear.com/6.x/fun-emoji/svg?seed=Angel",
-#   "username": "jhon",
-#   "fullname": "jhonny patson",
-#   "isAdmin": true
+#     "fullname":"Mohamed Jewiti" ,
+#     "email": "mohamedj@gmail.com" ,
+#     "password": "Mohamed1234",
+#     "role": "moderator"
 # }

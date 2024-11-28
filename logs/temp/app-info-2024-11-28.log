@@ -1,0 +1,1087 @@
+[2024-11-28 10:31:36.824 AM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 10:31:40.011 AM] info:	@@ MONGO Database Connected
+[2024-11-28 10:32:40.987 AM] info:	@@ Start of data validation
+[2024-11-28 10:32:40.988 AM] info:	@@ End of data validation
+[2024-11-28 10:32:41.272 AM] error:	undefined
+[2024-11-28 10:32:41.277 AM] info:	HTTP Access Log
+[2024-11-28 10:36:54.354 AM] info:	@@ Start of data validation
+[2024-11-28 10:36:54.355 AM] info:	@@ End of data validation
+[2024-11-28 10:36:54.639 AM] error:	undefined
+[2024-11-28 10:36:54.640 AM] info:	HTTP Access Log
+[2024-11-28 10:37:33.134 AM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 10:37:35.747 AM] info:	@@ MONGO Database Connected
+[2024-11-28 10:37:41.793 AM] info:	@@ Start of data validation
+[2024-11-28 10:37:41.794 AM] info:	@@ End of data validation
+[2024-11-28 10:37:42.072 AM] error:	undefined
+[2024-11-28 10:37:42.077 AM] info:	HTTP Access Log
+[2024-11-28 10:38:51.039 AM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 10:38:53.134 AM] info:	@@ MONGO Database Connected
+[2024-11-28 10:39:00.081 AM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 10:39:03.483 AM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 10:39:06.990 AM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 10:39:08.943 AM] info:	@@ MONGO Database Connected
+[2024-11-28 10:39:13.597 AM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 10:39:20.607 AM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 10:39:22.586 AM] info:	@@ MONGO Database Connected
+[2024-11-28 10:39:33.683 AM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 10:39:35.671 AM] info:	@@ MONGO Database Connected
+[2024-11-28 10:39:39.190 AM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 10:39:41.133 AM] info:	@@ MONGO Database Connected
+[2024-11-28 10:39:48.264 AM] info:	@@ Start of data validation
+[2024-11-28 10:39:48.265 AM] error:	undefined
+[2024-11-28 10:39:48.271 AM] info:	HTTP Access Log
+[2024-11-28 10:40:02.876 AM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 10:40:05.224 AM] info:	@@ MONGO Database Connected
+[2024-11-28 10:40:13.920 AM] info:	@@ Start of data validation
+[2024-11-28 10:40:13.920 AM] info:	@@ End of data validation
+[2024-11-28 10:40:14.187 AM] error:	undefined
+[2024-11-28 10:40:14.193 AM] info:	HTTP Access Log
+[2024-11-28 10:40:33.883 AM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 10:40:37.662 AM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 10:40:39.602 AM] info:	@@ MONGO Database Connected
+[2024-11-28 10:40:44.226 AM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 10:40:47.694 AM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 10:40:51.079 AM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 10:40:53.009 AM] info:	@@ MONGO Database Connected
+[2024-11-28 10:40:56.480 AM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 10:40:58.409 AM] info:	@@ MONGO Database Connected
+[2024-11-28 10:41:01.392 AM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 10:41:03.317 AM] info:	@@ MONGO Database Connected
+[2024-11-28 10:41:05.312 AM] info:	@@ Start of data validation
+[2024-11-28 10:41:05.313 AM] info:	@@ End of data validation
+[2024-11-28 10:41:05.588 AM] error:	undefined
+[2024-11-28 10:41:05.594 AM] info:	HTTP Access Log
+[2024-11-28 10:41:23.344 AM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 10:41:25.721 AM] info:	@@ MONGO Database Connected
+[2024-11-28 10:41:30.632 AM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 10:41:32.588 AM] info:	@@ MONGO Database Connected
+[2024-11-28 10:41:33.154 AM] info:	@@ Start of data validation
+[2024-11-28 10:41:33.155 AM] info:	@@ End of data validation
+[2024-11-28 10:41:33.428 AM] error:	undefined
+[2024-11-28 10:41:33.433 AM] info:	HTTP Access Log
+[2024-11-28 10:41:49.295 AM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 10:41:51.391 AM] info:	@@ MONGO Database Connected
+[2024-11-28 10:41:54.138 AM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 10:41:56.414 AM] info:	@@ MONGO Database Connected
+[2024-11-28 10:41:56.800 AM] info:	@@ Start of data validation
+[2024-11-28 10:41:56.801 AM] info:	@@ End of data validation
+[2024-11-28 10:41:57.122 AM] info:	existingUser
+[2024-11-28 10:41:57.123 AM] info:	Hashing password !
+[2024-11-28 10:41:57.202 AM] error:	undefined
+[2024-11-28 10:41:57.207 AM] info:	HTTP Access Log
+[2024-11-28 11:43:39.680 AM] info:	@@ Start of data validation
+[2024-11-28 11:43:39.697 AM] info:	@@ End of data validation
+[2024-11-28 11:43:39.934 AM] info:	existingUser
+[2024-11-28 11:43:39.935 AM] info:	Hashing password !
+[2024-11-28 11:43:40.042 AM] error:	undefined
+[2024-11-28 11:43:40.059 AM] info:	HTTP Access Log
+[2024-11-28 11:43:59.487 AM] info:	@@ Start of data validation
+[2024-11-28 11:43:59.488 AM] info:	@@ End of data validation
+[2024-11-28 11:43:59.679 AM] info:	existingUser
+[2024-11-28 11:43:59.680 AM] info:	Hashing password !
+[2024-11-28 11:43:59.749 AM] error:	undefined
+[2024-11-28 11:43:59.751 AM] info:	HTTP Access Log
+[2024-11-28 11:44:27.894 AM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 11:44:30.182 AM] info:	@@ MONGO Database Connected
+[2024-11-28 11:44:39.252 AM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 11:44:41.214 AM] info:	@@ MONGO Database Connected
+[2024-11-28 11:44:45.119 AM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 11:44:47.468 AM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 11:44:49.393 AM] info:	@@ MONGO Database Connected
+[2024-11-28 11:44:51.676 AM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 11:44:53.587 AM] info:	@@ MONGO Database Connected
+[2024-11-28 11:44:56.128 AM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 11:44:58.056 AM] info:	@@ MONGO Database Connected
+[2024-11-28 11:45:50.214 AM] info:	@@ Start of data validation
+[2024-11-28 11:45:50.215 AM] info:	@@ End of data validation
+[2024-11-28 11:45:50.408 AM] info:	existingUser
+[2024-11-28 11:45:50.409 AM] info:	Hashing password...
+[2024-11-28 11:45:50.711 AM] info:	Generating username...
+[2024-11-28 11:45:50.901 AM] info:	@@ Start of user creation
+[2024-11-28 11:45:51.108 AM] info:	@@ User created
+[2024-11-28 11:45:51.112 AM] error:	undefined
+[2024-11-28 11:45:51.120 AM] info:	HTTP Access Log
+[2024-11-28 11:46:51.369 AM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 11:46:54.352 AM] info:	@@ MONGO Database Connected
+[2024-11-28 11:47:08.937 AM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 11:47:10.864 AM] info:	@@ MONGO Database Connected
+[2024-11-28 11:47:15.229 AM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 11:47:18.722 AM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 11:47:20.680 AM] info:	@@ MONGO Database Connected
+[2024-11-28 11:47:36.372 AM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 11:47:38.304 AM] info:	@@ MONGO Database Connected
+[2024-11-28 11:47:42.136 AM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 11:47:44.063 AM] info:	@@ MONGO Database Connected
+[2024-11-28 11:48:00.014 AM] info:	@@ Start of data validation...
+[2024-11-28 11:48:00.015 AM] info:	@@ End of data validation...
+[2024-11-28 11:48:00.206 AM] info:	existingUser
+[2024-11-28 11:48:00.207 AM] info:	Hashing password...
+[2024-11-28 11:48:00.487 AM] info:	Generating username...
+[2024-11-28 11:48:00.674 AM] info:	@@ Start of user creation
+[2024-11-28 11:48:00.887 AM] info:	@@ User created...
+[2024-11-28 11:48:00.898 AM] info:	HTTP Access Log
+[2024-11-28 12:04:43.402 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 12:04:45.741 PM] info:	@@ MONGO Database Connected
+[2024-11-28 12:04:48.949 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 12:04:50.921 PM] info:	@@ MONGO Database Connected
+[2024-11-28 12:05:00.279 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 12:05:06.976 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 12:05:11.047 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 12:05:15.891 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 12:05:17.837 PM] info:	@@ MONGO Database Connected
+[2024-11-28 12:05:22.424 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 12:05:26.393 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 12:05:28.368 PM] info:	@@ MONGO Database Connected
+[2024-11-28 12:05:42.654 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 12:05:49.539 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 12:05:51.521 PM] info:	@@ MONGO Database Connected
+[2024-11-28 12:05:53.993 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 12:05:57.318 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 12:05:59.299 PM] info:	@@ MONGO Database Connected
+[2024-11-28 12:06:23.969 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 12:06:26.361 PM] info:	@@ MONGO Database Connected
+[2024-11-28 12:06:31.973 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 12:06:33.933 PM] info:	@@ MONGO Database Connected
+[2024-11-28 12:07:26.139 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 12:07:28.371 PM] info:	@@ MONGO Database Connected
+[2024-11-28 12:07:33.793 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 12:07:35.774 PM] info:	@@ MONGO Database Connected
+[2024-11-28 01:17:38.244 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:17:41.171 PM] info:	@@ MONGO Database Connected
+[2024-11-28 01:18:54.639 PM] info:	@@ Start of data validation...
+[2024-11-28 01:18:54.643 PM] info:	@@ End of data validation...
+[2024-11-28 01:18:54.647 PM] info:	HTTP Access Log
+[2024-11-28 01:18:54.887 PM] info:	existingUser
+[2024-11-28 01:18:54.887 PM] info:	Hashing password...
+[2024-11-28 01:18:55.157 PM] info:	Generating username...
+[2024-11-28 01:18:55.975 PM] info:	@@ Start of user creation
+[2024-11-28 01:18:55.985 PM] error:	undefined
+[2024-11-28 01:18:55.992 PM] error:	unhandledRejection: Cannot set headers after they are sent to the client
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:406:5)
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:794:10)
+    at ServerResponse.send (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:174:12)
+    at ServerResponse.json (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:278:15)
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:78:28)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-11-28 01:19:26.133 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:19:30.038 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:19:32.056 PM] info:	@@ MONGO Database Connected
+[2024-11-28 01:20:05.583 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:20:08.440 PM] info:	@@ MONGO Database Connected
+[2024-11-28 01:20:11.276 PM] info:	@@ Start of data validation...
+[2024-11-28 01:20:11.277 PM] info:	@@ End of data validation...
+[2024-11-28 01:20:11.468 PM] info:	existingUser
+[2024-11-28 01:20:11.469 PM] info:	Hashing password...
+[2024-11-28 01:20:11.756 PM] info:	Generating username...
+[2024-11-28 01:20:11.944 PM] info:	@@ Start of user creation
+[2024-11-28 01:20:11.953 PM] error:	undefined
+[2024-11-28 01:20:11.961 PM] info:	HTTP Access Log
+[2024-11-28 01:20:36.894 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:20:46.172 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:20:49.495 PM] info:	@@ MONGO Database Connected
+[2024-11-28 01:20:50.934 PM] info:	@@ Start of data validation...
+[2024-11-28 01:20:50.935 PM] info:	@@ Fullname validated...
+[2024-11-28 01:20:50.935 PM] info:	@@ Email validated...
+[2024-11-28 01:20:50.936 PM] info:	@@ Password validated...
+[2024-11-28 01:20:50.936 PM] info:	@@ End of data validation...
+[2024-11-28 01:20:51.127 PM] info:	existingUser
+[2024-11-28 01:20:51.128 PM] info:	Hashing password...
+[2024-11-28 01:20:51.407 PM] info:	Generating username...
+[2024-11-28 01:20:51.594 PM] info:	@@ Start of user creation
+[2024-11-28 01:20:51.604 PM] error:	undefined
+[2024-11-28 01:20:51.624 PM] info:	HTTP Access Log
+[2024-11-28 01:21:26.685 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:21:30.879 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:21:34.250 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:21:36.620 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:21:40.143 PM] info:	@@ MONGO Database Connected
+[2024-11-28 01:22:17.633 PM] info:	@@ Start of data validation...
+[2024-11-28 01:22:17.634 PM] info:	@@ Fullname validated...
+[2024-11-28 01:22:17.635 PM] info:	@@ Email validated...
+[2024-11-28 01:22:17.636 PM] info:	@@ Password validated...
+[2024-11-28 01:22:17.637 PM] info:	@@ End of data validation...
+[2024-11-28 01:22:17.827 PM] info:	@@ User already exists =>
+[2024-11-28 01:22:17.827 PM] info:	Hashing password...
+[2024-11-28 01:22:18.115 PM] info:	Generating username...
+[2024-11-28 01:22:18.302 PM] info:	@@ Start of user creation
+[2024-11-28 01:22:18.312 PM] error:	undefined
+[2024-11-28 01:22:18.317 PM] info:	HTTP Access Log
+[2024-11-28 01:22:39.862 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:22:43.512 PM] info:	@@ MONGO Database Connected
+[2024-11-28 01:22:46.630 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:22:48.624 PM] info:	@@ MONGO Database Connected
+[2024-11-28 01:22:52.664 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:22:56.034 PM] info:	@@ MONGO Database Connected
+[2024-11-28 01:23:01.052 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:23:03.721 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:23:07.284 PM] info:	@@ MONGO Database Connected
+[2024-11-28 01:23:08.647 PM] info:	@@ Start of data validation...
+[2024-11-28 01:23:08.648 PM] info:	@@ Fullname validated...
+[2024-11-28 01:23:08.648 PM] info:	@@ Email validated...
+[2024-11-28 01:23:08.649 PM] info:	@@ Password validated...
+[2024-11-28 01:23:08.649 PM] info:	@@ End of data validation...
+[2024-11-28 01:23:08.839 PM] info:	Hashing password...
+[2024-11-28 01:23:09.120 PM] info:	Generating username...
+[2024-11-28 01:23:09.307 PM] info:	@@ Start of user creation
+[2024-11-28 01:23:09.316 PM] error:	undefined
+[2024-11-28 01:23:09.322 PM] info:	HTTP Access Log
+[2024-11-28 01:23:45.850 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:23:48.866 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:23:51.623 PM] info:	@@ MONGO Database Connected
+[2024-11-28 01:23:59.313 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:24:01.473 PM] info:	@@ MONGO Database Connected
+[2024-11-28 01:24:09.358 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:24:12.510 PM] info:	@@ MONGO Database Connected
+[2024-11-28 01:24:14.844 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:24:17.503 PM] info:	@@ MONGO Database Connected
+[2024-11-28 01:24:20.105 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:24:28.750 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:24:32.842 PM] info:	@@ MONGO Database Connected
+[2024-11-28 01:24:40.313 PM] info:	@@ Start of data validation...
+[2024-11-28 01:24:40.314 PM] info:	@@ Fullname validated...
+[2024-11-28 01:24:40.317 PM] info:	@@ Email validated...
+[2024-11-28 01:24:40.318 PM] info:	@@ Password validated...
+[2024-11-28 01:24:40.319 PM] info:	@@ End of data validation...
+[2024-11-28 01:24:40.510 PM] info:	Hashing password...
+[2024-11-28 01:24:40.795 PM] info:	Password hashed...
+[2024-11-28 01:24:40.796 PM] info:	Generating username...
+[2024-11-28 01:24:40.985 PM] info:	Username generated...
+[2024-11-28 01:24:40.985 PM] info:	@@ Start of user creation
+[2024-11-28 01:24:40.995 PM] error:	undefined
+[2024-11-28 01:24:41.002 PM] info:	HTTP Access Log
+[2024-11-28 01:25:11.084 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:25:13.192 PM] info:	@@ MONGO Database Connected
+[2024-11-28 01:25:15.818 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:25:17.781 PM] info:	@@ MONGO Database Connected
+[2024-11-28 01:25:21.943 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:25:23.863 PM] info:	@@ MONGO Database Connected
+[2024-11-28 01:26:07.451 PM] info:	@@ Start of data validation...
+[2024-11-28 01:26:07.452 PM] info:	@@ Fullname validated...
+[2024-11-28 01:26:07.453 PM] info:	@@ Email validated...
+[2024-11-28 01:26:07.454 PM] info:	@@ Password validated...
+[2024-11-28 01:26:07.455 PM] info:	@@ End of data validation...
+[2024-11-28 01:26:07.647 PM] info:	Hashing password...
+[2024-11-28 01:26:07.978 PM] info:	Password hashed...
+[2024-11-28 01:26:07.979 PM] info:	Generating username...
+[2024-11-28 01:26:08.167 PM] info:	Username generated...
+[2024-11-28 01:26:08.168 PM] info:	@@ Start of user creation
+[2024-11-28 01:26:08.181 PM] error:	undefined
+[2024-11-28 01:26:08.189 PM] info:	HTTP Access Log
+[2024-11-28 01:26:55.337 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:27:00.809 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:27:02.818 PM] info:	@@ MONGO Database Connected
+[2024-11-28 01:27:10.121 PM] info:	@@ Start of data validation...
+[2024-11-28 01:27:10.122 PM] info:	@@ Fullname validated...
+[2024-11-28 01:27:10.123 PM] info:	@@ Email validated...
+[2024-11-28 01:27:10.124 PM] info:	@@ Password validated...
+[2024-11-28 01:27:10.125 PM] info:	@@ End of data validation...
+[2024-11-28 01:27:11.130 PM] info:	Hashing password...
+[2024-11-28 01:27:11.421 PM] info:	Password hashed...
+[2024-11-28 01:27:11.422 PM] info:	Generating username...
+[2024-11-28 01:27:11.774 PM] info:	Username generated...
+[2024-11-28 01:27:11.775 PM] info:	@@ Start of user creation
+[2024-11-28 01:27:11.784 PM] error:	undefined
+[2024-11-28 01:27:11.792 PM] info:	HTTP Access Log
+[2024-11-28 01:27:40.451 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:27:46.115 PM] info:	@@ MONGO Database Connected
+[2024-11-28 01:27:49.630 PM] info:	@@ Start of data validation...
+[2024-11-28 01:27:49.631 PM] info:	@@ Fullname validated...
+[2024-11-28 01:27:49.632 PM] info:	@@ Email validated...
+[2024-11-28 01:27:49.633 PM] info:	@@ Password validated...
+[2024-11-28 01:27:49.634 PM] info:	@@ End of data validation...
+[2024-11-28 01:27:49.837 PM] info:	Hashing password...
+[2024-11-28 01:27:50.141 PM] info:	Password hashed...
+[2024-11-28 01:27:50.142 PM] info:	Generating username...
+[2024-11-28 01:27:50.330 PM] info:	Username generated...
+[2024-11-28 01:27:50.331 PM] info:	@@ Start of user creation
+[2024-11-28 01:27:50.341 PM] error:	undefined
+[2024-11-28 01:27:50.347 PM] info:	HTTP Access Log
+[2024-11-28 01:28:19.190 PM] info:	@@ Start of data validation...
+[2024-11-28 01:28:19.191 PM] info:	@@ Fullname validated...
+[2024-11-28 01:28:19.191 PM] info:	@@ Email validated...
+[2024-11-28 01:28:19.192 PM] info:	@@ Password validated...
+[2024-11-28 01:28:19.213 PM] info:	@@ End of data validation...
+[2024-11-28 01:28:20.246 PM] info:	Hashing password...
+[2024-11-28 01:28:20.569 PM] info:	Password hashed...
+[2024-11-28 01:28:20.570 PM] info:	Generating username...
+[2024-11-28 01:28:21.146 PM] info:	Username generated...
+[2024-11-28 01:28:21.147 PM] info:	@@ Start of user creation
+[2024-11-28 01:28:21.530 PM] info:	@@ User created...
+[2024-11-28 01:28:21.537 PM] info:	HTTP Access Log
+[2024-11-28 01:28:47.023 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:28:52.570 PM] info:	@@ MONGO Database Connected
+[2024-11-28 01:29:45.325 PM] info:	@@ Start of data validation...
+[2024-11-28 01:29:45.330 PM] info:	@@ Fullname validated...
+[2024-11-28 01:29:45.331 PM] info:	@@ Email validated...
+[2024-11-28 01:29:45.332 PM] info:	@@ Password validated...
+[2024-11-28 01:29:45.333 PM] info:	@@ End of data validation...
+[2024-11-28 01:29:45.337 PM] info:	HTTP Access Log
+[2024-11-28 01:29:45.552 PM] info:	Hashing password...
+[2024-11-28 01:29:45.864 PM] info:	Password hashed...
+[2024-11-28 01:29:45.865 PM] info:	Generating username...
+[2024-11-28 01:29:46.053 PM] info:	Username generated...
+[2024-11-28 01:29:46.054 PM] info:	@@ Start of user creation
+[2024-11-28 01:29:46.066 PM] error:	undefined
+[2024-11-28 01:29:46.073 PM] error:	unhandledRejection: Cannot set headers after they are sent to the client
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:406:5)
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:794:10)
+    at ServerResponse.send (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:174:12)
+    at ServerResponse.json (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:278:15)
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:83:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-11-28 01:30:08.126 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:30:11.674 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:30:12.555 PM] info:	@@ Start of data validation...
+[2024-11-28 01:30:12.559 PM] info:	@@ Fullname validated...
+[2024-11-28 01:30:12.560 PM] info:	@@ Email validated...
+[2024-11-28 01:30:12.561 PM] info:	@@ Password validated...
+[2024-11-28 01:30:12.562 PM] info:	@@ End of data validation...
+[2024-11-28 01:30:12.566 PM] info:	HTTP Access Log
+[2024-11-28 01:30:13.789 PM] info:	@@ MONGO Database Connected
+[2024-11-28 01:30:13.984 PM] info:	Hashing password...
+[2024-11-28 01:30:14.291 PM] info:	Password hashed...
+[2024-11-28 01:30:14.291 PM] info:	Generating username...
+[2024-11-28 01:30:14.481 PM] info:	Username generated...
+[2024-11-28 01:30:14.482 PM] info:	@@ Start of user creation
+[2024-11-28 01:30:14.495 PM] error:	undefined
+[2024-11-28 01:30:14.500 PM] error:	unhandledRejection: Cannot set headers after they are sent to the client
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:406:5)
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:794:10)
+    at ServerResponse.send (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:174:12)
+    at ServerResponse.json (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:278:15)
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:83:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-11-28 01:30:30.834 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:30:33.970 PM] info:	@@ MONGO Database Connected
+[2024-11-28 01:30:39.093 PM] info:	@@ Start of data validation...
+[2024-11-28 01:30:39.096 PM] info:	@@ Fullname validated...
+[2024-11-28 01:30:39.097 PM] info:	@@ Email validated...
+[2024-11-28 01:30:39.098 PM] info:	@@ Password validated...
+[2024-11-28 01:30:39.099 PM] info:	@@ End of data validation...
+[2024-11-28 01:30:39.103 PM] info:	HTTP Access Log
+[2024-11-28 01:30:39.298 PM] info:	Hashing password...
+[2024-11-28 01:30:39.605 PM] info:	Password hashed...
+[2024-11-28 01:30:39.606 PM] info:	Generating username...
+[2024-11-28 01:30:39.794 PM] info:	Username generated...
+[2024-11-28 01:30:39.795 PM] info:	@@ Start of user creation
+[2024-11-28 01:30:39.804 PM] error:	undefined
+[2024-11-28 01:30:39.808 PM] error:	unhandledRejection: Cannot set headers after they are sent to the client
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:406:5)
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:794:10)
+    at ServerResponse.send (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:174:12)
+    at ServerResponse.json (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:278:15)
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:83:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-11-28 01:30:57.788 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:31:01.174 PM] info:	@@ MONGO Database Connected
+[2024-11-28 01:31:11.805 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:31:16.281 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:31:18.670 PM] info:	@@ MONGO Database Connected
+[2024-11-28 01:31:21.529 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:31:23.529 PM] info:	@@ MONGO Database Connected
+[2024-11-28 01:31:30.529 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:31:33.254 PM] info:	@@ MONGO Database Connected
+[2024-11-28 01:31:35.416 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:31:38.169 PM] info:	@@ MONGO Database Connected
+[2024-11-28 01:31:42.061 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:31:44.182 PM] info:	@@ MONGO Database Connected
+[2024-11-28 01:31:46.962 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:31:48.935 PM] info:	@@ MONGO Database Connected
+[2024-11-28 01:31:54.228 PM] info:	@@ Start of data validation...
+[2024-11-28 01:31:54.233 PM] info:	@@ Fullname validated...
+[2024-11-28 01:31:54.234 PM] error:	undefined
+[2024-11-28 01:31:54.239 PM] info:	HTTP Access Log
+[2024-11-28 01:31:54.243 PM] error:	unhandledRejection: Cannot set headers after they are sent to the client
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:406:5)
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:794:10)
+    at ServerResponse.send (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:174:12)
+    at ServerResponse.json (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:278:15)
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:83:8)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+[2024-11-28 01:32:08.839 PM] info:	@@ Start of data validation...
+[2024-11-28 01:32:08.841 PM] info:	@@ Fullname validated...
+[2024-11-28 01:32:08.842 PM] error:	undefined
+[2024-11-28 01:32:08.843 PM] info:	HTTP Access Log
+[2024-11-28 01:32:08.845 PM] error:	unhandledRejection: Cannot set headers after they are sent to the client
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:406:5)
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:794:10)
+    at ServerResponse.send (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:174:12)
+    at ServerResponse.json (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:278:15)
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:83:8)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+[2024-11-28 01:32:22.275 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:32:24.699 PM] info:	@@ MONGO Database Connected
+[2024-11-28 01:32:28.440 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:32:33.646 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:32:35.712 PM] info:	@@ MONGO Database Connected
+[2024-11-28 01:32:41.317 PM] info:	@@ Start of data validation...
+[2024-11-28 01:32:41.318 PM] info:	@@ Fullname validated...
+[2024-11-28 01:32:41.319 PM] error:	undefined
+[2024-11-28 01:32:41.327 PM] info:	HTTP Access Log
+[2024-11-28 01:33:01.894 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:33:04.599 PM] info:	@@ MONGO Database Connected
+[2024-11-28 01:33:04.992 PM] info:	@@ Start of data validation...
+[2024-11-28 01:33:04.992 PM] info:	@@ Fullname validated...
+[2024-11-28 01:33:04.995 PM] info:	@@ Email validated...
+[2024-11-28 01:33:04.996 PM] info:	@@ Password validated...
+[2024-11-28 01:33:04.997 PM] info:	@@ End of data validation...
+[2024-11-28 01:33:05.001 PM] info:	HTTP Access Log
+[2024-11-28 01:33:05.651 PM] info:	Hashing password...
+[2024-11-28 01:33:05.945 PM] info:	Password hashed...
+[2024-11-28 01:33:05.946 PM] info:	Generating username...
+[2024-11-28 01:33:06.136 PM] info:	Username generated...
+[2024-11-28 01:33:06.137 PM] info:	@@ Start of user creation
+[2024-11-28 01:33:06.342 PM] info:	@@ User created...
+[2024-11-28 01:33:06.347 PM] error:	undefined
+[2024-11-28 01:33:06.350 PM] error:	unhandledRejection: Cannot set headers after they are sent to the client
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:406:5)
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:794:10)
+    at ServerResponse.send (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:174:12)
+    at ServerResponse.json (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:278:15)
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:83:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-11-28 01:33:18.982 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:33:21.642 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:33:24.474 PM] info:	@@ MONGO Database Connected
+[2024-11-28 01:33:27.909 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:33:30.603 PM] info:	@@ MONGO Database Connected
+[2024-11-28 01:33:37.442 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:33:43.130 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:33:45.825 PM] info:	@@ MONGO Database Connected
+[2024-11-28 01:33:57.204 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:33:59.626 PM] info:	@@ MONGO Database Connected
+[2024-11-28 01:34:06.727 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:34:08.655 PM] info:	@@ MONGO Database Connected
+[2024-11-28 01:34:20.634 PM] info:	@@ Start of data validation...
+[2024-11-28 01:34:20.636 PM] info:	@@ Fullname validated...
+[2024-11-28 01:34:20.637 PM] info:	@@ Email validated...
+[2024-11-28 01:34:20.643 PM] info:	@@ Password validated...
+[2024-11-28 01:34:20.644 PM] info:	@@ End of data validation...
+[2024-11-28 01:34:20.648 PM] info:	HTTP Access Log
+[2024-11-28 01:34:20.841 PM] info:	Hashing password...
+[2024-11-28 01:34:21.174 PM] info:	Password hashed...
+[2024-11-28 01:34:21.175 PM] info:	Generating username...
+[2024-11-28 01:34:21.363 PM] info:	Username generated...
+[2024-11-28 01:34:21.364 PM] info:	@@ Start of user creation
+[2024-11-28 01:34:21.568 PM] info:	@@ User created...
+[2024-11-28 01:34:21.575 PM] error:	undefined
+[2024-11-28 01:34:21.579 PM] error:	unhandledRejection: Cannot set headers after they are sent to the client
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:406:5)
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:794:10)
+    at ServerResponse.send (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:174:12)
+    at ServerResponse.json (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:278:15)
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:83:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-11-28 01:34:27.814 PM] info:	@@ Start of data validation...
+[2024-11-28 01:34:27.814 PM] info:	@@ Fullname validated...
+[2024-11-28 01:34:27.815 PM] info:	@@ Email validated...
+[2024-11-28 01:34:27.816 PM] info:	@@ Password validated...
+[2024-11-28 01:34:27.816 PM] info:	@@ End of data validation...
+[2024-11-28 01:34:28.429 PM] error:	@@ Email already exists
+[2024-11-28 01:34:28.433 PM] info:	HTTP Access Log
+[2024-11-28 01:35:00.955 PM] info:	@@ Start of data validation...
+[2024-11-28 01:35:00.956 PM] info:	@@ Fullname validated...
+[2024-11-28 01:35:00.956 PM] info:	@@ Email validated...
+[2024-11-28 01:35:00.956 PM] info:	@@ Password validated...
+[2024-11-28 01:35:00.957 PM] info:	@@ End of data validation...
+[2024-11-28 01:35:01.143 PM] info:	Hashing password...
+[2024-11-28 01:35:01.464 PM] info:	Password hashed...
+[2024-11-28 01:35:01.465 PM] info:	Generating username...
+[2024-11-28 01:35:01.659 PM] info:	Username generated...
+[2024-11-28 01:35:01.659 PM] info:	@@ Start of user creation
+[2024-11-28 01:35:01.852 PM] info:	@@ User created...
+[2024-11-28 01:35:01.856 PM] info:	HTTP Access Log
+[2024-11-28 01:35:23.549 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:35:26.654 PM] info:	@@ MONGO Database Connected
+[2024-11-28 01:35:44.327 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:35:50.376 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:35:54.924 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:36:02.770 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:36:06.860 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:36:17.714 PM] info:	@@ MONGO Database Connected
+[2024-11-28 01:36:21.828 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:36:29.586 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:36:39.000 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:36:49.513 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:37:04.369 PM] info:	@@ MONGO Database Connected
+[2024-11-28 01:37:37.794 PM] error:	SyntaxError: Expected double-quoted property name in JSON at position 85
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\body-parser\lib\types\json.js:92:19)
+    at C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:514:28)
+    at endReadableNT (node:internal/streams/readable:1408:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+[2024-11-28 01:38:29.021 PM] info:	@@ Start of data validation
+[2024-11-28 01:38:29.312 PM] info:	@@ End of data validation
+[2024-11-28 01:38:29.596 PM] info:	@@ User logged in
+[2024-11-28 01:38:29.602 PM] info:	HTTP Access Log
+[2024-11-28 01:45:33.606 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:45:36.488 PM] info:	@@ MONGO Database Connected
+[2024-11-28 01:45:41.004 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:45:44.660 PM] info:	@@ MONGO Database Connected
+[2024-11-28 01:46:37.010 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:46:44.712 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:46:52.626 PM] info:	@@ MONGO Database Connected
+[2024-11-28 01:47:09.441 PM] error:	uncaughtException: authorizedRoles is not defined
+ReferenceError: authorizedRoles is not defined
+    at file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/routes.js:25:12
+    at ModuleJob.run (node:internal/modules/esm/module_job:217:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:316:24)
+    at async loadESM (node:internal/process/esm_loader:34:7)
+    at async handleMainPromise (node:internal/modules/run_main:66:12)
+[2024-11-28 01:48:18.525 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:48:22.316 PM] info:	@@ MONGO Database Connected
+[2024-11-28 01:48:28.577 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:48:32.903 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:48:36.442 PM] info:	@@ MONGO Database Connected
+[2024-11-28 01:49:39.652 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:49:41.766 PM] info:	@@ MONGO Database Connected
+[2024-11-28 01:50:11.491 PM] error:	SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\body-parser\lib\types\json.js:169:10)
+    at parse (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\body-parser\lib\types\json.js:86:15)
+    at C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:514:28)
+    at endReadableNT (node:internal/streams/readable:1408:12)
+[2024-11-28 01:51:24.444 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:51:29.415 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:51:31.400 PM] info:	@@ MONGO Database Connected
+[2024-11-28 01:51:47.332 PM] info:	@@ Cache miss for /api/v1/events/latest-events
+[2024-11-28 01:51:47.340 PM] info:	HTTP Access Log
+[2024-11-28 01:52:06.235 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:52:10.173 PM] info:	@@ MONGO Database Connected
+[2024-11-28 01:52:30.249 PM] info:	HTTP Access Log
+[2024-11-28 01:52:45.181 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:52:48.720 PM] info:	@@ MONGO Database Connected
+[2024-11-28 01:53:09.994 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:53:13.959 PM] info:	@@ MONGO Database Connected
+[2024-11-28 01:54:07.044 PM] info:	@@ Start of data validation
+[2024-11-28 01:54:07.244 PM] info:	@@ End of data validation
+[2024-11-28 01:54:07.556 PM] info:	@@ User logged in
+[2024-11-28 01:54:07.565 PM] info:	HTTP Access Log
+[2024-11-28 01:54:35.118 PM] error:	SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\body-parser\lib\types\json.js:169:10)
+    at parse (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\body-parser\lib\types\json.js:86:15)
+    at C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:514:28)
+    at endReadableNT (node:internal/streams/readable:1408:12)
+[2024-11-28 01:55:29.440 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:55:31.553 PM] info:	@@ MONGO Database Connected
+[2024-11-28 01:56:55.979 PM] error:	SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\body-parser\lib\types\json.js:169:10)
+    at parse (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\body-parser\lib\types\json.js:86:15)
+    at C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:514:28)
+    at endReadableNT (node:internal/streams/readable:1408:12)
+[2024-11-28 01:57:43.898 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:57:47.159 PM] info:	@@ MONGO Database Connected
+[2024-11-28 01:59:01.053 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 01:59:03.192 PM] info:	@@ MONGO Database Connected
+[2024-11-28 01:59:51.194 PM] error:	SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\body-parser\lib\types\json.js:169:10)
+    at parse (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\body-parser\lib\types\json.js:86:15)
+    at C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:514:28)
+    at endReadableNT (node:internal/streams/readable:1408:12)
+[2024-11-28 02:00:41.092 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 02:00:43.228 PM] info:	@@ MONGO Database Connected
+[2024-11-28 02:00:58.591 PM] error:	SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\body-parser\lib\types\json.js:169:10)
+    at parse (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\body-parser\lib\types\json.js:86:15)
+    at C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:514:28)
+    at endReadableNT (node:internal/streams/readable:1408:12)
+[2024-11-28 02:01:05.360 PM] info:	@@ Start of data validation
+[2024-11-28 02:01:05.559 PM] info:	@@ End of data validation
+[2024-11-28 02:01:05.889 PM] info:	@@ User logged in
+[2024-11-28 02:01:05.894 PM] info:	HTTP Access Log
+[2024-11-28 02:01:16.922 PM] info:	@@ Start of data validation
+[2024-11-28 02:01:17.115 PM] info:	@@ End of data validation
+[2024-11-28 02:01:17.398 PM] info:	@@ User logged in
+[2024-11-28 02:01:17.400 PM] info:	HTTP Access Log
+[2024-11-28 02:01:28.949 PM] error:	SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\body-parser\lib\types\json.js:169:10)
+    at parse (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\body-parser\lib\types\json.js:86:15)
+    at C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:514:28)
+    at endReadableNT (node:internal/streams/readable:1408:12)
+[2024-11-28 02:01:39.513 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 02:01:41.103 PM] error:	SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\body-parser\lib\types\json.js:169:10)
+    at parse (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\body-parser\lib\types\json.js:86:15)
+    at C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:514:28)
+    at endReadableNT (node:internal/streams/readable:1408:12)
+[2024-11-28 02:01:41.485 PM] info:	@@ MONGO Database Connected
+[2024-11-28 02:03:08.797 PM] info:	HTTP Access Log
+[2024-11-28 02:03:45.115 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 02:03:52.025 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 02:03:53.511 PM] info:	HTTP Access Log
+[2024-11-28 02:03:53.943 PM] info:	@@ MONGO Database Connected
+[2024-11-28 02:04:09.292 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 02:04:11.227 PM] info:	@@ MONGO Database Connected
+[2024-11-28 02:04:18.520 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 02:04:18.550 PM] info:	HTTP Access Log
+[2024-11-28 02:04:20.524 PM] info:	@@ MONGO Database Connected
+[2024-11-28 02:04:31.181 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 02:04:34.565 PM] info:	HTTP Access Log
+[2024-11-28 02:04:38.269 PM] info:	@@ MONGO Database Connected
+[2024-11-28 02:05:12.714 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 02:05:15.918 PM] info:	@@ MONGO Database Connected
+[2024-11-28 02:05:16.540 PM] info:	HTTP Access Log
+[2024-11-28 02:05:51.375 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 02:05:54.148 PM] info:	HTTP Access Log
+[2024-11-28 02:05:54.294 PM] info:	@@ MONGO Database Connected
+[2024-11-28 02:06:07.741 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 02:06:10.535 PM] info:	@@ MONGO Database Connected
+[2024-11-28 02:06:42.527 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 02:06:43.645 PM] info:	HTTP Access Log
+[2024-11-28 02:06:46.224 PM] info:	@@ MONGO Database Connected
+[2024-11-28 02:07:17.175 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 02:07:18.450 PM] info:	HTTP Access Log
+[2024-11-28 02:07:20.577 PM] info:	@@ MONGO Database Connected
+[2024-11-28 02:07:23.284 PM] info:	HTTP Access Log
+[2024-11-28 02:07:41.604 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 02:07:43.583 PM] info:	HTTP Access Log
+[2024-11-28 02:07:44.337 PM] info:	@@ MONGO Database Connected
+[2024-11-28 02:08:02.629 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 02:08:10.964 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 02:08:11.583 PM] info:	HTTP Access Log
+[2024-11-28 02:08:14.186 PM] info:	@@ MONGO Database Connected
+[2024-11-28 02:08:47.201 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 02:08:50.179 PM] info:	@@ MONGO Database Connected
+[2024-11-28 02:09:00.530 PM] info:	HTTP Access Log
+[2024-11-28 02:09:20.073 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 02:09:24.722 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 02:09:29.289 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 02:09:31.204 PM] info:	@@ MONGO Database Connected
+[2024-11-28 02:09:35.366 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 02:09:38.691 PM] info:	@@ MONGO Database Connected
+[2024-11-28 02:09:38.939 PM] info:	HTTP Access Log
+[2024-11-28 02:10:03.200 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 02:10:05.075 PM] info:	HTTP Access Log
+[2024-11-28 02:10:06.439 PM] info:	@@ MONGO Database Connected
+[2024-11-28 02:10:23.836 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 02:10:28.430 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 02:10:29.816 PM] info:	HTTP Access Log
+[2024-11-28 02:10:30.613 PM] info:	@@ MONGO Database Connected
+[2024-11-28 02:10:41.513 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 02:10:44.446 PM] info:	@@ MONGO Database Connected
+[2024-11-28 02:10:53.847 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 02:10:54.878 PM] info:	HTTP Access Log
+[2024-11-28 02:10:56.284 PM] info:	@@ MONGO Database Connected
+[2024-11-28 02:11:28.672 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 02:11:31.373 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 02:11:33.293 PM] info:	@@ MONGO Database Connected
+[2024-11-28 02:11:38.146 PM] info:	HTTP Access Log
+[2024-11-28 02:11:55.160 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 02:12:01.625 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 02:12:03.618 PM] info:	@@ MONGO Database Connected
+[2024-11-28 02:12:11.675 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 02:12:17.423 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 02:12:18.020 PM] info:	HTTP Access Log
+[2024-11-28 02:12:19.523 PM] info:	@@ MONGO Database Connected
+[2024-11-28 02:12:47.718 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 02:12:49.694 PM] info:	@@ MONGO Database Connected
+[2024-11-28 02:12:51.797 PM] info:	HTTP Access Log
+[2024-11-28 02:13:05.615 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 02:13:09.665 PM] info:	@@ MONGO Database Connected
+[2024-11-28 02:13:12.104 PM] info:	HTTP Access Log
+[2024-11-28 02:13:46.230 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 02:13:49.480 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 02:13:49.938 PM] info:	HTTP Access Log
+[2024-11-28 02:14:05.927 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 02:14:07.861 PM] info:	@@ MONGO Database Connected
+[2024-11-28 02:21:49.815 PM] info:	HTTP Access Log
+[2024-11-28 02:22:13.856 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 02:22:17.069 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 02:22:20.155 PM] info:	@@ MONGO Database Connected
+[2024-11-28 02:22:21.442 PM] info:	HTTP Access Log
+[2024-11-28 02:22:48.283 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 02:22:50.208 PM] info:	@@ MONGO Database Connected
+[2024-11-28 02:22:53.526 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 02:22:54.818 PM] info:	HTTP Access Log
+[2024-11-28 02:22:56.950 PM] info:	@@ MONGO Database Connected
+[2024-11-28 02:23:09.675 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 02:23:11.618 PM] info:	@@ MONGO Database Connected
+[2024-11-28 02:23:14.348 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 02:23:15.301 PM] info:	HTTP Access Log
+[2024-11-28 02:23:16.617 PM] info:	@@ MONGO Database Connected
+[2024-11-28 02:23:33.015 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 02:23:35.002 PM] info:	@@ MONGO Database Connected
+[2024-11-28 02:23:37.950 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 02:23:39.907 PM] info:	@@ MONGO Database Connected
+[2024-11-28 02:23:46.263 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 02:23:54.545 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 02:23:56.170 PM] info:	HTTP Access Log
+[2024-11-28 02:23:56.554 PM] info:	@@ MONGO Database Connected
+[2024-11-28 02:24:06.991 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 02:24:08.935 PM] info:	@@ MONGO Database Connected
+[2024-11-28 02:24:15.147 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 02:24:19.033 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 02:24:20.997 PM] info:	@@ MONGO Database Connected
+[2024-11-28 02:24:24.461 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 02:24:26.409 PM] info:	@@ MONGO Database Connected
+[2024-11-28 02:24:35.954 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 02:24:37.891 PM] info:	@@ MONGO Database Connected
+[2024-11-28 02:24:49.880 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 02:24:51.824 PM] info:	@@ MONGO Database Connected
+[2024-11-28 02:24:56.400 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 02:24:56.504 PM] info:	HTTP Access Log
+[2024-11-28 02:24:58.483 PM] info:	@@ MONGO Database Connected
+[2024-11-28 02:25:18.631 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 02:25:20.753 PM] info:	@@ MONGO Database Connected
+[2024-11-28 02:25:30.811 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 02:25:32.767 PM] info:	@@ MONGO Database Connected
+[2024-11-28 02:25:36.597 PM] info:	HTTP Access Log
+[2024-11-28 02:25:59.905 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 02:26:00.059 PM] info:	HTTP Access Log
+[2024-11-28 02:26:01.881 PM] info:	@@ MONGO Database Connected
+[2024-11-28 02:26:29.004 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 02:26:31.653 PM] info:	@@ MONGO Database Connected
+[2024-11-28 02:26:39.703 PM] info:	HTTP Access Log
+[2024-11-28 02:26:48.634 PM] info:	@@ Start of data validation
+[2024-11-28 02:26:49.030 PM] info:	@@ End of data validation
+[2024-11-28 02:26:49.320 PM] info:	@@ User logged in
+[2024-11-28 02:26:49.324 PM] info:	HTTP Access Log
+[2024-11-28 02:27:03.929 PM] info:	HTTP Access Log
+[2024-11-28 02:27:24.255 PM] info:	HTTP Access Log
+[2024-11-28 02:28:13.404 PM] info:	HTTP Access Log
+[2024-11-28 03:13:54.218 PM] info:	HTTP Access Log
+[2024-11-28 03:14:53.797 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:14:55.859 PM] info:	HTTP Access Log
+[2024-11-28 03:14:56.194 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:15:19.720 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:15:21.641 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:15:38.850 PM] info:	HTTP Access Log
+[2024-11-28 03:16:17.543 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:16:35.159 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:16:40.016 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:16:41.944 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:16:44.114 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:16:51.003 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:16:52.951 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:17:58.654 PM] info:	HTTP Access Log
+[2024-11-28 03:18:14.968 PM] info:	@@ Start of data validation
+[2024-11-28 03:18:15.593 PM] info:	@@ End of data validation
+[2024-11-28 03:18:15.935 PM] info:	@@ User logged in
+[2024-11-28 03:18:15.940 PM] info:	HTTP Access Log
+[2024-11-28 03:19:08.201 PM] info:	Fetching latest events...
+[2024-11-28 03:19:08.593 PM] info:	@@ Latest events fetched successfully
+[2024-11-28 03:19:08.597 PM] info:	HTTP Access Log
+[2024-11-28 03:20:04.149 PM] info:	Fetching latest events...
+[2024-11-28 03:20:04.530 PM] info:	@@ Latest events fetched successfully
+[2024-11-28 03:20:04.534 PM] info:	HTTP Access Log
+[2024-11-28 03:20:33.008 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:20:36.163 PM] info:	HTTP Access Log
+[2024-11-28 03:20:36.664 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:20:45.341 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:20:46.150 PM] info:	Fetching latest events...
+[2024-11-28 03:20:47.580 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:20:48.188 PM] info:	@@ Latest events fetched successfully
+[2024-11-28 03:20:48.196 PM] info:	HTTP Access Log
+[2024-11-28 03:20:55.502 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:20:57.437 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:21:23.528 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:21:25.517 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:21:27.661 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:21:31.016 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:21:35.060 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:21:37.173 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:21:52.737 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:21:54.972 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:21:59.337 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:22:03.540 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:22:05.480 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:22:08.870 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:22:10.867 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:22:25.483 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:22:29.848 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:22:32.595 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:22:36.136 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:22:39.017 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:22:42.125 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:22:44.060 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:22:46.901 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:22:53.302 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:22:55.567 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:23:17.928 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:23:19.944 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:23:26.670 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:23:28.655 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:23:36.329 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:23:38.506 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:24:07.300 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:24:09.350 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:24:35.774 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:24:38.036 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:26:02.920 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:26:05.460 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:26:07.518 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:26:21.721 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:26:28.200 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:26:30.173 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:26:34.484 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:26:36.454 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:26:58.008 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:27:00.120 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:27:16.693 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:27:18.751 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:27:34.201 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:27:39.433 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:27:41.498 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:27:44.679 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:27:46.603 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:27:53.489 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:27:56.531 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:27:58.464 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:29:15.809 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:29:21.088 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:29:23.064 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:29:31.850 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:29:33.789 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:29:37.579 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:29:39.504 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:29:47.421 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:29:49.350 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:29:57.067 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:29:59.016 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:33:44.541 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:33:46.817 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:33:55.436 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:33:57.442 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:34:19.433 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:34:24.938 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:34:26.868 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:34:46.546 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:34:50.513 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:34:53.160 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:34:59.972 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:35:02.118 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:35:22.619 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:35:29.931 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:35:45.206 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:35:47.580 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:36:07.941 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:36:15.144 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:36:17.670 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:36:20.822 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:37:21.075 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:37:24.483 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:37:26.459 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:37:31.139 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:37:33.070 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:37:45.827 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:37:47.793 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:37:51.095 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:37:53.073 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:37:58.388 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:38:00.802 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:38:08.174 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:38:10.345 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:39:16.115 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:39:21.674 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:39:24.658 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:39:26.608 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:39:35.682 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:39:37.636 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:39:40.551 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:39:42.480 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:39:55.375 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:39:57.358 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:40:45.918 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:40:48.230 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:40:57.826 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:41:00.016 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:41:15.301 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:41:17.311 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:41:33.051 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:41:35.005 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:41:43.265 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:41:45.203 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:47:20.102 PM] info:	HTTP Access Log
+[2024-11-28 03:51:10.078 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:51:12.233 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:51:42.398 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:51:44.381 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:52:03.922 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:52:09.101 PM] info:	@@ MONGO URI: mongodb+srv://dbUser:dbUser@cluster-0.alss8ju.mongodb.net/ono?retryWrites=true&w=majority&appName=cluster-0
+[2024-11-28 03:52:09.131 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:52:11.602 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:52:15.924 PM] info:	@@ Connection to db ...
+[2024-11-28 03:52:15.950 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:52:17.919 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:52:25.606 PM] info:	@@ Connection to db ...mongodb+srv://dbUser:dbUser@cluster-0.alss8ju.mongodb.net/ono?retryWrites=true&w=majority&appName=cluster-0
+[2024-11-28 03:52:25.633 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:52:27.566 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:53:32.964 PM] info:	@@ Connection to db ...mongodb+srv://dbUser:dbUser@cluster-0.alss8ju.mongodb.net/ono?retryWrites=true&w=majority&appName=cluster-0
+[2024-11-28 03:53:32.990 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:53:35.754 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:53:46.927 PM] info:	@@ Connection to db ...mongodb+srv://dbUser:dbUser@cluster-0.alss8ju.mongodb.net/ono?retryWrites=true&w=majority&appName=cluster-0
+[2024-11-28 03:53:46.955 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:53:49.195 PM] info:	@@ MONGO Database Connected
+[2024-11-28 03:53:53.743 PM] info:	@@ Connection to db ...mongodb+srv://dbUser:dbUser@cluster-0.alss8ju.mongodb.net/ono?retryWrites=true&w=majority&appName=cluster-0
+[2024-11-28 03:53:53.776 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:53:57.116 PM] info:	@@ Connection to db ...mongodb+srv://dbUser:dbUser@cluster-0.alss8ju.mongodb.net/ono?retryWrites=true&w=majority&appName=cluster-0
+[2024-11-28 03:53:57.143 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:54:01.856 PM] info:	@@ Connection to db ...mongodb+srv://dbUser:dbUser@cluster-0.alss8ju.mongodb.net/ono?retryWrites=true&w=majority&appName=cluster-0
+[2024-11-28 03:54:01.886 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:54:03.906 PM] info:	@@ Database Connected::
+[2024-11-28 03:54:53.235 PM] info:	@@ Connection to db ...mongodb+srv://dbUser:dbUser@cluster-0.alss8ju.mongodb.net/ono?retryWrites=true&w=majority&appName=cluster-0
+[2024-11-28 03:54:53.266 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:54:55.406 PM] info:	@@ Database Connected::
+[2024-11-28 03:55:27.869 PM] info:	@@ Connection to db ...mongodb+srv://dbUser:dbUser@cluster-0.alss8ju.mongodb.net/ono?retryWrites=true&w=majority&appName=cluster-0
+[2024-11-28 03:55:27.900 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:55:30.025 PM] info:	@@ Database Connected::
+[2024-11-28 03:55:50.235 PM] info:	@@ Connection to db ...mongodb+srv://dbUser:dbUser@cluster-0.alss8ju.mongodb.net/ono?retryWrites=true&w=majority&appName=cluster-0
+[2024-11-28 03:55:50.266 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:55:52.492 PM] info:	@@ Database Connected::
+[2024-11-28 03:56:16.879 PM] info:	@@ Connection to db ...mongodb+srv://dbUser:dbUser@cluster-0.alss8ju.mongodb.net/ono?retryWrites=true&w=majority&appName=cluster-0
+[2024-11-28 03:56:16.923 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:56:18.905 PM] info:	@@ Database Connected::
+[2024-11-28 03:56:24.923 PM] info:	@@ Connection to db ...
+[2024-11-28 03:56:24.949 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:56:26.965 PM] info:	@@ Database Connected::
+[2024-11-28 03:56:40.077 PM] info:	@@ Connection to db ...
+[2024-11-28 03:56:40.104 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:56:42.054 PM] info:	@@ Database Connected::
+[2024-11-28 03:56:42.055 PM] info:	@@ Database Connected::
+[2024-11-28 03:56:47.989 PM] info:	@@ Connection to db ...
+[2024-11-28 03:56:48.033 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:57:17.761 PM] info:	@@ Connection to db ...
+[2024-11-28 03:57:17.799 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:57:22.028 PM] info:	@@ Connection to db ...
+[2024-11-28 03:57:22.064 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:57:24.904 PM] info:	@@ Connection to db ...
+[2024-11-28 03:57:24.931 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:57:26.984 PM] info:	@@ Database Connected::ono
+[2024-11-28 03:57:33.117 PM] info:	@@ Connection to db ...
+[2024-11-28 03:57:33.160 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:57:35.157 PM] info:	@@ Database Connected::ono
+[2024-11-28 03:58:25.109 PM] info:	@@ Connection to db ...
+[2024-11-28 03:58:25.137 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:58:28.117 PM] info:	@@ Connection to db ...
+[2024-11-28 03:58:28.144 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:58:30.127 PM] info:	@@ Database Connected::ono
+[2024-11-28 03:58:33.248 PM] info:	@@ Connection to db ...
+[2024-11-28 03:58:33.286 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:58:36.207 PM] info:	@@ Connection to db ...
+[2024-11-28 03:58:36.258 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:58:39.011 PM] info:	@@ Connection to db ...
+[2024-11-28 03:58:39.039 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:58:43.843 PM] info:	@@ Connection to db ...
+[2024-11-28 03:58:43.872 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 03:58:45.824 PM] info:	@@ Database Connected::ono
+[2024-11-28 04:00:20.935 PM] info:	@@ Connection to db ...
+[2024-11-28 04:00:20.967 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 04:00:23.126 PM] info:	@@ Database Connected::ono
+[2024-11-28 04:00:30.391 PM] info:	@@ Connection to db ...
+[2024-11-28 04:00:30.426 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 04:00:32.482 PM] info:	@@ Database Connected::ono
+[2024-11-28 04:00:35.910 PM] info:	@@ Connection to db ...
+[2024-11-28 04:00:35.938 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 04:00:37.941 PM] info:	@@ Database Connected::ono
+[2024-11-28 04:00:46.704 PM] info:	@@ Connection to db ...
+[2024-11-28 04:00:46.737 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 04:00:50.247 PM] info:	@@ Connection to db ...
+[2024-11-28 04:00:50.276 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 04:00:52.215 PM] info:	@@ Database Connected::ono
+[2024-11-28 04:00:59.561 PM] info:	@@ Connection to db ...
+[2024-11-28 04:00:59.586 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 04:01:01.596 PM] info:	@@ Database Connected::ono
+[2024-11-28 04:01:22.743 PM] info:	@@ Connection to db ...
+[2024-11-28 04:01:22.793 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 04:01:25.386 PM] info:	@@ Connection to db ...
+[2024-11-28 04:01:25.415 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 04:01:27.350 PM] info:	@@ Database Connected::ono
+[2024-11-28 04:01:30.796 PM] info:	@@ Connection to db ...
+[2024-11-28 04:01:30.824 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 04:01:32.944 PM] info:	@@ Database Connected::ono
+[2024-11-28 04:02:23.310 PM] info:	@@ Connection to db ...
+[2024-11-28 04:02:23.342 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 04:02:25.650 PM] info:	@@ Database Connected::ono
+[2024-11-28 04:02:42.252 PM] error:	uncaughtException: latest_events is not defined
+ReferenceError: latest_events is not defined
+    at file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/routes.js:11:63
+    at ModuleJob.run (node:internal/modules/esm/module_job:217:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:316:24)
+    at async loadESM (node:internal/process/esm_loader:34:7)
+    at async handleMainPromise (node:internal/modules/run_main:66:12)
+[2024-11-28 04:02:52.750 PM] error:	uncaughtException: latest_events is not defined
+ReferenceError: latest_events is not defined
+    at file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/routes.js:11:63
+    at ModuleJob.run (node:internal/modules/esm/module_job:217:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:316:24)
+    at async loadESM (node:internal/process/esm_loader:34:7)
+    at async handleMainPromise (node:internal/modules/run_main:66:12)
+[2024-11-28 04:03:09.023 PM] info:	@@ Connection to db ...
+[2024-11-28 04:03:09.059 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 04:03:11.069 PM] info:	@@ Database Connected::ono
+[2024-11-28 04:03:30.670 PM] info:	@@ Connection to db ...
+[2024-11-28 04:03:30.709 PM] info:	@@ Server started on http://localhost:5000
+[2024-11-28 04:03:32.850 PM] info:	@@ Database Connected::ono
+[2024-11-28 04:04:01.816 PM] info:	@@ Cache miss for /api/v1/events/latest-events
+[2024-11-28 04:04:01.817 PM] info:	Fetching latest events...
+[2024-11-28 04:04:02.216 PM] info:	@@ Latest events fetched successfully
+[2024-11-28 04:04:02.219 PM] info:	@@ Caching /api/v1/events/latest-events
+[2024-11-28 04:04:02.229 PM] info:	HTTP Access Log

@@ -29,6 +29,11 @@
             "date": 1732703904655,
             "name": "logs\\temp\\app-rejection-log-2024-11-27.log",
             "hash": "411ba3fc7b8d186cfd98e3aa93fa733ebe7799b5cf8e31c47df081faadb41988"
+        },
+        {
+            "date": 1732786295736,
+            "name": "logs\\temp\\app-rejection-log-2024-11-28.log",
+            "hash": "55a9049c03603657661c6b228aac7823109998aa5437ced2c3274c88011b53e9"
         }
     ],
     "hashType": "sha256"
