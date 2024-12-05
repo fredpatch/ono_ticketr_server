@@ -23,14 +23,14 @@ import {
 const dataRouter = express.Router();
 
 /* Public routes */
-dataRouter.post("/events/latest-events", cacheMiddleware(60), latest_events);
-dataRouter.post("/events/get-event", cacheMiddleware(60), get_event);
-dataRouter.get("/events/trending-events", cacheMiddleware(60), trending_posts);
+dataRouter.post("/events/latest-events", latest_events);
+dataRouter.post("/events/get-event", get_event);
+dataRouter.get("/events/trending-events", trending_posts);
 dataRouter.post("/events/all-latest-events-count", latest_events_count);
 dataRouter.post("/events/search-posts", search_events);
 dataRouter.post("/events/search-posts-count", search_posts_count);
 dataRouter.post("/user/search-users", search_users);
-dataRouter.post("/user/get-profile", cacheMiddleware(60), get_profile);
+dataRouter.post("/user/get-profile", get_profile);
 
 /*++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
 

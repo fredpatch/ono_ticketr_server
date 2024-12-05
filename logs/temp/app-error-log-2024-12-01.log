@@ -1,0 +1,329 @@
+[2024-12-01 09:58:40.481 PM] error:	unhandledRejection: Missing required fields
+Error: Missing required fields
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:30:11)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:47:12)
+[2024-12-01 09:59:30.500 PM] error:	unhandledRejection: Missing required fields
+Error: Missing required fields
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:30:11)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:47:12)
+[2024-12-01 09:59:56.169 PM] error:	unhandledRejection: Missing required fields
+Error: Missing required fields
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:30:11)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:47:12)
+[2024-12-01 10:00:15.788 PM] error:	unhandledRejection: Missing required fields
+Error: Missing required fields
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:30:11)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:47:12)
+[2024-12-01 10:00:39.501 PM] error:	unhandledRejection: Missing required fields
+Error: Missing required fields
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:30:11)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:47:12)
+[2024-12-01 10:01:05.136 PM] error:	unhandledRejection: Missing required fields
+Error: Missing required fields
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:30:11)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:47:12)
+[2024-12-01 10:01:42.645 PM] error:	unhandledRejection: Missing required fields
+Error: Missing required fields
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:30:11)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:47:12)
+[2024-12-01 10:03:06.884 PM] error:	unhandledRejection: Missing required fields
+Error: Missing required fields
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:30:11)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:47:12)
+[2024-12-01 10:03:38.484 PM] error:	unhandledRejection: BadRequestError is not defined
+ReferenceError: BadRequestError is not defined
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:30:5)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:47:12)
+[2024-12-01 10:04:24.604 PM] error:	unhandledRejection: Missing required fields
+Error: Missing required fields
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:30:11)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:47:12)
+[2024-12-01 10:04:53.896 PM] error:	unhandledRejection: Bad Request
+Error: Bad Request
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:30:11)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:47:12)
+[2024-12-01 10:05:25.065 PM] error:	unhandledRejection: Missing required fields
+Error: Missing required fields
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:30:11)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:47:12)
+[2024-12-01 10:05:56.480 PM] error:	@@ Email not found
+[2024-12-01 10:06:38.943 PM] error:	unhandledRejection: Missing required fields
+Error: Missing required fields
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:30:11)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:47:12)
+[2024-12-01 10:08:13.195 PM] error:	unhandledRejection: Missing required fields
+Error: Missing required fields
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:30:11)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:47:12)
+[2024-12-01 10:08:28.175 PM] error:	unhandledRejection: Missing required fields
+Error: Missing required fields
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:30:11)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:47:12)
+[2024-12-01 10:09:15.410 PM] error:	unhandledRejection: Missing required fields
+Error: Missing required fields
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:30:11)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:47:12)
+[2024-12-01 10:10:27.934 PM] error:	unhandledRejection: Cannot set headers after they are sent to the client
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:406:5)
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:794:10)
+    at ServerResponse.send (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:174:12)
+    at ServerResponse.json (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:278:15)
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:91:8)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+[2024-12-01 10:11:04.109 PM] error:	unhandledRejection: Cannot set headers after they are sent to the client
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:406:5)
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:794:10)
+    at ServerResponse.send (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:174:12)
+    at ServerResponse.json (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:278:15)
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:91:8)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+[2024-12-01 10:11:26.608 PM] error:	unhandledRejection: Cannot set headers after they are sent to the client
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:406:5)
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:794:10)
+    at ServerResponse.send (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:174:12)
+    at ServerResponse.json (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:278:15)
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:91:8)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+[2024-12-01 10:34:43.071 PM] error:	unhandledRejection: Missing required fields
+Error: Missing required fields
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:30:11)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:47:12)
+[2024-12-01 10:36:38.997 PM] error:	unhandledRejection: Missing required fields
+Error: Missing required fields
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:30:11)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:47:12)
+[2024-12-01 10:38:46.404 PM] error:	unhandledRejection: Missing required fields
+Error: Missing required fields
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:30:11)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:47:12)
+[2024-12-01 10:39:01.957 PM] error:	unhandledRejection: Missing required fields
+Error: Missing required fields
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:30:11)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:47:12)
+[2024-12-01 10:49:22.825 PM] error:	uncaughtException: transports or a winstonInstance are required by express-winston middleware
+Error: transports or a winstonInstance are required by express-winston middleware
+    at ensureValidOptions (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express-winston\index.js:452:15)
+    at Object.logger (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express-winston\index.js:258:5)
+    at file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/services/logs/logger.js:164:38
+    at ModuleJob.run (node:internal/modules/esm/module_job:217:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:316:24)
+    at async loadESM (node:internal/process/esm_loader:34:7)
+    at async handleMainPromise (node:internal/modules/run_main:66:12)
+[2024-12-01 10:49:30.509 PM] error:	uncaughtException: transports or a winstonInstance are required by express-winston middleware
+Error: transports or a winstonInstance are required by express-winston middleware
+    at ensureValidOptions (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express-winston\index.js:452:15)
+    at Object.logger (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express-winston\index.js:258:5)
+    at file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/services/logs/logger.js:164:38
+    at ModuleJob.run (node:internal/modules/esm/module_job:217:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:316:24)
+    at async loadESM (node:internal/process/esm_loader:34:7)
+    at async handleMainPromise (node:internal/modules/run_main:66:12)
+[2024-12-01 10:49:35.460 PM] error:	uncaughtException: transports or a winstonInstance are required by express-winston middleware
+Error: transports or a winstonInstance are required by express-winston middleware
+    at ensureValidOptions (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express-winston\index.js:452:15)
+    at Object.logger (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express-winston\index.js:258:5)
+    at file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/services/logs/logger.js:164:38
+    at ModuleJob.run (node:internal/modules/esm/module_job:217:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:316:24)
+    at async loadESM (node:internal/process/esm_loader:34:7)
+    at async handleMainPromise (node:internal/modules/run_main:66:12)
+[2024-12-01 10:49:41.759 PM] error:	uncaughtException: transports or a winstonInstance are required by express-winston middleware
+Error: transports or a winstonInstance are required by express-winston middleware
+    at ensureValidOptions (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express-winston\index.js:452:15)
+    at Object.logger (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express-winston\index.js:258:5)
+    at file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/services/logs/logger.js:164:38
+    at ModuleJob.run (node:internal/modules/esm/module_job:217:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:316:24)
+    at async loadESM (node:internal/process/esm_loader:34:7)
+    at async handleMainPromise (node:internal/modules/run_main:66:12)
+[2024-12-01 10:57:54.976 PM] error:	@@ Something went wrong: Error: Illegal arguments: undefined, string
+[2024-12-01 10:58:21.453 PM] error:	@@ Email not found
+[2024-12-01 10:58:44.399 PM] error:	@@ Something went wrong: Error: Request body is missing
+[2024-12-01 10:59:01.982 PM] error:	@@ Something went wrong: Error: Request body is missing
+[2024-12-01 10:59:47.676 PM] error:	unhandledRejection: next is not defined
+ReferenceError: next is not defined
+    at signin (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:163:5)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:47:12)

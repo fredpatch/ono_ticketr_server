@@ -1,0 +1,15 @@
+[2024-12-04 10:02:42.382 AM] error:	@@ Invalid password please try again.
+[2024-12-04 12:33:42.358 PM] error:	unhandledRejection: connection timed out
+MongoServerSelectionError: connection timed out
+    at Topology.selectServer (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\mongodb\lib\sdam\topology.js:303:38)
+    at async tryOperation (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\mongodb\lib\operations\execute_operation.js:138:18)
+    at async executeOperation (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\mongodb\lib\operations\execute_operation.js:69:16)
+    at async FindCursor._initialize (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\mongodb\lib\cursor\find_cursor.js:51:26)
+    at async FindCursor.cursorInit (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\mongodb\lib\cursor\abstract_cursor.js:495:27)
+    at async FindCursor.fetchBatch (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\mongodb\lib\cursor\abstract_cursor.js:527:13)
+    at async FindCursor.next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\mongodb\lib\cursor\abstract_cursor.js:239:13)
+    at async Collection.findOne (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\mongodb\lib\collection.js:274:21)
+    at async model.Query._findOne (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\mongoose\lib\query.js:2602:15)
+    at async model.Query.exec (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\mongoose\lib\query.js:4412:63)
+[2024-12-04 12:34:33.774 PM] error:	@@ Something went wrong : MongooseError: Operation `events.find()` buffering timed out after 10000ms
+[2024-12-04 12:34:33.804 PM] error:	@@ Error fetching the events: MongooseError: Operation `events.find()` buffering timed out after 10000ms

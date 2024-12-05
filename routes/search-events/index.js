@@ -21,7 +21,7 @@ export const search_events = (req, res) => {
       "personal_info.fullname personal_info.username personal_info.profile_img -_id"
     )
     .sort({ publishedAt: -1 })
-    .select("event_id title description banner activity tags publishedAt -_id")
+    .select("event_id title description banner startDateTime endDateTime activity tags publishedAt -_id")
     .skip((page - 1) * maxLimit)
     .limit(maxLimit)
     .then((events) => {

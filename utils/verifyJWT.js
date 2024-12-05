@@ -19,7 +19,7 @@ const verifyJWT = async (req, res, next) => {
 
   if (!token) {
     return res.status(401).json({
-      message: "No token provided, unauthorized access",
+      message: "No token provided",
     });
   }
 
@@ -33,24 +33,8 @@ const verifyJWT = async (req, res, next) => {
     // console.log("@@@ (verifyJWT) The decoded user is =>", req.user);
     next();
   } catch (error) {
-    return res.status(403).json({
-      message: "Invalid Token Provided",
-      error: error,
-    });
+    return res.status(401).json({ message: "Invalid token", success: false });
   }
 };
 
 export default verifyJWT;
-
-// jwt.verify(token, jwtSecret, (err, user) => {
-//   if (err) {
-//     return res.status(403).json({
-//       error: "Invalid access token",
-//     });
-//   }
-
-//   req.user = user.id;
-//   req.role = user.role;
-//   req.body.author = user.id; // Add this line
-//   next();
-// });

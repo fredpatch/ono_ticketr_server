@@ -1,5 +1,8 @@
 import express from "express";
-import { signin, signup } from "../routes/authRoutes.js";
+import { signin, signup, me, logout } from "../routes/authRoutes.js";
+import { refresh_token } from "../routes/refresh-token/index.js";
+import verifyJWT from "../utils/verifyJWT.js";
+import { globalLogout } from "../routes/authRoutes.js";
 
 const router = express.Router();
 
@@ -17,5 +20,13 @@ router.post("/signin", signin);
 // @desc    Register a new user
 // @access  Private
 // router.post("/google-auth", googleAuth);
+
+router.get("/refresh-token", refresh_token);
+
+router.post("/logout", logout);
+
+router.get("/global-logout", verifyJWT, globalLogout);
+
+router.get("/me", me);
 
 export default router;

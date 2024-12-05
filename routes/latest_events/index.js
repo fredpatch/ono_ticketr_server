@@ -25,6 +25,7 @@ export const latest_events = async (req, res) => {
       });
   } catch (error) {
     logger.error("@@ Error fetching the events: " + error);
+
     return res.status(500).json({
       success: false,
       message: "[ERROR FETCHING LATEST EVENTS]",

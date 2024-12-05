@@ -1,0 +1,619 @@
+[2024-12-01 09:57:36.355 PM] info:	@@ Connection to db ...
+[2024-12-01 09:57:36.394 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 09:57:43.840 PM] info:	@@ Database Connected::ono
+[2024-12-01 09:58:40.479 PM] error:	unhandledRejection: Missing required fields
+Error: Missing required fields
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:30:11)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:47:12)
+[2024-12-01 09:59:24.740 PM] info:	@@ Connection to db ...
+[2024-12-01 09:59:24.791 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 09:59:30.497 PM] error:	unhandledRejection: Missing required fields
+Error: Missing required fields
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:30:11)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:47:12)
+[2024-12-01 09:59:32.498 PM] info:	@@ Database Connected::ono
+[2024-12-01 09:59:53.156 PM] info:	@@ Connection to db ...
+[2024-12-01 09:59:53.195 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 09:59:56.166 PM] error:	unhandledRejection: Missing required fields
+Error: Missing required fields
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:30:11)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:47:12)
+[2024-12-01 10:00:00.353 PM] info:	@@ Database Connected::ono
+[2024-12-01 10:00:08.754 PM] info:	@@ Connection to db ...
+[2024-12-01 10:00:08.814 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 10:00:12.232 PM] info:	@@ Connection to db ...
+[2024-12-01 10:00:12.267 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 10:00:15.785 PM] error:	unhandledRejection: Missing required fields
+Error: Missing required fields
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:30:11)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:47:12)
+[2024-12-01 10:00:19.415 PM] info:	@@ Database Connected::ono
+[2024-12-01 10:00:39.500 PM] error:	unhandledRejection: Missing required fields
+Error: Missing required fields
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:30:11)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:47:12)
+[2024-12-01 10:01:00.950 PM] info:	@@ Connection to db ...
+[2024-12-01 10:01:00.988 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 10:01:05.133 PM] error:	unhandledRejection: Missing required fields
+Error: Missing required fields
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:30:11)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:47:12)
+[2024-12-01 10:01:08.852 PM] info:	@@ Database Connected::ono
+[2024-12-01 10:01:42.644 PM] error:	unhandledRejection: Missing required fields
+Error: Missing required fields
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:30:11)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:47:12)
+[2024-12-01 10:02:12.184 PM] info:	@@ Connection to db ...
+[2024-12-01 10:02:12.211 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 10:02:19.583 PM] info:	@@ Database Connected::ono
+[2024-12-01 10:03:04.853 PM] info:	@@ Connection to db ...
+[2024-12-01 10:03:04.905 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 10:03:06.881 PM] error:	unhandledRejection: Missing required fields
+Error: Missing required fields
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:30:11)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:47:12)
+[2024-12-01 10:03:12.023 PM] info:	@@ Database Connected::ono
+[2024-12-01 10:03:22.033 PM] info:	@@ Connection to db ...
+[2024-12-01 10:03:22.060 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 10:03:30.882 PM] info:	@@ Connection to db ...
+[2024-12-01 10:03:30.912 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 10:03:38.038 PM] info:	@@ Database Connected::ono
+[2024-12-01 10:03:38.481 PM] error:	unhandledRejection: BadRequestError is not defined
+ReferenceError: BadRequestError is not defined
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:30:5)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:47:12)
+[2024-12-01 10:03:58.608 PM] info:	@@ Connection to db ...
+[2024-12-01 10:03:58.706 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 10:04:06.773 PM] info:	@@ Database Connected::ono
+[2024-12-01 10:04:24.600 PM] error:	unhandledRejection: Missing required fields
+Error: Missing required fields
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:30:11)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:47:12)
+[2024-12-01 10:04:51.882 PM] info:	@@ Connection to db ...
+[2024-12-01 10:04:51.924 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 10:04:53.892 PM] error:	unhandledRejection: Bad Request
+Error: Bad Request
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:30:11)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:47:12)
+[2024-12-01 10:04:59.189 PM] info:	@@ Database Connected::ono
+[2024-12-01 10:05:09.230 PM] info:	@@ Connection to db ...
+[2024-12-01 10:05:09.364 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 10:05:16.391 PM] info:	@@ Database Connected::ono
+[2024-12-01 10:05:21.233 PM] info:	@@ Connection to db ...
+[2024-12-01 10:05:21.273 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 10:05:25.062 PM] error:	unhandledRejection: Missing required fields
+Error: Missing required fields
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:30:11)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:47:12)
+[2024-12-01 10:05:28.361 PM] info:	@@ Database Connected::ono
+[2024-12-01 10:05:56.273 PM] info:	@@ Start of data validation
+[2024-12-01 10:05:56.480 PM] error:	@@ Email not found
+[2024-12-01 10:05:56.489 PM] info:	HTTP Access Log
+[2024-12-01 10:06:38.943 PM] error:	unhandledRejection: Missing required fields
+Error: Missing required fields
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:30:11)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:47:12)
+[2024-12-01 10:08:09.811 PM] info:	@@ Connection to db ...
+[2024-12-01 10:08:09.849 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 10:08:13.192 PM] error:	unhandledRejection: Missing required fields
+Error: Missing required fields
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:30:11)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:47:12)
+[2024-12-01 10:08:17.277 PM] info:	@@ Database Connected::ono
+[2024-12-01 10:08:24.802 PM] info:	@@ Connection to db ...
+[2024-12-01 10:08:24.841 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 10:08:28.173 PM] error:	unhandledRejection: Missing required fields
+Error: Missing required fields
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:30:11)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:47:12)
+[2024-12-01 10:08:31.976 PM] info:	@@ Database Connected::ono
+[2024-12-01 10:08:48.223 PM] info:	@@ Connection to db ...
+[2024-12-01 10:08:48.269 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 10:08:55.385 PM] info:	@@ Database Connected::ono
+[2024-12-01 10:09:08.487 PM] info:	@@ Connection to db ...
+[2024-12-01 10:09:08.531 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 10:09:15.407 PM] error:	unhandledRejection: Missing required fields
+Error: Missing required fields
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:30:11)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:47:12)
+[2024-12-01 10:09:15.641 PM] info:	@@ Database Connected::ono
+[2024-12-01 10:10:25.088 PM] info:	@@ Connection to db ...
+[2024-12-01 10:10:25.133 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 10:10:27.928 PM] info:	HTTP Access Log
+[2024-12-01 10:10:27.932 PM] error:	unhandledRejection: Cannot set headers after they are sent to the client
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:406:5)
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:794:10)
+    at ServerResponse.send (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:174:12)
+    at ServerResponse.json (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:278:15)
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:91:8)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+[2024-12-01 10:10:32.520 PM] info:	@@ Database Connected::ono
+[2024-12-01 10:11:04.106 PM] info:	HTTP Access Log
+[2024-12-01 10:11:04.108 PM] error:	unhandledRejection: Cannot set headers after they are sent to the client
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:406:5)
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:794:10)
+    at ServerResponse.send (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:174:12)
+    at ServerResponse.json (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:278:15)
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:91:8)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+[2024-12-01 10:11:22.058 PM] info:	@@ Connection to db ...
+[2024-12-01 10:11:22.096 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 10:11:26.600 PM] info:	HTTP Access Log
+[2024-12-01 10:11:26.605 PM] error:	unhandledRejection: Cannot set headers after they are sent to the client
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:406:5)
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:794:10)
+    at ServerResponse.send (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:174:12)
+    at ServerResponse.json (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\response.js:278:15)
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:91:8)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+[2024-12-01 10:11:29.255 PM] info:	@@ Database Connected::ono
+[2024-12-01 10:13:06.205 PM] info:	@@ Connection to db ...
+[2024-12-01 10:13:06.241 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 10:13:13.619 PM] info:	@@ Database Connected::ono
+[2024-12-01 10:13:13.783 PM] info:	HTTP Access Log
+[2024-12-01 10:25:17.398 PM] info:	HTTP Access Log
+[2024-12-01 10:30:46.781 PM] info:	@@ Connection to db ...
+[2024-12-01 10:30:46.817 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 10:30:51.251 PM] info:	HTTP Access Log
+[2024-12-01 10:30:53.958 PM] info:	@@ Database Connected::ono
+[2024-12-01 10:31:09.344 PM] info:	@@ Connection to db ...
+[2024-12-01 10:31:09.386 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 10:31:16.439 PM] info:	@@ Database Connected::ono
+[2024-12-01 10:34:39.284 PM] info:	@@ Connection to db ...
+[2024-12-01 10:34:39.318 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 10:34:43.068 PM] error:	unhandledRejection: Missing required fields
+Error: Missing required fields
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:30:11)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:47:12)
+[2024-12-01 10:34:46.659 PM] info:	@@ Database Connected::ono
+[2024-12-01 10:36:35.987 PM] info:	@@ Connection to db ...
+[2024-12-01 10:36:36.068 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 10:36:38.994 PM] error:	unhandledRejection: Missing required fields
+Error: Missing required fields
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:30:11)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:47:12)
+[2024-12-01 10:36:51.361 PM] info:	@@ Connection to db ...
+[2024-12-01 10:36:51.401 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 10:36:58.498 PM] info:	@@ Database Connected::ono
+[2024-12-01 10:37:26.423 PM] info:	@@ Connection to db ...
+[2024-12-01 10:37:26.458 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 10:37:33.477 PM] info:	@@ Database Connected::ono
+[2024-12-01 10:38:46.401 PM] error:	unhandledRejection: Missing required fields
+Error: Missing required fields
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:30:11)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:47:12)
+[2024-12-01 10:38:58.909 PM] info:	@@ Connection to db ...
+[2024-12-01 10:38:58.952 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 10:39:01.954 PM] error:	unhandledRejection: Missing required fields
+Error: Missing required fields
+    at signup (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:30:11)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:47:12)
+[2024-12-01 10:39:06.130 PM] info:	@@ Database Connected::ono
+[2024-12-01 10:39:18.740 PM] info:	@@ Connection to db ...
+[2024-12-01 10:39:18.769 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 10:39:25.838 PM] info:	@@ Database Connected::ono
+[2024-12-01 10:40:51.949 PM] info:	@@ Connection to db ...
+[2024-12-01 10:40:51.978 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 10:40:59.125 PM] info:	@@ Database Connected::ono
+[2024-12-01 10:44:48.251 PM] info:	@@ Connection to db ...
+[2024-12-01 10:44:48.292 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 10:44:55.532 PM] info:	@@ Database Connected::ono
+[2024-12-01 10:45:47.841 PM] info:	@@ Connection to db ...
+[2024-12-01 10:45:47.880 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 10:45:54.941 PM] info:	@@ Database Connected::ono
+[2024-12-01 10:46:04.356 PM] info:	@@ Connection to db ...
+[2024-12-01 10:46:04.396 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 10:46:12.350 PM] info:	@@ Database Connected::ono
+[2024-12-01 10:46:29.367 PM] info:	@@ Connection to db ...
+[2024-12-01 10:46:29.397 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 10:46:36.358 PM] info:	@@ Database Connected::ono
+[2024-12-01 10:47:12.848 PM] info:	@@ Connection to db ...
+[2024-12-01 10:47:12.878 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 10:47:19.955 PM] info:	@@ Database Connected::ono
+[2024-12-01 10:47:24.272 PM] info:	@@ Connection to db ...
+[2024-12-01 10:47:24.310 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 10:47:27.164 PM] info:	HTTP Access Log
+[2024-12-01 10:47:31.257 PM] info:	@@ Database Connected::ono
+[2024-12-01 10:48:34.208 PM] info:	@@ Connection to db ...
+[2024-12-01 10:48:34.244 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 10:48:41.373 PM] info:	@@ Database Connected::ono
+[2024-12-01 10:48:45.592 PM] info:	@@ Connection to db ...
+[2024-12-01 10:48:45.640 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 10:48:52.625 PM] info:	@@ Database Connected::ono
+[2024-12-01 10:49:22.819 PM] error:	uncaughtException: transports or a winstonInstance are required by express-winston middleware
+Error: transports or a winstonInstance are required by express-winston middleware
+    at ensureValidOptions (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express-winston\index.js:452:15)
+    at Object.logger (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express-winston\index.js:258:5)
+    at file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/services/logs/logger.js:164:38
+    at ModuleJob.run (node:internal/modules/esm/module_job:217:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:316:24)
+    at async loadESM (node:internal/process/esm_loader:34:7)
+    at async handleMainPromise (node:internal/modules/run_main:66:12)
+[2024-12-01 10:49:30.502 PM] error:	uncaughtException: transports or a winstonInstance are required by express-winston middleware
+Error: transports or a winstonInstance are required by express-winston middleware
+    at ensureValidOptions (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express-winston\index.js:452:15)
+    at Object.logger (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express-winston\index.js:258:5)
+    at file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/services/logs/logger.js:164:38
+    at ModuleJob.run (node:internal/modules/esm/module_job:217:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:316:24)
+    at async loadESM (node:internal/process/esm_loader:34:7)
+    at async handleMainPromise (node:internal/modules/run_main:66:12)
+[2024-12-01 10:49:35.454 PM] error:	uncaughtException: transports or a winstonInstance are required by express-winston middleware
+Error: transports or a winstonInstance are required by express-winston middleware
+    at ensureValidOptions (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express-winston\index.js:452:15)
+    at Object.logger (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express-winston\index.js:258:5)
+    at file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/services/logs/logger.js:164:38
+    at ModuleJob.run (node:internal/modules/esm/module_job:217:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:316:24)
+    at async loadESM (node:internal/process/esm_loader:34:7)
+    at async handleMainPromise (node:internal/modules/run_main:66:12)
+[2024-12-01 10:49:41.749 PM] error:	uncaughtException: transports or a winstonInstance are required by express-winston middleware
+Error: transports or a winstonInstance are required by express-winston middleware
+    at ensureValidOptions (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express-winston\index.js:452:15)
+    at Object.logger (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express-winston\index.js:258:5)
+    at file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/services/logs/logger.js:164:38
+    at ModuleJob.run (node:internal/modules/esm/module_job:217:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:316:24)
+    at async loadESM (node:internal/process/esm_loader:34:7)
+    at async handleMainPromise (node:internal/modules/run_main:66:12)
+[2024-12-01 10:52:38.680 PM] info:	@@ Connection to db ...
+[2024-12-01 10:52:38.775 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 10:52:43.869 PM] info:	@@ Connection to db ...
+[2024-12-01 10:52:43.902 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 10:52:51.246 PM] info:	@@ Database Connected::ono
+[2024-12-01 10:53:31.863 PM] info:	@@ Connection to db ...
+[2024-12-01 10:53:31.912 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 10:53:39.069 PM] info:	@@ Connection to db ...
+[2024-12-01 10:53:39.108 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 10:53:46.069 PM] info:	@@ Database Connected::ono
+[2024-12-01 10:54:07.772 PM] info:	@@ Connection to db ...
+[2024-12-01 10:54:07.801 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 10:55:39.222 PM] info:	@@ Connection to db ...
+[2024-12-01 10:55:39.257 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 10:55:42.719 PM] info:	HTTP Access Log
+[2024-12-01 10:55:46.347 PM] info:	@@ Database Connected::ono
+[2024-12-01 10:55:52.919 PM] info:	HTTP Access Log
+[2024-12-01 10:56:18.542 PM] info:	HTTP Access Log
+[2024-12-01 10:56:33.993 PM] info:	@@ Start of data validation
+[2024-12-01 10:56:34.192 PM] info:	@@ End of data validation
+[2024-12-01 10:56:34.510 PM] info:	@@ User logged in
+[2024-12-01 10:56:34.521 PM] info:	HTTP Access Log
+[2024-12-01 10:57:31.539 PM] info:	@@ Connection to db ...
+[2024-12-01 10:57:31.588 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 10:57:37.136 PM] info:	@@ Connection to db ...
+[2024-12-01 10:57:37.166 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 10:57:44.414 PM] info:	@@ Database Connected::ono
+[2024-12-01 10:57:54.777 PM] info:	@@ Start of data validation
+[2024-12-01 10:57:54.974 PM] info:	@@ End of data validation
+[2024-12-01 10:57:54.976 PM] error:	@@ Something went wrong: Error: Illegal arguments: undefined, string
+[2024-12-01 10:57:54.984 PM] info:	HTTP Access Log
+[2024-12-01 10:58:21.264 PM] info:	@@ Start of data validation
+[2024-12-01 10:58:21.452 PM] error:	@@ Email not found
+[2024-12-01 10:58:21.455 PM] info:	HTTP Access Log
+[2024-12-01 10:58:40.965 PM] info:	@@ Connection to db ...
+[2024-12-01 10:58:41.000 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 10:58:44.398 PM] error:	@@ Something went wrong: Error: Request body is missing
+[2024-12-01 10:58:44.408 PM] info:	HTTP Access Log
+[2024-12-01 10:58:48.142 PM] info:	@@ Database Connected::ono
+[2024-12-01 10:59:01.981 PM] error:	@@ Something went wrong: Error: Request body is missing
+[2024-12-01 10:59:01.986 PM] info:	HTTP Access Log
+[2024-12-01 10:59:41.934 PM] info:	@@ Connection to db ...
+[2024-12-01 10:59:41.989 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 10:59:44.929 PM] info:	@@ Connection to db ...
+[2024-12-01 10:59:44.960 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 10:59:47.673 PM] error:	unhandledRejection: next is not defined
+ReferenceError: next is not defined
+    at signin (file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/routes/authRoutes.js:163:5)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\Prime_Legion\Desktop\Work\ono\server\node_modules\express\lib\router\index.js:47:12)
+[2024-12-01 10:59:52.179 PM] info:	@@ Database Connected::ono
+[2024-12-01 11:00:04.744 PM] info:	@@ Connection to db ...
+[2024-12-01 11:00:04.772 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 11:00:08.482 PM] info:	HTTP Access Log
+[2024-12-01 11:00:11.748 PM] info:	@@ Database Connected::ono
+[2024-12-01 11:00:52.993 PM] info:	@@ Connection to db ...
+[2024-12-01 11:00:53.030 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 11:01:00.120 PM] info:	@@ Database Connected::ono
+[2024-12-01 11:01:03.963 PM] info:	@@ Connection to db ...
+[2024-12-01 11:01:04.005 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 11:01:06.624 PM] info:	@@ Connection to db ...
+[2024-12-01 11:01:06.659 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 11:01:07.510 PM] info:	HTTP Access Log
+[2024-12-01 11:01:14.570 PM] info:	@@ Database Connected::ono
+[2024-12-01 11:01:39.954 PM] info:	@@ Connection to db ...
+[2024-12-01 11:01:40.000 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 11:01:46.116 PM] info:	@@ Connection to db ...
+[2024-12-01 11:01:46.157 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 11:01:48.743 PM] info:	@@ Connection to db ...
+[2024-12-01 11:01:48.778 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 11:02:30.259 PM] info:	@@ Connection to db ...
+[2024-12-01 11:02:30.306 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 11:02:37.501 PM] info:	@@ Database Connected::ono
+[2024-12-01 11:02:37.830 PM] info:	@@ Start of data validation
+[2024-12-01 11:02:38.136 PM] info:	@@ End of data validation
+[2024-12-01 11:02:38.479 PM] info:	@@ User logged in
+[2024-12-01 11:02:38.495 PM] info:	HTTP Access Log
+[2024-12-01 11:03:11.606 PM] info:	@@ Connection to db ...
+[2024-12-01 11:03:11.648 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 11:03:13.851 PM] info:	@@ Start of data validation
+[2024-12-01 11:03:18.597 PM] info:	@@ Database Connected::ono
+[2024-12-01 11:03:18.797 PM] info:	@@ End of data validation
+[2024-12-01 11:03:19.130 PM] info:	@@ User logged in
+[2024-12-01 11:03:19.152 PM] info:	HTTP Access Log
+[2024-12-01 11:07:05.212 PM] info:	@@ Connection to db ...
+[2024-12-01 11:07:05.272 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 11:07:19.170 PM] info:	@@ Connection to db ...
+[2024-12-01 11:07:19.210 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 11:07:26.296 PM] info:	@@ Database Connected::ono
+[2024-12-01 11:07:32.764 PM] info:	@@ Connection to db ...
+[2024-12-01 11:07:32.804 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 11:07:36.155 PM] info:	@@ Connection to db ...
+[2024-12-01 11:07:36.188 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 11:07:43.319 PM] info:	@@ Connection to db ...
+[2024-12-01 11:07:43.351 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 11:07:50.551 PM] info:	@@ Database Connected::ono
+[2024-12-01 11:08:10.320 PM] info:	@@ Connection to db ...
+[2024-12-01 11:08:10.378 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 11:08:17.324 PM] info:	@@ Database Connected::ono
+[2024-12-01 11:08:28.434 PM] info:	@@ Connection to db ...
+[2024-12-01 11:08:28.467 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 11:08:35.669 PM] info:	@@ Database Connected::ono
+[2024-12-01 11:08:46.750 PM] info:	@@ Connection to db ...
+[2024-12-01 11:08:46.788 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 11:08:53.942 PM] info:	@@ Connection to db ...
+[2024-12-01 11:08:53.975 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 11:08:58.135 PM] info:	@@ Connection to db ...
+[2024-12-01 11:08:58.168 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 11:10:00.536 PM] info:	@@ Connection to db ...
+[2024-12-01 11:10:00.574 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 11:10:07.524 PM] info:	@@ Connection to db ...
+[2024-12-01 11:10:07.552 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 11:10:14.040 PM] info:	HTTP Access Log
+[2024-12-01 11:10:14.764 PM] info:	@@ Database Connected::ono
+[2024-12-01 11:10:51.504 PM] info:	@@ Connection to db ...
+[2024-12-01 11:10:51.540 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 11:10:54.514 PM] info:	HTTP Access Log
+[2024-12-01 11:10:58.502 PM] info:	@@ Database Connected::ono
+[2024-12-01 11:11:04.961 PM] info:	@@ Start of data validation
+[2024-12-01 11:11:05.181 PM] info:	@@ End of data validation
+[2024-12-01 11:11:05.498 PM] info:	@@ User logged in
+[2024-12-01 11:11:05.508 PM] info:	HTTP Access Log
+[2024-12-01 11:11:14.686 PM] info:	HTTP Access Log
+[2024-12-01 11:11:35.093 PM] info:	@@ Connection to db ...
+[2024-12-01 11:11:35.127 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 11:11:37.353 PM] info:	HTTP Access Log
+[2024-12-01 11:11:42.345 PM] info:	@@ Database Connected::ono
+[2024-12-01 11:12:06.796 PM] info:	HTTP Access Log
+[2024-12-01 11:12:18.019 PM] info:	@@ Connection to db ...
+[2024-12-01 11:12:18.074 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 11:12:20.249 PM] info:	HTTP Access Log
+[2024-12-01 11:12:25.020 PM] info:	@@ Database Connected::ono
+[2024-12-01 11:12:42.690 PM] info:	@@ Connection to db ...
+[2024-12-01 11:12:42.730 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 11:12:49.819 PM] info:	@@ Database Connected::ono
+[2024-12-01 11:13:05.648 PM] info:	@@ Connection to db ...
+[2024-12-01 11:13:05.678 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 11:13:15.217 PM] info:	@@ Connection to db ...
+[2024-12-01 11:13:15.268 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 11:13:45.909 PM] info:	@@ Connection to db ...
+[2024-12-01 11:13:45.953 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 11:13:48.380 PM] info:	HTTP Access Log
+[2024-12-01 11:13:53.171 PM] info:	@@ Database Connected::ono
+[2024-12-01 11:14:03.933 PM] info:	@@ Connection to db ...
+[2024-12-01 11:14:03.962 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 11:14:10.947 PM] info:	@@ Database Connected::ono
+[2024-12-01 11:14:17.442 PM] info:	HTTP Access Log
+[2024-12-01 11:14:27.905 PM] info:	@@ Connection to db ...
+[2024-12-01 11:14:27.948 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 11:14:30.852 PM] info:	HTTP Access Log
+[2024-12-01 11:14:34.915 PM] info:	@@ Database Connected::ono
+[2024-12-01 11:14:43.257 PM] info:	HTTP Access Log
+[2024-12-01 11:15:16.220 PM] info:	@@ Connection to db ...
+[2024-12-01 11:15:16.245 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 11:15:23.337 PM] info:	@@ Database Connected::ono
+[2024-12-01 11:15:26.193 PM] info:	HTTP Access Log
+[2024-12-01 11:16:15.991 PM] info:	@@ Connection to db ...
+[2024-12-01 11:16:16.029 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 11:16:23.063 PM] info:	@@ Database Connected::ono
+[2024-12-01 11:16:27.628 PM] info:	HTTP Access Log
+[2024-12-01 11:17:06.381 PM] info:	HTTP Access Log
+[2024-12-01 11:17:38.185 PM] info:	@@ Connection to db ...
+[2024-12-01 11:17:38.215 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 11:17:45.396 PM] info:	@@ Database Connected::ono
+[2024-12-01 11:18:20.220 PM] info:	@@ Connection to db ...
+[2024-12-01 11:18:20.252 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 11:18:23.234 PM] info:	HTTP Access Log
+[2024-12-01 11:18:27.221 PM] info:	@@ Database Connected::ono
+[2024-12-01 11:18:30.614 PM] info:	HTTP Access Log
+[2024-12-01 11:18:58.329 PM] info:	@@ Connection to db ...
+[2024-12-01 11:18:58.362 PM] info:	@@ Server started on http://localhost:5000
+[2024-12-01 11:18:59.491 PM] info:	HTTP Access Log
+[2024-12-01 11:19:03.646 PM] info:	HTTP Access Log
+[2024-12-01 11:19:06.251 PM] info:	HTTP Access Log
+[2024-12-01 11:19:06.509 PM] info:	@@ Database Connected::ono
+[2024-12-01 11:19:07.801 PM] info:	HTTP Access Log
+[2024-12-01 11:19:09.689 PM] info:	HTTP Access Log
+[2024-12-01 11:19:10.420 PM] info:	HTTP Access Log
+[2024-12-01 11:19:11.412 PM] info:	HTTP Access Log

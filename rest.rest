@@ -1,16 +1,34 @@
-POST http://localhost:5000/api/v1/auth/signin
-Content-Type: application/json
-# Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3MWNlZTA5ZTY2MzcxMjhiZjgwNTI4MCIsImFkbWluIjp0cnVlLCJpYXQiOjE3MzAwOTc2MDIsImV4cCI6MTczMDE4NDAwMn0.NsvvMiJoB-MFJwG-XX05EPNkvQt5tSpEt2tZ5_fSrHU
+POST https://openapiuat.airtel.africa/auth/oauth2/token
+# Content-Type: application/json
+# Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3MWNlZTA5ZTY2MzcxMjhiZjgwNTI4MCIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTczMzIwNTQyNSwiZXhwIjoxNzMzMjA2MzI1fQ.4TIsy5noqWt-hHXN5zCVWbaDyLW2rCep123jBqfQ6yc
 
+{
+ "client_id": "8000161a-49c0-406a-92a8-8fd2984ff080",
+  "client_secret": "****************************",
+  "grant_type": "client_credentials"
+}
+
+# {
+#     "institute_category": "MNO"
+# }
+# PIN=4321
 # {
 #     "query": "f.patchelli17"
 # }
 
     # "fullname": "jhonad radii" ,
 # {
-#     "email": "f.patchelli@gmail.com" ,
-#     "password": "Stella123"
+#     "email": "f.patchelli@gmail.com",
+#     "password": "Stella1234"
 # }
+
+# {
+#     "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3MWNlZTA5ZTY2MzcxMjhiZjgwNTI4MCIsImlhdCI6MTczMzIwNTQyNSwiZXhwIjoxNzMzODEwMjI1fQ.fq9N4hbrw5Z_Kcg0gAHoRqMhwi4Lo7RPIzPlK_8mE_E"
+# }
+
+
+# "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3MWNlZTA5ZTY2MzcxMjhiZjgwNTI4MCIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTczMzIwNTQyNSwiZXhwIjoxNzMzMjA2MzI1fQ.4TIsy5noqWt-hHXN5zCVWbaDyLW2rCep123jBqfQ6yc",
+#   "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3MWNlZTA5ZTY2MzcxMjhiZjgwNTI4MCIsImlhdCI6MTczMzIwNTQyNSwiZXhwIjoxNzMzODEwMjI1fQ.fq9N4hbrw5Z_Kcg0gAHoRqMhwi4Lo7RPIzPlK_8mE_E"
 
 # {
 #     "username": "f.patchelli"
@@ -39,16 +57,16 @@ Content-Type: application/json
 # }
 
 # {
-#     "fullname":"Malick" ,
-#     "email": "malickson@gmail.com" ,
-#     "password": "Malick1234@",
-#     "role": "admin"
+#     "email": "patchson@gmail.com" ,
+#     "password": "Brice1234@"
 # }
+    # "fullname":"Brice" ,
+    # "role": "user"
 
-{
-    "email": "francois@gmail.com" ,
-    "password": "Francois1234"
-}
+# {
+#     "email": "francois@gmail.com" ,
+#     "password": "Francois1234"
+# }
     # "fullname":"Francois Oyabi" ,
     # "role": ""
 

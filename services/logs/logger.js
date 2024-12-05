@@ -2,10 +2,20 @@ import "winston-daily-rotate-file";
 import winston from "winston";
 import expressWinston from "express-winston";
 import dotenv from "dotenv";
+import { format } from "morgan";
 dotenv.config();
 
-const { combine, timestamp, printf, colorize, align, json, prettyPrint, cli } =
-  winston.format;
+const {
+  combine,
+  timestamp,
+  printf,
+  colorize,
+  align,
+  json,
+  prettyPrint,
+  cli,
+  errors,
+} = winston.format;
 
 const options = {
   file: {
@@ -67,6 +77,7 @@ const consoleLogger = new winston.transports.Console({
     colorize(),
     timestamp({ format: "MM-DD hh:mm A" }),
     prettyPrint(),
+    errors({ stack: true }),
     // align(),
     // cli(),
     // json(),
@@ -152,57 +163,65 @@ if (process.env.NODE_ENV !== "test") {
 }
 // Request logging
 const requestLogger = expressWinston.logger({
-  transports: [
-    new winston.transports.Console({
-      format: winston.format.combine(
-        // colorize(),
-        prettyPrint(),
-        align(),
-        printf(
-          (request) =>
-            `[${request.meta.req.method}]:: => [${
-              request.meta.req.url
-            }] || Status Code:[${
-              request.meta.res.statusCode
-            }] || Response Time:[${
-              request.meta.responseTime
-            }] || Content Type:[${
-              request.meta.req.headers["content-type"]
-            }] || User Agent:[${
-              request.meta.req.headers["user-agent"]
-            }] || Authorization:[${JSON.stringify(
-              request.meta.req.headers["authorization"]
-            )}] || Cache control:[${
-              request.meta.req.headers["cache-control"]
-            }] || Host:[${
-              request.meta.req.headers["host"]
-            }] || Query:[${JSON.stringify(request.meta.req.query)}]`
-        )
-        // winston.format.errors({ stack: true }),
-        // winston.format.splat(),
-        // winston.format.json()
-      ),
-    }),
-  ],
+  // transports: [
+
+  //   new winston.transports.Console({
+  //     format: winston.format.combine(
+  //       // colorize(),
+  //       prettyPrint(),
+  //       align(),
+  //       printf(
+  //         (request) =>
+  //           `[${request.meta.req.method}]:: => [${
+  //             request.meta.req.url
+  //           }] || Status Code:[${
+  //             request.meta.res.statusCode
+  //           }] || Response Time:[${
+  //             request.meta.responseTime
+  //           }] || Content Type:[${
+  //             request.meta.req.headers["content-type"]
+  //           }] || User Agent:[${
+  //             request.meta.req.headers["user-agent"]
+  //           }] || Authorization:[${JSON.stringify(
+  //             request.meta.req.headers["authorization"]
+  //           )}] || Cache control:[${
+  //             request.meta.req.headers["cache-control"]
+  //           }] || Host:[${
+  //             request.meta.req.headers["host"]
+  //           }] || Query:[${JSON.stringify(request.meta.req.query)}]`
+  //       )
+  //       // winston.format.errors({ stack: true }),
+  //       // winston.format.splat(),
+  //       // winston.format.json()
+  //     ),
+  //   }),
+  // ],
+
+  transports: [new winston.transports.Console()],
+  format: combine(
+    colorize(),
+    json(),
+    printf(({ meta, message }) => {
+      return `[${meta.req.method}] ${meta.req.url} || Status: ${meta.res.statusCode} || Response Time: ${meta.responseTime}ms || Message: ${message}`;
+    })
+  ),
   meta: true, // optional: control whether you want to log the meta data about the request (default to true)
-  msg: "HTTP {{req.method}} {{req.url}}", // optional: customize the default logging message. E.g. "{{res.statusCode}} {{req.method}} {{res.responseTime}}ms {{req.url}}"
-  expressFormat: true, // Use the default Express/morgan request formatting. Enabling this will override any msg if true. Will only output colors with colorize set to true
+  // msg: "HTTP {{req.method}} {{req.url}}", // optional: customize the default logging message. E.g. "{{res.statusCode}} {{req.method}} {{res.responseTime}}ms {{req.url}}"
+  expressFormat: false, // Use the default Express/morgan request formatting. Enabling this will override any msg if true. Will only output colors with colorize set to true
   colorize: false, // Color the text and status code, using the Express/morgan color palette (text: gray, status: default green, 3XX cyan, 4XX yellow, 5XX red).
 });
 
 // Error logging
 const errorLogger = expressWinston.errorLogger({
-  transports: [
-    new winston.transports.Console({
-      format: winston.format.combine(
-        winston.format.colorize(),
-        prettyPrint(),
-        winston.format.errors({ stack: true }),
-        winston.format.splat(),
-        winston.format.json()
-      ),
-    }),
-  ],
+  transports: [new winston.transports.Console()],
+  format: winston.format.combine(
+    winston.format.colorize(),
+    winston.format.json(),
+    winston.format.errors({ stack: true }),
+    winston.format.printf(({ meta, message, stack }) => {
+      return `Error occurred in ${meta.req.method} ${meta.req.url} || Message: ${message} || Stack: ${stack}`;
+    })
+  ),
 });
 
 export { logger, requestLogger, errorLogger };

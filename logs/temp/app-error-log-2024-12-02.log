@@ -1,0 +1,43 @@
+[2024-12-02 06:54:26.597 PM] error:	@@ Something went wrong : CastError: Cast to ObjectId failed for value "{
+  id: '671cee09e6637128bf805280',
+  role: 'admin',
+  iat: 1733159044,
+  exp: 1733245444
+}" (type Object) at path "user" for model "notification"
+[2024-12-02 06:54:26.603 PM] error:	@@ Something went wrong : CastError: Cast to ObjectId failed for value "{
+  id: '671cee09e6637128bf805280',
+  role: 'admin',
+  iat: 1733159044,
+  exp: 1733245444
+}" (type Object) at path "user" for model "notification"
+[2024-12-02 09:19:31.192 PM] error:	uncaughtException: Schema is not defined
+ReferenceError: Schema is not defined
+    at file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/models/Token.js:6:13
+    at ModuleJob.run (node:internal/modules/esm/module_job:217:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:316:24)
+    at async loadESM (node:internal/process/esm_loader:34:7)
+    at async handleMainPromise (node:internal/modules/run_main:66:12)
+[2024-12-02 09:29:47.363 PM] error:	@@ Email not found
+[2024-12-02 09:30:56.673 PM] error:	@@ Email already exists
+[2024-12-02 09:30:56.676 PM] error:	error Email already exists.
+[2024-12-02 09:58:18.383 PM] error:	uncaughtException: Cannot access 'Token' before initialization
+ReferenceError: Cannot access 'Token' before initialization
+    at file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/models/Token.js:17:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:217:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:316:24)
+    at async loadESM (node:internal/process/esm_loader:34:7)
+    at async handleMainPromise (node:internal/modules/run_main:66:12)
+[2024-12-02 09:58:52.663 PM] error:	uncaughtException: exp is not defined
+ReferenceError: exp is not defined
+    at file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/models/Token.js:17:36
+    at ModuleJob.run (node:internal/modules/esm/module_job:217:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:316:24)
+    at async loadESM (node:internal/process/esm_loader:34:7)
+    at async handleMainPromise (node:internal/modules/run_main:66:12)
+[2024-12-02 10:37:38.299 PM] error:	uncaughtException: Cannot access 'globalLogout' before initialization
+ReferenceError: Cannot access 'globalLogout' before initialization
+    at file:///C:/Users/Prime_Legion/Desktop/Work/ono/server/controllers/authController.js:43:41
+    at ModuleJob.run (node:internal/modules/esm/module_job:217:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:316:24)
+    at async loadESM (node:internal/process/esm_loader:34:7)
+    at async handleMainPromise (node:internal/modules/run_main:66:12)

@@ -11,6 +11,7 @@ import swaggerUi from "swagger-ui-express";
 import authRoutes from "../controllers/authController.js";
 import dbConnect from "../services/database/db.js";
 import dataRouter from "../routes/routes.js";
+import cookieParser from "cookie-parser";
 import {
   errorHandler,
   limiter,
@@ -25,16 +26,22 @@ dbConnect();
 const server = express();
 
 // middlewares
-server.use(cors());
+server.use(
+  cors({
+    origin: "http://localhost:3000", // Allow requests from this origin
+    credentials: true,
+  })
+);
 server.use(morgan("dev"));
 server.use(express.json());
 server.use(express.urlencoded({ extended: false }));
 server.use(httpLogger);
 server.use(errorLogger);
 server.use(requestLogger);
-server.use(limiter);
+// server.use(limiter);
 server.use(helmet());
-server.use(rules);
+// server.use(rules);
+server.use(cookieParser());
 import "express-async-errors";
 
 // server.use(helmet.crossOriginResourcePolicy({ policy: "cross-origin" }));
